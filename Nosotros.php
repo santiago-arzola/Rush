@@ -34,6 +34,7 @@
         <link rel="stylesheet" href="css/animate.css">
 		<!-- Main Stylesheet -->
         <link rel="stylesheet" href="css/main.css">
+		<link rel="stylesheet" href="css/mision.css">
 
 		<!-- Modernizer Script for old Browsers -->
         <script src="js/modernizr-2.6.2.min.js"></script>
@@ -98,9 +99,9 @@
 			<div class="col-sm-7 mx-auto">
 					<header class="section-header text-center">
 					<span class="h1 d-block">
-						<span>❝</span>
+						<span></span>
 					</span>
-					<h2>Happy Customers</h2>
+					<h2></h2>
 					</header>
 				</div>
 				
@@ -109,10 +110,10 @@
 					<ul class="list">
 						<li class="item">
 						<input type="radio" id="radio_testimonial-1" name="basic_carousel" checked="checked" />
-						<label class="label_testimonial-1" for="radio_testimonial-1">Diamond Pest Elimination</label>
+						<label class="label_testimonial-1" for="radio_testimonial-1">Misión</label>
 						<div class="content-test content_testimonial-1">
 							<span class="picto"></span>
-							<h1>Diamond Pest Elimination</h1>
+							<h1>Misión</h1>
 							<p>“The team really takes pride in their work. If I didn’t know any better I would think they actually worked for my company.”</p>
 							<p class="testimonialFrom">Bill, Owner</p>
 							<p class="testimonialState">Rochester, NY</p>
@@ -120,10 +121,10 @@
 						</li>
 						<li class="item">
 						<input type="radio" id="radio_testimonial-2" name="basic_carousel" />
-						<label class="label_testimonial-2" for="radio_testimonial-2">A+ Handyman Service</label>
+						<label class="label_testimonial-2" for="radio_testimonial-2">Visión</label>
 						<div class="content-test content_testimonial-2">
 							<span class="picto"></span>
-							<h1>A+ Handyman Service</h1>
+							<h1>Visión</h1>
 							<p>“Quite simply… the service offers prompt response time to my visitors and helps me to better know what type of project a potential customer wants.”</p>
 							<p class="testimonialFrom">Bill, Owner</p>
 							<p class="testimonialState">Tucson, AZ</p>
@@ -132,27 +133,16 @@
 						</li>
 						<li class="item">
 						<input type="radio" id="radio_testimonial-3" name="basic_carousel" />
-						<label class="label_testimonial-3" for="radio_testimonial-3">Mod Movers</label>
+						<label class="label_testimonial-3" for="radio_testimonial-3">Valores</label>
 						<div class="content-test content_testimonial-3">
 							<span class="picto"></span>
-							<h1>Mod Movers</h1>
+							<h1>Valores</h1>
 							<p>“I couldn’t believe it. I actually had to hire someone to help me keep up with the new business. I had no idea my website had so much value.”</p>
 							<p class="testimonialFrom">Marlene, Owner</p>
 							<p class="testimonialState">Monterey, CA</p>
 						</div>
 						</li>
-						<li class="item">
-						<input type="radio" id="radio_testimonial-4" name="basic_carousel" />
-						<label class="label_testimonial-4" for="radio_testimonial-4">AK Pest Control</label>
-						<div class="content-test content_testimonial-4">
-							<span class="picto"></span>
-							<h1>AK Pest Control</h1>
-							<p>Great company to send leads. Very efficient and pleased with the services. We get lots of leads and that whats important. Support is also great from the managers/support. Thanks YPC Chat</p>
-							<p class="testimonialFrom">Mark, Owner</p>
-							<p class="testimonialState">Somerset, VA</p>
-							<br>
-						</div>
-						</li>
+					
 					</ul>
 					</div>
 					<div id="right-zone"></div>
@@ -262,5 +252,40 @@
         <script src="js/wow.min.js"></script>
 		<!-- Custom Functions -->
         <script src="js/main.js"></script>
+		<script>
+					var testimonialItems = document.querySelectorAll(".item label");
+					var timer;
+					function cycleTestimonials(index) {
+					timer = setTimeout(function() {
+						var evt;
+						if (document.createEvent){
+						//If browser = IE, then polyfill
+						evt = document.createEvent('MouseEvent');
+						evt.initMouseEvent('click', true, true, window, 0, 0, 0, 0, 0, false, false, false, false, 0, null);
+						} else {
+						//If Browser = modern, then create new MouseEvent
+						evt = new MouseEvent("click", {
+								view: window,
+								bubbles: true,
+								cancelable: true,
+								clientX: 20
+							});
+						}
+						var ele = "." + testimonialItems[index].className;
+						var ele2 = document.querySelector(ele)
+						ele2.dispatchEvent(evt);
+						index++; // Increment the index
+						if (index >= testimonialItems.length) {
+						index = 0; // Set it back to `0` when it reaches `3`
+						}
+						cycleTestimonials(index); // recursively call `cycleTestimonials()`
+						document.querySelector(".testimonials").addEventListener("click", function() {
+						clearTimeout(timer); //stop the carousel when someone clicks on the div
+						});
+					}, 2000); //adjust scroll speed in miliseconds
+					}
+					//run the function
+					cycleTestimonials(0);
+		</script>
     </body>
 </html>
