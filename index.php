@@ -45,7 +45,7 @@
 		<!-- preloader -->
 		<div id="preloader">
             <div class="loder-box">
-            	<div class="battery"></div>
+            	<div> <img src="./Recursos/Logos/rush junio.png"></div>
             </div>
 		</div>
 		<!-- end preloader -->
@@ -67,7 +67,7 @@
 					
 					<!-- logo -->
 					<h1 class="navbar-brand">
-						<a href="#body">Blue</a>
+						<img src="./Recursos/Logos/R oficial.png" alt="logo" style="margin-left: -7rem; height: 66px; width: 80px;margin-top: -3rem;">
 					</h1>
 					<!-- /logo -->
                 </div>
@@ -104,7 +104,7 @@
 				
 					<div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
 
-						<div class="bg-img bg-img-1"></div>
+						<div><img style="width: 100%" src="./Recursos/Banner/fer.jpg"></div>
 
 						<div class="slide-caption">
                             <div class="caption-content">

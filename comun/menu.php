@@ -12,7 +12,7 @@
 					
 					<!-- logo -->
 					<h1 class="navbar-brand">
-						<a href="#body">Blue</a>
+						<img src="./Recursos/Logos/R oficial.png" alt="logo" style="margin-left: -7rem; height: 66px; width: 80px;margin-top: -3rem;">
 					</h1>
 					<!-- /logo -->
                 </div>
