@@ -121,8 +121,8 @@
 						<div class="bg-img bg-img-2"></div>
 						<div class="slide-caption">
                             <div class="caption-content">
-                                <h2 style="padding-left: 20rem;margin-left: 54rem;">Nos respaldan mas de 8 años de experiencia</h2>
-                                <span style="margin-left: 47rem;padding-right: 3rem">Dedicados a la innovación e integración tecnológica, proporcionado servicio de
+                                <h2 style="margin-top: 38rem;padding-right: 10rem;padding-left: 10rem;">Nos respaldan mas de 8 años de experiencia</h2>
+                                <span style="padding-right: 10rem;padding-left: 10rem;">Dedicados a la innovación e integración tecnológica, proporcionado servicio de
 								asesoramiento, diseño e implementación de soluciones personalizadas en TI. Combinamos las mejores metodologías y tecnología disponibles del mercado para impulsar la competitividad de su organización. Creemos en la tecnología como un acelerador de negocios.</span>
                             </div>
                         </div>
@@ -135,7 +135,7 @@
 						<div class="slide-caption">
                             <div class="caption-content">
                                 <h2 style="padding-right: 10rem;margin-right: 65rem;margin-top: 17rem;">Sectores de atención</h2>
-                                <span style="margin-right: 70rem;">Diseñamos soluciones dirigidas a los sectores productivos y de consumo del mercado, gracias al respaldo de nuestros socios comerciales, ofrecemos integraciones con la mejor tecnología. Nuestros proyectos cuentan con un alto grado de personalización, siempre con la certeza de que obtendrá los datos, mediciones y metodologías enfocados en el cumplimiento de sus objetivos.</span>
+                                <span style="margin-right: 70rem;padding-right: 2rem;">Diseñamos soluciones dirigidas a los sectores productivos y de consumo del mercado, gracias al respaldo de nuestros socios comerciales, ofrecemos integraciones con la mejor tecnología. Nuestros proyectos cuentan con un alto grado de personalización, siempre con la certeza de que obtendrá los datos, mediciones y metodologías enfocados en el cumplimiento de sus objetivos.</span>
                             </div>
                         </div>
 
@@ -380,7 +380,7 @@
 			</section>
 			<!-- end Testimonial section -->
 			
-			<!-- Price section -->
+			<!-- Transformacion Digital section -->
 			<section id="price">
 				<div class="container">
 					<div class="row">
@@ -437,14 +437,13 @@
 						<div class="row">
 						
 							<div class="sec-title text-center white wow animated fadeInDown">
-								<h2>FOLLOW US</h2>
-								<p>Beautifully simple follow buttons to help you get followers on</p>
+								<h2>SÍGUENOS</h2>
 							</div>
 							
 							<ul class="social-button">
-								<li class="wow animated zoomIn"><a href="#"><i class="fa fa-thumbs-up fa-2x"></i></a></li>
+								<li class="wow animated zoomIn"><a href="#"><i class="fa fa-facebook fa-2x"></i></a></li>
 								<li class="wow animated zoomIn" data-wow-delay="0.3s"><a href="#"><i class="fa fa-twitter fa-2x"></i></a></li>
-								<li class="wow animated zoomIn" data-wow-delay="0.6s"><a href="#"><i class="fa fa-dribbble fa-2x"></i></a></li>							
+								<li class="wow animated zoomIn" data-wow-delay="0.6s"><a href="#"><i class="fa fa-instagram fa-2x"></i></a></li>							
 							</ul>
 							
 						</div>
