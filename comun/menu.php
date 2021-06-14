@@ -20,9 +20,9 @@
 				<!-- main nav -->
                 <nav class="collapse navbar-collapse navbar-right" role="navigation">
                     <ul id="nav" class="nav navbar-nav">
-                        <li><a href="#body">Inicio</a></li>
+                        <li><a href="./index.php">Inicio</a></li>
                         <li><a href="#service">Clientes</a></li>
-                        <li><a href="#portfolio">Acerca de Nosotros</a></li>
+                        <li><a href="./Nosotros.php">Acerca de Nosotros</a></li>
                         <li><a href="#testimonials">Servicios</a></li>
                         <li><a href="#price">Contactanos</a></li>
                         <li><a href="#contact">Vinculacion</a></li>
