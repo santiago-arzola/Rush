@@ -109,7 +109,8 @@
 						<div class="slide-caption">
                             <div class="caption-content">
                                 <h2 class="animated fadeInDown" style="margin-right: 70rem;">EMPRESA LIDER EN TRANSFRORMACÍON DIGITAL</h2>
-                                <span class="animated fadeInDown" style="margin-right: 70rem;">La Procuraduría de los Derechos Humanos del Estado de Guanajuato imparte el seminario “Libertad de Expresión y Derechos de Periodistas y Personas Defensoras de Derechos Humanos”.</span>
+                                <span class="animated fadeInDown" style="margin-right: 70rem;">Desde Marzo del 2016 RushTec proporciona servicios tecnológicos, consultoría,
+								diseño e implementación de soluciones personalizadas para nuestros clientes.</span>
                             </div>
                         </div>
 						
@@ -120,8 +121,9 @@
 						<div class="bg-img bg-img-2"></div>
 						<div class="slide-caption">
                             <div class="caption-content">
-                                <h2 style="margin-left: 54rem;">Nos respaldan mas de 8 años de experiencia</h2>
-                                <span style="margin-left: 47rem;">La Procuraduría de los Derechos Humanos del Estado de Guanajuato imparte el seminario “Libertad de Expresión y Derechos de Periodistas y Personas Defensoras de Derechos Humanos”.</span>
+                                <h2 style="padding-left: 20rem;margin-left: 54rem;">Nos respaldan mas de 8 años de experiencia</h2>
+                                <span style="margin-left: 47rem;padding-right: 3rem">Dedicados a la innovación e integración tecnológica, proporcionado servicio de
+								asesoramiento, diseño e implementación de soluciones personalizadas en TI. Combinamos las mejores metodologías y tecnología disponibles del mercado para impulsar la competitividad de su organización. Creemos en la tecnología como un acelerador de negocios.</span>
                             </div>
                         </div>
 						
@@ -132,8 +134,8 @@
 						<div class="bg-img bg-img-3"></div>
 						<div class="slide-caption">
                             <div class="caption-content">
-                                <h2 style="padding-right: 10rem;margin-right: 65rem;margin-top: 8rem;">Sectores de atención</h2>
-                                <span style="margin-right: 70rem;">La Procuraduría de los Derechos Humanos del Estado de Guanajuato imparte el seminario “Libertad de Expresión y Derechos de Periodistas y Personas Defensoras de Derechos Humanos”.</span>
+                                <h2 style="padding-right: 10rem;margin-right: 65rem;margin-top: 17rem;">Sectores de atención</h2>
+                                <span style="margin-right: 70rem;">Diseñamos soluciones dirigidas a los sectores productivos y de consumo del mercado, gracias al respaldo de nuestros socios comerciales, ofrecemos integraciones con la mejor tecnología. Nuestros proyectos cuentan con un alto grado de personalización, siempre con la certeza de que obtendrá los datos, mediciones y metodologías enfocados en el cumplimiento de sus objetivos.</span>
                             </div>
                         </div>
 
