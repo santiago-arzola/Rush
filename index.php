@@ -183,7 +183,6 @@
 					
 						<div class="sec-title text-center">
 							<h2 class="wow animated bounceInLeft">Servicios</h2>
-							<p class="wow animated bounceInRight">The Key Features of our Job</p>
 						</div>
 						
 						<div class="col-md-4 col-sm-6 col-xs-12 text-center wow animated zoomIn">

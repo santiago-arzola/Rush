@@ -12,7 +12,7 @@
 					
 					<!-- logo -->
 					<h1 class="navbar-brand">
-						<img src="./Recursos/Logos/R oficial.png" alt="logo" style="margin-left: -7rem; height: 54px; width: 63px;margin-top: -2rem;">
+						<a href="./index.php"><img src="./Recursos/Logos/R oficial.png" alt="logo" style="margin-left: -7rem; height: 54px; width: 63px;margin-top: -2rem;"></a>
 					</h1>
 					<!-- /logo -->
                 </div>
