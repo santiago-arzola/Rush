@@ -132,7 +132,7 @@
 						<div class="bg-img bg-img-3"></div>
 						<div class="slide-caption">
                             <div class="caption-content">
-                                <h2 style="margin-right: 70rem;">Sectores de atención</h2>
+                                <h2 style="padding-right: 10rem;margin-right: 65rem;margin-top: 8rem;">Sectores de atención</h2>
                                 <span style="margin-right: 70rem;">La Procuraduría de los Derechos Humanos del Estado de Guanajuato imparte el seminario “Libertad de Expresión y Derechos de Periodistas y Personas Defensoras de Derechos Humanos”.</span>
                             </div>
                         </div>
