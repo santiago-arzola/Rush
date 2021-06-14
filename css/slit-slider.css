@@ -61,15 +61,15 @@
 }
 
 #nav-arrows > a {
-  border: 1px solid #fff;
+  
   color: #fff;
   display: block;
-  height: 60px;
+ 
   line-height: 76px;
   position: absolute;
   text-align: center;
   top: 50%;
-  width: 60px;
+  
   z-index: 20;
   margin-top: -30px;
 
@@ -89,8 +89,7 @@
 }
 
 #nav-arrows > a.sl-next:hover {
-	background-color: #009EE3;
-	border-color: #009EE3;
+	
 	color: #fff;
 }
 

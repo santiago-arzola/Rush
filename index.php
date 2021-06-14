@@ -108,9 +108,8 @@
 
 						<div class="slide-caption">
                             <div class="caption-content">
-                                <h2 class="animated fadeInDown">BLUE Onepage HTML5 Template</h2>
-                                <span class="animated fadeInDown">Clean and Professional one page Template</span>
-                                <a href="#" class="btn btn-blue btn-effect">Join US</a>
+                                <h2 class="animated fadeInDown" style="margin-right: 70rem;">EMPRESA LIDER EN TRANSFRORMACÍON DIGITAL</h2>
+                                <span class="animated fadeInDown" style="margin-right: 70rem;">La Procuraduría de los Derechos Humanos del Estado de Guanajuato imparte el seminario “Libertad de Expresión y Derechos de Periodistas y Personas Defensoras de Derechos Humanos”.</span>
                             </div>
                         </div>
 						
@@ -121,9 +120,8 @@
 						<div class="bg-img bg-img-2"></div>
 						<div class="slide-caption">
                             <div class="caption-content">
-                                <h2>BLUE Onepage HTML5 Template</h2>
-                                <span>Clean and Professional one page Template</span>
-                                <a href="#" class="btn btn-blue btn-effect">Join US</a>
+                                <h2 style="margin-left: 54rem;">Nos respaldan mas de 8 años de experiencia</h2>
+                                <span style="margin-left: 47rem;">La Procuraduría de los Derechos Humanos del Estado de Guanajuato imparte el seminario “Libertad de Expresión y Derechos de Periodistas y Personas Defensoras de Derechos Humanos”.</span>
                             </div>
                         </div>
 						
@@ -134,9 +132,8 @@
 						<div class="bg-img bg-img-3"></div>
 						<div class="slide-caption">
                             <div class="caption-content">
-                                <h2>BLUE Onepage HTML5 Template</h2>
-                                <span>Clean and Professional one page Template</span>
-                                <a href="#" class="btn btn-blue btn-effect">Join US</a>
+                                <h2 style="margin-right: 70rem;">Sectores de atención</h2>
+                                <span style="margin-right: 70rem;">La Procuraduría de los Derechos Humanos del Estado de Guanajuato imparte el seminario “Libertad de Expresión y Derechos de Periodistas y Personas Defensoras de Derechos Humanos”.</span>
                             </div>
                         </div>
 
