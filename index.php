@@ -215,51 +215,36 @@
 					<div class="row">
 					
 						<div class="sec-title text-center">
-							<h2 class="wow animated bounceInLeft">Service</h2>
+							<h2 class="wow animated bounceInLeft">Servicios</h2>
 							<p class="wow animated bounceInRight">The Key Features of our Job</p>
 						</div>
 						
-						<div class="col-md-3 col-sm-6 col-xs-12 text-center wow animated zoomIn">
+						<div class="col-md-4 col-sm-6 col-xs-12 text-center wow animated zoomIn">
 							<div class="service-item">
 								<div class="service-icon">
-									<i class="fa fa-home fa-3x"></i>
+									<i class="fa fa-building fa-3x"></i>
 								</div>
-								<h3>Support</h3>
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+								<h3>Inteligencia de negocios</h3>
 							</div>
 						</div>
 					
-						<div class="col-md-3 col-sm-6 col-xs-12 text-center wow animated zoomIn" data-wow-delay="0.3s">
+						<div class="col-md-4 col-sm-6 col-xs-12 text-center wow animated zoomIn" data-wow-delay="0.3s">
 							<div class="service-item">
 								<div class="service-icon">
 									<i class="fa fa-tasks fa-3x"></i>
 								</div>
-								<h3>Well Documented</h3>
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+								<h3>Logistica</h3>
 							</div>
 						</div>
 					
-						<div class="col-md-3 col-sm-6 col-xs-12 text-center wow animated zoomIn" data-wow-delay="0.6s">
+						<div class="col-md-4 col-sm-6 col-xs-12 text-center wow animated zoomIn" data-wow-delay="0.6s">
 							<div class="service-item">
 								<div class="service-icon">
-									<i class="fa fa-clock-o fa-3x"></i>
+									<i class="fa fa-gear fa-3x"></i>
 								</div>
-								<h3>Design UI/UX</h3>
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+								<h3>Infraestructura</h3>
 							</div>
-						</div>
-					
-						<div class="col-md-3 col-sm-6 col-xs-12 text-center wow animated zoomIn" data-wow-delay="0.9s">
-							<div class="service-item">
-								<div class="service-icon">
-									<i class="fa fa-heart fa-3x"></i>
-								</div>
-								
-								<h3>Web Security</h3>
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>							
-							</div>
-						</div>
-						
+						</div>	
 					</div>
 				</div>
 			</section>
@@ -356,7 +341,7 @@
 			<!-- end portfolio section -->
 			
 			<!-- Testimonial section -->
-			<section id="testimonials" class="parallax">
+			<section id="testimonials" class="parallax" style="display: none;">
 				<div class="overlay">
 					<div class="container">
 						<div class="row">
@@ -401,66 +386,47 @@
 					<div class="row">
 					
 						<div class="sec-title text-center wow animated fadeInDown">
-							<h2>Price</h2>
-							<p>Our price for your company</p>
+							<h2>Transformacion Digital</h2>
+							<p>Somos especialistas en transformación digital, contamos con personal calificado en Tecnologías de la Información, que permite ofrecer soluciones tecnológicas de excelencia en sus áreas de especialidad.</p>
 						</div>
 						
-						<div class="col-md-4 wow animated fadeInUp">
-							<div class="price-table text-center">
-								<span>Silver</span>
-								<div class="value">
-									<span>$</span>
-									<span>24,35</span><br>
-									<span>month</span>
-								</div>
-								<ul>
-									<li>No Bonus Points</li>
-									<li>No Bonus Points</li>
-									<li>No Bonus Points</li>
-									<li>No Bonus Points</li>
-									<li><a href="#">sign up</a></li>
-								</ul>
-							</div>
-						</div>
-						
-						<div class="col-md-4 wow animated fadeInUp" data-wow-delay="0.4s">
-							<div class="price-table featured text-center">
-								<span>Gold</span>
-								<div class="value">
-									<span>$</span>
-									<span>50,00</span><br>
-									<span>month</span>
-								</div>
-								<ul>
-									<li>Free Trial</li>
-									<li>Free Trial</li>
-									<li>Free Trial</li>
-									<li>Free Trial</li>
-									<li><a href="#">sign up</a></li>
-								</ul>
-							</div>
-						</div>
-						
-						<div class="col-md-4 wow animated fadeInUp" data-wow-delay="0.8s">
-							<div class="price-table text-center">
-								<span>Diamond</span>
-								<div class="value">
-									<span>$</span>
-									<span>123,12</span><br>
-									<span>month</span>
-								</div>
-								<ul>
-									<li>All Bonus Points</li>
-									<li>All Bonus Points</li>
-									<li>All Bonus Points</li>
-									<li>All Bonus Points</li>
-									<li><a href="#">sign up</a></li>
-								</ul>
-							</div>
-						</div>
-		
-					</div>
-				</div>
+						<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+                    <div class="full text_align_center margin_bottom_30">
+                        <div class="center">
+                            <div class="icon"> <img src="Recursos/Trans-dig/ciscologo.png" style="height: 100px; width: auto;padding-left: 9rem;"> </div>
+                        </div>
+                        <h4 class="theme_color">Cisco Certified</h4>
+                        <p>Cisco Certified Network Associate</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+                    <div class="full text_align_center margin_bottom_30">
+                        <div class="center">
+                            <div class="icon"> <img src="Recursos/Trans-dig/itl.png" style="height: 100px; width: auto; padding: 19px;padding-left: 4rem;"> </div>
+                        </div>
+                        <h4 class="theme_color">ITIL</h4>
+                        <p>The IT Infrastructure Library</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+                    <div class="full text_align_center margin_bottom_30">
+                        <div class="center">
+                            <div class="icon"> <img src="Recursos/Trans-dig/cobit.png" style="height: 100px; width: auto; padding: 22px;padding-left: 5rem;"> </div>
+                        </div>
+                        <h4 class="theme_color">COBIT</h4>
+                        <p>Control Objectives for Information and Related Technology</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+                    <div class="full text_align_center margin_bottom_30">
+                        <div class="center">
+                            <div class="icon"> <img src="Recursos/Trans-dig/cmmi.png" style="height: 100px; width: auto; padding:15px;padding-left: 10rem;"></div>
+                        </div>
+                        <h4 class="theme_color">CMMI</h4>
+                        <p>Capability Maturity Model Integration</p>
+                    </div>
+                </div>
+			</div>
 			</section>
 			<!-- end Price section -->
 			
