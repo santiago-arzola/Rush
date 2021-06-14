@@ -53,30 +53,7 @@
         <!--
         Fixed Navigation
         ==================================== -->
-<<<<<<< HEAD
-        
-=======
-        <header id="navigation" class="navbar-inverse navbar-fixed-top animated-header">
-            <div class="container">
-                <div class="navbar-header">
-                    <!-- responsive nav button -->
-					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-						<span class="sr-only">Toggle navigation</span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-                    </button>
-					<!-- /responsive nav button -->
-					
-					<!-- logo -->
-					<h1 class="navbar-brand">
-						<img src="./Recursos/Logos/R oficial.png" alt="logo" style="margin-left: -7rem; height: 54px; width: 63px;margin-top: -2rem;">
-					</h1>
-					<!-- /logo -->
-                </div>
->>>>>>> 26ba8de752a6d71afe145a1129b67c6a36376930
-
-		
+       <?php include_once('comun/menu.php') ?>
         <!--
         End Fixed Navigation
         ==================================== -->
@@ -331,43 +308,7 @@
 			<!-- end portfolio section -->
 			
 			<!-- Testimonial section -->
-			<section id="testimonials" class="parallax" style="display: none;">
-				<div class="overlay">
-					<div class="container">
-						<div class="row">
-						
-							<div class="sec-title text-center white wow animated fadeInDown">
-								<h2>What people say</h2>
-							</div>
-							
-							<div id="testimonial" class=" wow animated fadeInUp">
-								<div class="testimonial-item text-center">
-									<img src="img/member-1.jpg" alt="Our Clients">
-									<div class="clearfix">
-										<span>Katty Flower</span>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-									</div>
-								</div>
-								<div class="testimonial-item text-center">
-									<img src="img/member-1.jpg" alt="Our Clients">
-									<div class="clearfix">
-										<span>Katty Flower</span>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-									</div>
-								</div>
-								<div class="testimonial-item text-center">
-									<img src="img/member-1.jpg" alt="Our Clients">
-									<div class="clearfix">
-										<span>Katty Flower</span>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-									</div>
-								</div>
-							</div>
-						
-						</div>
-					</div>
-				</div>
-			</section>
+			
 			<!-- end Testimonial section -->
 			
 			<!-- Transformacion Digital section -->
