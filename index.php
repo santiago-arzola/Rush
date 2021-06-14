@@ -53,30 +53,7 @@
         <!--
         Fixed Navigation
         ==================================== -->
-<<<<<<< HEAD
-        
-=======
-        <header id="navigation" class="navbar-inverse navbar-fixed-top animated-header">
-            <div class="container">
-                <div class="navbar-header">
-                    <!-- responsive nav button -->
-					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-						<span class="sr-only">Toggle navigation</span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-                    </button>
-					<!-- /responsive nav button -->
-					
-					<!-- logo -->
-					<h1 class="navbar-brand">
-						<img src="./Recursos/Logos/R oficial.png" alt="logo" style="margin-left: -7rem; height: 54px; width: 63px;margin-top: -2rem;">
-					</h1>
-					<!-- /logo -->
-                </div>
->>>>>>> 26ba8de752a6d71afe145a1129b67c6a36376930
-
-		
+       <?php include_once('comun/menu.php') ?>
         <!--
         End Fixed Navigation
         ==================================== -->
