@@ -391,7 +391,7 @@
 			
 			<!-- Contact section -->
 			
-			<?php include_once('comun/Contacto.php') ?>
+			<?php include_once('Contacto.php') ?>
 			
 			<!-- end Contact section -->
 			
