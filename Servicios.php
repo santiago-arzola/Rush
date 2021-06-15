@@ -68,7 +68,7 @@
         <p>Healtech</p></b>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-primary" style="color: white;" data-dismiss="modal">Conocer más</button>
+        <button type="button" class="btn btn-primary" onclick="location.href='./IN.php'" style="color: white;" data-dismiss="modal">Conocer más</button>
       </div>
     </div>
   </div>
@@ -92,7 +92,7 @@
         <p>Fintech</p></b>
       </div>
       <div class="modal-footer">
-         <button type="button" class="btn btn-primary" style="color: white;" data-dismiss="modal">Conocer más</button>
+         <button type="button" class="btn btn-primary" onclick="location.href='./IN.php'" style="color: white;" data-dismiss="modal">Conocer más</button>
       </div>
     </div>
   </div>
@@ -116,7 +116,7 @@
         <p>Almacenamiento</p></b>
       </div>
       <div class="modal-footer">
-         <button type="button" class="btn btn-primary" style="color: white;" data-dismiss="modal">Conocer más</button>
+         <button type="button" class="btn btn-primary" onclick="location.href='./IN.php'" style="color: white;" data-dismiss="modal">Conocer más</button>
       </div>
     </div>
   </div>

@@ -6,7 +6,7 @@
         <meta charset="utf-8">
 		<!-- Always force latest IE rendering engine or request Chrome Frame -->
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Contacto</title>		
+        <title>Inteligencia de Negocios</title>		
 		<!-- Meta Description -->
         <meta name="description" content="Blue One Page Creative HTML5 Template">
         <meta name="keywords" content="one page, single page, onepage, responsive, parallax, creative, business, html5, css3, css3 animation">
@@ -58,85 +58,98 @@
         End Fixed Navigation
         ==================================== -->
 <!-- portfolio section -->
-            <section id="portfolio">
+            <section id="portfolio" style="margin-top: 14rem;margin-bottom: 7rem;">
                 <div class="container">
                     <div class="row">
                     
                         <div class="sec-title text-center wow animated fadeInDown">
-                            <h2>FEATURED PROJECTS</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <h2>INTELIGENCIA DE NEGOCIOS</h2>
+                            <p>Nuestro servicios asociados a la inteligencia de negocios.</p>
                         </div>
                         
 
                         <ul class="project-wrapper wow animated fadeInUp">
                             <li class="portfolio-item">
-                                <img src="img/portfolio/item.jpg" class="img-responsive" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat">
+                                <img class="img-responsive" src="./Recursos/Servicios/IN/legal.jpg">
                                 <figcaption class="mask">
-                                    <h3>Wall street</h3>
+                                    <h3>LEGALTEACH</h3>
                                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting ndustry. </p>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" title="Araund The world" data-fancybox-group="works" href="img/portfolio/item.jpg"><i class="fa fa-search"></i></a></li>
+                                    <li><a class="fancybox" title="LEGALTEACH" data-fancybox-group="works" href="./Recursos/Servicios/IN/legal.jpg"><i class="fa fa-search"></i></a></li>
                                     <li><a href=""><i class="fa fa-link"></i></a></li>
                                 </ul>
                             </li>
                             
                             <li class="portfolio-item">
-                                <img src="img/portfolio/item2.jpg" class="img-responsive" alt="Lorem Ipsum is simply dummy text of the printing and typesetting ndustry. ">
+                                <img class="img-responsive" src="./Recursos/Servicios/IN/heal.jpg">
                                 <figcaption class="mask">
-                                    <h3>Wall street</h3>
+                                    <h3>HEALTEACH</h3>
                                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting ndustry. </p>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" title="Wall street" href="img/slider/banner.jpg" data-fancybox-group="works" ><i class="fa fa-search"></i></a></li>
+                                    <li><a class="fancybox" title="HEALTEACH" data-fancybox-group="works" href="./Recursos/Servicios/IN/heal.jpg"><i class="fa fa-search"></i></a></li>
                                     <li><a href=""><i class="fa fa-link"></i></a></li>
                                 </ul>
                             </li>
                             
                             <li class="portfolio-item">
-                                <img src="img/portfolio/item3.jpg" class="img-responsive" alt="Lorem Ipsum is simply dummy text of the printing and typesetting ndustry. ">
+                                <img class="img-responsive" src="./Recursos/Servicios/IN/bim.jpg">
                                 <figcaption class="mask">
-                                    <h3>Wall street</h3>
+                                    <h3>BIM</h3>
                                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting ndustry. </p>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" title="Behind The world" data-fancybox-group="works" href="img/portfolio/item3.jpg"><i class="fa fa-search"></i></a></li>
+                                    <li><a class="fancybox" title="BIM" data-fancybox-group="works" href="./Recursos/Servicios/IN/bim.jpg"><i class="fa fa-search"></i></a></li>
                                     <li><a href=""><i class="fa fa-link"></i></a></li>
                                 </ul>
                             </li>
                             
                             <li class="portfolio-item">
-                                <img src="img/portfolio/item4.jpg" class="img-responsive" alt="Lorem Ipsum is simply dummy text of the printing and typesetting ndustry.">
+                               <img class="img-responsive" src="./Recursos/Servicios/IN/software.jpg">
                                 <figcaption class="mask">
-                                    <h3>Wall street</h3>
+                                    <h3>SOFTWARE ESPECIALIZADO</h3>
                                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting ndustry. </p>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" title="Wall street 4" data-fancybox-group="works" href="img/portfolio/item4.jpg"><i class="fa fa-search"></i></a></li>
+                                    <li><a class="fancybox" title="SOFTWARE ESPECIALIZADO" data-fancybox-group="works" href="./Recursos/Servicios/IN/software.jpg"><i class="fa fa-search"></i></a></li>
                                     <li><a href=""><i class="fa fa-link"></i></a></li>
                                 </ul>
                             </li>
                             
                             <li class="portfolio-item">
-                                <img src="img/portfolio/item5.jpg" class="img-responsive" alt="Lorem Ipsum is simply dummy text of the printing and typesetting ndustry. ">
+                                <img class="img-responsive" src="./Recursos/Servicios/IN/cloud.jpg">
                                 <figcaption class="mask">
-                                    <h3>Wall street</h3>
+                                    <h3>CLOUD COMPUTING</h3>
                                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting ndustry. </p>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" title="Wall street 5" data-fancybox-group="works" href="img/portfolio/item5.jpg"><i class="fa fa-search"></i></a></li>
+                                    <li><a class="fancybox" title="CLOUD COMPUTING" data-fancybox-group="works" href="./Recursos/Servicios/IN/cloud.jpg"><i class="fa fa-search"></i></a></li>
                                     <li><a href=""><i class="fa fa-link"></i></a></li>
                                 </ul>
                             </li>
-                            
-                            <li class="portfolio-item">
-                                <img src="img/portfolio/item6.jpg" class="img-responsive" alt="Lorem Ipsum is simply dummy text of the printing and typesetting ndustry. ">
+
+                             <li class="portfolio-item" >
+                                <img class="img-responsive" src="./Recursos/Servicios/IN/consulting.jpg">
                                 <figcaption class="mask">
-                                    <h3>Wall street</h3>
+                                    <h3>CONSULTORIA ESPECIALIZADA</h3>
                                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting ndustry. </p>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" title="Wall street 6" data-fancybox-group="works" href="img/portfolio/item6.jpg"><i class="fa fa-search"></i></a></li>
+                                    <li><a class="fancybox" title="CONSULTORIA ESPECIALIZADA" data-fancybox-group="works" href="./Recursos/Servicios/IN/consulting.jpg"><i class="fa fa-search"></i></a></li>
+                                    <li><a href=""><i class="fa fa-link"></i></a></li>
+                                </ul>
+                            </li>
+
+
+                            <li class="portfolio-item" style="margin-right: 82rem;">
+                                <img class="img-responsive" src="./Recursos/Servicios/IN/bigdata.jpg">
+                                <figcaption class="mask">
+                                    <h3>BIG DATA</h3>
+                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting ndustry. </p>
+                                </figcaption>
+                                <ul class="external">
+                                    <li><a class="fancybox" title="BIG DATA" href="./Recursos/Servicios/IN/bigdata.jpg" data-fancybox-group="works" ><i class="fa fa-search"></i></a></li>
                                     <li><a href=""><i class="fa fa-link"></i></a></li>
                                 </ul>
                             </li>
