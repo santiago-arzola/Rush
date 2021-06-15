@@ -59,7 +59,7 @@
         ==================================== -->
 
         <!-- Contact section -->
-            <section id="contact" >
+            <section id="contact" style="margin-top: 13rem;margin-bottom: 7rem;">
                 <div class="container">
                     <div class="row">
                         

@@ -40,7 +40,7 @@
 
     </head>
     <style>
-        h5{
+        h3{
             text-align: center;
             font-weight: bold;
             text-transform: uppercase;
@@ -55,7 +55,7 @@
   <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLongTitle">Inteligencia de Negocios</h5>
+        <h3 class="modal-title" id="exampleModalLongTitle">Inteligencia de Negocios</h3>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -64,7 +64,7 @@
         ...
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" style="color: white;" data-dismiss="modal">Cerrar</button>
       </div>
     </div>
   </div>
@@ -75,7 +75,7 @@
   <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLongTitle">Logistica</h5>
+        <h3 class="modal-title" id="exampleModalLongTitle">Logística</h3>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -84,7 +84,7 @@
         ...
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+         <button type="button" class="btn btn-primary" style="color: white;" data-dismiss="modal">Cerrar</button>
       </div>
     </div>
   </div>
@@ -95,7 +95,7 @@
   <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLongTitle">Infraestructura</h5>
+        <h3 class="modal-title" id="exampleModalLongTitle">Infraestructura</h3>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -104,7 +104,7 @@
         ...
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+         <button type="button" class="btn btn-primary" style="color: white;" data-dismiss="modal">Cerrar</button>
       </div>
     </div>
   </div>
@@ -128,7 +128,7 @@
 
 
             <!-- Service section -->
-            <section id="service" style="margin-top: 13rem;">
+            <section id="service" style="margin-top: 13rem;margin-bottom: 7rem;">
                 <div class="container">
                     <div class="row" style="background: #dcdcdc57;height: 35rem;">
                     
@@ -150,7 +150,7 @@
                                 <div class="service-icon">
                                     <i class="fa fa-tasks fa-3x"></i>
                                 </div>
-                                <h3>Logistica</h3>
+                                <h3>Logística</h3>
                             </div>
                         </div>
                     

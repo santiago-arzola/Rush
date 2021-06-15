@@ -203,7 +203,7 @@
 									<div class="service-icon">
 										<i class="fa fa-tasks fa-3x"></i>
 									</div>
-									<h3>Logistica</h3>
+									<h3>Logística</h3>
 								</a>
 							</div>
 						</div>
@@ -323,7 +323,7 @@
 					<div class="row">
 					
 						<div class="sec-title text-center wow animated fadeInDown">
-							<h2>Transformacion Digital</h2>
+							<h2>Transformación Digital</h2>
 							<p>Somos especialistas en transformación digital, contamos con personal calificado en Tecnologías de la Información, que permite ofrecer soluciones tecnológicas de excelencia en sus áreas de especialidad.</p>
 						</div>
 						
@@ -432,7 +432,7 @@
 			</section>
 			<!-- end Contact section -->
 			
-			<section id="google-map">
+			<section id="google-map" style="display: none;">
 				<div id="map-canvas" class="wow animated fadeInUp"></div>
 			</section>
 		
