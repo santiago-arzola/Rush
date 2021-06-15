@@ -183,33 +183,39 @@
 					
 						<div class="sec-title text-center">
 							<h2 class="wow animated bounceInLeft">Servicios</h2>
-							<p class="wow animated bounceInRight">The Key Features of our Job</p>
 						</div>
 						
 						<div class="col-md-4 col-sm-6 col-xs-12 text-center wow animated zoomIn">
 							<div class="service-item">
-								<div class="service-icon">
-									<i class="fa fa-building fa-3x"></i>
-								</div>
-								<h3>Inteligencia de negocios</h3>
+								<a style="color: #818181;" href="./Servicios.php">
+									<div class="service-icon">
+										<i class="fa fa-building fa-3x"></i>
+									</div>
+									<h3>Inteligencia de negocios</h3>
+								</a>
 							</div>
+						
 						</div>
 					
 						<div class="col-md-4 col-sm-6 col-xs-12 text-center wow animated zoomIn" data-wow-delay="0.3s">
 							<div class="service-item">
-								<div class="service-icon">
-									<i class="fa fa-tasks fa-3x"></i>
-								</div>
-								<h3>Logistica</h3>
+								<a style="color: #818181;" href="./Servicios.php">
+									<div class="service-icon">
+										<i class="fa fa-tasks fa-3x"></i>
+									</div>
+									<h3>Logística</h3>
+								</a>
 							</div>
 						</div>
 					
 						<div class="col-md-4 col-sm-6 col-xs-12 text-center wow animated zoomIn" data-wow-delay="0.6s">
 							<div class="service-item">
-								<div class="service-icon">
-									<i class="fa fa-gear fa-3x"></i>
-								</div>
-								<h3>Infraestructura</h3>
+								<a style="color: #818181;" href="./Servicios.php">
+									<div class="service-icon">
+										<i class="fa fa-gear fa-3x"></i>
+									</div>
+									<h3>Infraestructura</h3>
+								</a>
 							</div>
 						</div>	
 					</div>
@@ -218,7 +224,7 @@
 			<!-- end Service section -->
 			
 			<!-- portfolio section -->
-			<section id="portfolio">
+			<section id="portfolio" style="display: none;">
 				<div class="container">
 					<div class="row">
 					
@@ -312,12 +318,12 @@
 			<!-- end Testimonial section -->
 			
 			<!-- Transformacion Digital section -->
-			<section id="price">
+			<section id="TransformacionDigital">
 				<div class="container">
 					<div class="row">
 					
 						<div class="sec-title text-center wow animated fadeInDown">
-							<h2>Transformacion Digital</h2>
+							<h2>Transformación Digital</h2>
 							<p>Somos especialistas en transformación digital, contamos con personal calificado en Tecnologías de la Información, que permite ofrecer soluciones tecnológicas de excelencia en sus áreas de especialidad.</p>
 						</div>
 						
@@ -384,85 +390,22 @@
 			<!-- end Social section -->
 			
 			<!-- Contact section -->
-			<section id="contact" >
-				<div class="container">
-					<div class="row">
-						
-						<div class="sec-title text-center wow animated fadeInDown">
-							<h2>Contact</h2>
-							<p>Leave a Message</p>
-						</div>
-						
-						
-						<div class="col-md-7 contact-form wow animated fadeInLeft">
-							<form action="#" method="post">
-								<div class="input-field">
-									<input type="text" name="name" class="form-control" placeholder="Your Name...">
-								</div>
-								<div class="input-field">
-									<input type="email" name="email" class="form-control" placeholder="Your Email...">
-								</div>
-								<div class="input-field">
-									<input type="text" name="subject" class="form-control" placeholder="Subject...">
-								</div>
-								<div class="input-field">
-									<textarea name="message" class="form-control" placeholder="Messages..."></textarea>
-								</div>
-						       	<button type="submit" id="submit" class="btn btn-blue btn-effect">Send</button>
-							</form>
-						</div>
-						
-						<div class="col-md-5 wow animated fadeInRight">
-							<address class="contact-details">
-								<h3>Contact Us</h3>						
-								<p><i class="fa fa-pencil"></i>Phoenix Inc.<span>PO Box 345678</span> <span>Little Lonsdale St, Melbourne </span><span>Australia</span></p><br>
-								<p><i class="fa fa-phone"></i>Phone: (415) 124-5678 </p>
-								<p><i class="fa fa-envelope"></i>website@yourname.com</p>
-							</address>
-						</div>
 			
-					</div>
-				</div>
-			</section>
+			<?php include_once('comun/Contacto.php') ?>
+			
 			<!-- end Contact section -->
 			
-			<section id="google-map">
+			<section id="google-map" style="display: none;">
 				<div id="map-canvas" class="wow animated fadeInUp"></div>
 			</section>
-		
+
+			
+			<?php include_once('comun/footer.php') ?>
+			
 		</main>
 		
-		<footer id="footer">
-			<div class="container">
-				<div class="row text-center">
-					<div class="footer-content">
-						<div class="wow animated fadeInDown">
-							<p>newsletter signup</p>
-							<p>Get Cool Stuff! We hate spam!</p>
-						</div>
-						<form action="#" method="post" class="subscribe-form wow animated fadeInUp">
-							<div class="input-field">
-								<input type="email" class="subscribe form-control" placeholder="Enter Your Email...">
-								<button type="submit" class="submit-icon">
-									<i class="fa fa-paper-plane fa-lg"></i>
-								</button>
-							</div>
-						</form>
-						<div class="footer-social">
-							<ul>
-								<li class="wow animated zoomIn"><a href="#"><i class="fa fa-thumbs-up fa-3x"></i></a></li>
-								<li class="wow animated zoomIn" data-wow-delay="0.3s"><a href="#"><i class="fa fa-twitter fa-3x"></i></a></li>
-								<li class="wow animated zoomIn" data-wow-delay="0.6s"><a href="#"><i class="fa fa-skype fa-3x"></i></a></li>
-								<li class="wow animated zoomIn" data-wow-delay="0.9s"><a href="#"><i class="fa fa-dribbble fa-3x"></i></a></li>
-								<li class="wow animated zoomIn" data-wow-delay="1.2s"><a href="#"><i class="fa fa-youtube fa-3x"></i></a></li>
-							</ul>
-						</div>
-						
-						<p>Copyright &copy; 2014-2015 Design and Developed By<a href="http://www.themefisher.com">Themefisher</a> </p>
-					</div>
-				</div>
-			</div>
-		</footer>
+		
+		
 		
 		<!-- Essential jQuery Plugins
 		================================================== -->

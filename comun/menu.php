@@ -12,7 +12,7 @@
 					
 					<!-- logo -->
 					<h1 class="navbar-brand">
-						<img src="./Recursos/Logos/R oficial.png" alt="logo" style="margin-left: -7rem; height: 54px; width: 63px;margin-top: -2rem;">
+						<a href="./index.php"><img src="./Recursos/Logos/R oficial.png" alt="logo" style="margin-left: -7rem; height: 54px; width: 63px;margin-top: -2rem;"></a>
 					</h1>
 					<!-- /logo -->
                 </div>
@@ -21,11 +21,11 @@
                 <nav class="collapse navbar-collapse navbar-right" role="navigation">
                     <ul id="nav" class="nav navbar-nav">
                         <li><a href="./index.php">Inicio</a></li>
-                        <li><a href="#service">Clientes</a></li>
+                        <li><a href="#">Clientes</a></li>
                         <li><a href="./Nosotros.php">Acerca de Nosotros</a></li>
-                        <li><a href="#testimonials">Servicios</a></li>
-                        <li><a href="#price">Contactanos</a></li>
-                        <li><a href="#contact">Vinculacion</a></li>
+                        <li><a href="./Servicios.php">Servicios</a></li>
+                        <li><a href="./Contacto.php">Contactanos</a></li>
+                        <li><a href="#">Vinculacion</a></li>
                     </ul>
                 </nav>
 				<!-- /main nav -->
