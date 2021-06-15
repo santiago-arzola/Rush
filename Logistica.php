@@ -63,61 +63,59 @@
                     <div class="row">
                     
                         <div class="sec-title text-center wow animated fadeInDown">
-                            <h2>Logistica</h2>
-                            <p>Nuestro servicios asociados a la inteligencia de negocios.</p>
+                            <h2>Logística</h2>
+                            <p>Nuestro servicios asociados a Logística.</p>
                         </div>
                         
 
                         <ul class="project-wrapper wow animated fadeInUp">
                             <li class="portfolio-item">
-                                <img class="img-responsive" src="./Recursos/Servicios/IN/legal.jpg" alt="Ofrecemos servicios jurídicos con ayuda de la tecnología y softwares especializados
-
-">
+                                <img class="img-responsive" src="./Recursos/Servicios/Logis/ecommerce.jpg" alt="Únase a las nuevas tendencias tecnológicas; abra su propia sucursal en línea y descubra nuevos clientes y mercados.">
                                 <figcaption class="mask">
-                                    <h3>LEGALTEACH</h3>
+                                    <h3>E-commerce</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" title="LEGALTEACH"  data-fancybox-group="works" href="./Recursos/Servicios/IN/legal.jpg"><i class="fa fa-search"></i></a></li>
+                                    <li><a class="fancybox" title="LEGALTEACH"  data-fancybox-group="works" href="./Recursos/Servicios/Logis/ecommerce.jpg"><i class="fa fa-search"></i></a></li>
                                 </ul>
                             </li>
                             
                             <li class="portfolio-item">
-                                <img class="img-responsive" src="./Recursos/Servicios/IN/heal.jpg" alt=" ">
+                                <img class="img-responsive" src="./Recursos/Servicios/Logis/logistics.jpg" alt="Hacemos uso adecuado de nuestros recursos para el logro de objetivos.">
                                 <figcaption class="mask">
-                                    <h3>HEALTEACH</h3>
+                                    <h3>Logística</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" title="HEALTEACH" data-fancybox-group="works" href="./Recursos/Servicios/IN/heal.jpg" ><i class="fa fa-search"></i></a></li>
+                                    <li><a class="fancybox" title="HEALTEACH" data-fancybox-group="works" href="./Recursos/Servicios/Logis/logistics.jpg" ><i class="fa fa-search"></i></a></li>
                                 </ul>
                             </li>
                             
                             <li class="portfolio-item">
-                                <img class="img-responsive" src="./Recursos/Servicios/IN/bim.jpg" alt="Building Information Model">
+                                <img class="img-responsive" src="./Recursos/Servicios/Logis/socialmedia.jpg" alt="Nos mantenemos a la vanguardia, siempre pensando en el bienestar presente y futuro de nuestros clientes.">
                                 <figcaption class="mask">
-                                    <h3>BIM</h3>
+                                    <h3>Social Media Strategist</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" title="BIM" data-fancybox-group="works" href="./Recursos/Servicios/IN/bim.jpg" ><i class="fa fa-search"></i></a></li>
+                                    <li><a class="fancybox" title="BIM" data-fancybox-group="works" href="./Recursos/Servicios/Logis/socialmedia.jpg" ><i class="fa fa-search"></i></a></li>
                                 </ul>
                             </li>
                             
                             <li class="portfolio-item">
-                               <img class="img-responsive" src="./Recursos/Servicios/IN/software.jpg" alt="Ayudamos a crear herramientas de software justo como su empresa o negocio lo necesita.">
+                               <img class="img-responsive" src="./Recursos/Servicios/Logis/branding.jpg" alt=" ">
                                 <figcaption class="mask">
-                                    <h3>SOFTWARE ESPECIALIZADO</h3>
+                                    <h3>Branding</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" title="SOFTWARE ESPECIALIZADO" data-fancybox-group="works" href="./Recursos/Servicios/IN/software.jpg" ><i class="fa fa-search"></i></a></li>
+                                    <li><a class="fancybox" title="SOFTWARE ESPECIALIZADO" data-fancybox-group="works" href="./Recursos/Servicios/Logis/branding.jpg" ><i class="fa fa-search"></i></a></li>
                                 </ul>
                             </li>
                             
                             <li class="portfolio-item">
-                                <img class="img-responsive" src="./Recursos/Servicios/IN/cloud.jpg" alt="Ofrecemos servicios de computación a través de internet (computación en la nube).">
+                                <img class="img-responsive" src="./Recursos/Servicios/Logis/fintech.jpg" alt=" ">
                                 <figcaption class="mask">
-                                    <h3>CLOUD COMPUTING</h3>
+                                    <h3>Fintech</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" title="CLOUD COMPUTING" data-fancybox-group="works" href="./Recursos/Servicios/IN/cloud.jpg" ><i class="fa fa-search"></i></a></li>
+                                    <li><a class="fancybox" title="CLOUD COMPUTING" data-fancybox-group="works" href="./Recursos/Servicios/Logis/fintech.jpg" ><i class="fa fa-search"></i></a></li>
                                 </ul>
                             </li>
 
