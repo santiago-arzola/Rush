@@ -35,7 +35,7 @@
 		<!-- Main Stylesheet -->
         <link rel="stylesheet" href="css/main.css">
 		<link rel="stylesheet" href="css/mision.css">
-
+		
 		<!-- Modernizer Script for old Browsers -->
         <script src="js/modernizr-2.6.2.min.js"></script>
 
@@ -105,48 +105,7 @@
 					</header>
 				</div>
 				
-				<div id="flex-container" class="testimonials">
-					<div id="left-zone">
-					<ul class="list">
-						<li class="item">
-						<input type="radio" id="radio_testimonial-1" name="basic_carousel" checked="checked" />
-						<label class="label_testimonial-1" for="radio_testimonial-1">Misión</label>
-						<div class="content-test content_testimonial-1">
-							<span class="picto"></span>
-							<h1>Misión</h1>
-							<p>“The team really takes pride in their work. If I didn’t know any better I would think they actually worked for my company.”</p>
-							<p class="testimonialFrom">Bill, Owner</p>
-							<p class="testimonialState">Rochester, NY</p>
-						</div>
-						</li>
-						<li class="item">
-						<input type="radio" id="radio_testimonial-2" name="basic_carousel" />
-						<label class="label_testimonial-2" for="radio_testimonial-2">Visión</label>
-						<div class="content-test content_testimonial-2">
-							<span class="picto"></span>
-							<h1>Visión</h1>
-							<p>“Quite simply… the service offers prompt response time to my visitors and helps me to better know what type of project a potential customer wants.”</p>
-							<p class="testimonialFrom">Bill, Owner</p>
-							<p class="testimonialState">Tucson, AZ</p>
-							<br>
-						</div>
-						</li>
-						<li class="item">
-						<input type="radio" id="radio_testimonial-3" name="basic_carousel" />
-						<label class="label_testimonial-3" for="radio_testimonial-3">Valores</label>
-						<div class="content-test content_testimonial-3">
-							<span class="picto"></span>
-							<h1>Valores</h1>
-							<p>“I couldn’t believe it. I actually had to hire someone to help me keep up with the new business. I had no idea my website had so much value.”</p>
-							<p class="testimonialFrom">Marlene, Owner</p>
-							<p class="testimonialState">Monterey, CA</p>
-						</div>
-						</li>
-					
-					</ul>
-					</div>
-					<div id="right-zone"></div>
-				</div>
+				
 
 
 			
