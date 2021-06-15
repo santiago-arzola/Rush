@@ -395,8 +395,7 @@
 					<div class="row">
 						
 						<div class="sec-title text-center wow animated fadeInDown">
-							<h2>Contact</h2>
-							<p>Leave a Message</p>
+							<h2>Contáctanos</h2>
 						</div>
 						
 						

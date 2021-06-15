@@ -64,35 +64,34 @@
                     <div class="row">
                         
                         <div class="sec-title text-center wow animated fadeInDown">
-                            <h2>Contact</h2>
-                            <p>Leave a Message</p>
+                            <h2>Contáctanos</h2>
                         </div>
                         
                         
                         <div class="col-md-7 contact-form wow animated fadeInLeft">
                             <form action="#" method="post">
                                 <div class="input-field">
-                                    <input type="text" name="name" class="form-control" placeholder="Your Name...">
+                                    <input type="text" name="name" class="form-control" placeholder="Nombre">
                                 </div>
                                 <div class="input-field">
-                                    <input type="email" name="email" class="form-control" placeholder="Your Email...">
+                                    <input type="email" name="email" class="form-control" placeholder="Correo">
                                 </div>
                                 <div class="input-field">
-                                    <input type="text" name="subject" class="form-control" placeholder="Subject...">
+                                    <input type="text" name="subject" class="form-control" placeholder="Asunto">
                                 </div>
                                 <div class="input-field">
-                                    <textarea name="message" class="form-control" placeholder="Messages..."></textarea>
+                                    <textarea name="message" class="form-control" placeholder="Mensaje"></textarea>
                                 </div>
-                                <button type="submit" id="submit" class="btn btn-blue btn-effect">Send</button>
+                                <button type="submit" id="submit" class="btn btn-blue btn-effect">Enviar</button>
                             </form>
                         </div>
                         
-                        <div class="col-md-5 wow animated fadeInRight">
+                        <div class="col-md-5 wow animated fadeInRight" style="MARGIN-TOP: -24px;">
                             <address class="contact-details">
-                                <h3>Contact Us</h3>                     
-                                <p><i class="fa fa-pencil"></i>Phoenix Inc.<span>PO Box 345678</span> <span>Little Lonsdale St, Melbourne </span><span>Australia</span></p><br>
-                                <p><i class="fa fa-phone"></i>Phone: (415) 124-5678 </p>
-                                <p><i class="fa fa-envelope"></i>website@yourname.com</p>
+                                <h3>Comunícate</h3>                     
+                                <p><i class="fa fa-pencil"></i>Rush Tecnologías S.A. de C.V.<span>C.P. 36257</span> <span>Lomas de San Francisco No.8, Col. Lomas de Cervera. </span><span>Guanajuato. México.</span></p><br>
+                                <p><i class="fa fa-phone"></i>Telefono: (473) 690-3832 </p>
+                                <p><i class="fa fa-envelope"></i>contacto@rushtecnologias.com</p>
                             </address>
                         </div>
             

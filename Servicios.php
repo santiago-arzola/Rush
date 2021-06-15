@@ -60,11 +60,15 @@
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
-      <div class="modal-body">
-        ...
+      <div class="modal-body" style="padding-left: 5rem;padding-right: 5rem;">
+       <p>Facilita la obtención rápida y sencilla de datos provenientes de los sistemas de gestión empresarial para su análisis e interpretación, de manera que puedan ser aprovechados para la toma de decisiones y se conviertan en conocimiento para los responsables del negocio.</p>
+        <b style="text-align: center;"><p>eGoverment</p>
+        <p>Legaltech</p>
+        <p>BIM</p>
+        <p>Healtech</p></b>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-primary" style="color: white;" data-dismiss="modal">Cerrar</button>
+        <button type="button" class="btn btn-primary" style="color: white;" data-dismiss="modal">Conocer más</button>
       </div>
     </div>
   </div>
@@ -80,11 +84,15 @@
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
-      <div class="modal-body">
-        ...
+      <div class="modal-body" style="padding-left: 5rem;padding-right: 5rem;">
+       <b style="text-align: center;"><p> eCommerceSocial</p>
+        <p>Media</p>
+        <p>Strategist</p>
+        <p>Branding</p>
+        <p>Fintech</p></b>
       </div>
       <div class="modal-footer">
-         <button type="button" class="btn btn-primary" style="color: white;" data-dismiss="modal">Cerrar</button>
+         <button type="button" class="btn btn-primary" style="color: white;" data-dismiss="modal">Conocer más</button>
       </div>
     </div>
   </div>
@@ -100,11 +108,15 @@
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
-      <div class="modal-body">
-        ...
+      <div class="modal-body" style="padding-left: 5rem;padding-right: 5rem;">
+       <b style="text-align: center;"><p> eCommerceSocial</p>
+        <p>Telefonía</p>
+        <p>Video Vigilancia</p>
+        <p>Cómputo</p>
+        <p>Almacenamiento</p></b>
       </div>
       <div class="modal-footer">
-         <button type="button" class="btn btn-primary" style="color: white;" data-dismiss="modal">Cerrar</button>
+         <button type="button" class="btn btn-primary" style="color: white;" data-dismiss="modal">Conocer más</button>
       </div>
     </div>
   </div>
