@@ -42,6 +42,29 @@
 	
     <body id="body">
 
+    <div id="myModal" class="modal fade" role="dialog" style="text-align-last: center !important;">
+        <div class="modal-dialog" style="width: 70% !important;
+            margin-left: 15% !important;
+            margin-right: 15% !important;">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                 <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+              <div class="modal-body" style=" text-align-last: center;">
+                <img id="imagen" style="width:100%"/>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+              </div>
+            </div>
+
+        </div>
+    </div>
+
 		<!-- preloader -->
 		<div id="preloader">
             <div class="loder-box">
