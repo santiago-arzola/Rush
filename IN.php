@@ -130,7 +130,7 @@
                             </li>
 
 
-                            <li class="portfolio-item" style="margin-right: 82rem;">
+                            <li class="portfolio-item">
                                 <img class="img-responsive" src="./Recursos/Servicios/IN/bigdata.jpg" alt="Contamos con las aplicaciones informáticas adecuadas para el procesamiento de los datos.">
                                 <figcaption class="mask">
                                     <h3>BIG DATA</h3>
