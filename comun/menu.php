@@ -19,11 +19,18 @@
 
 				<!-- main nav -->
                 <nav class="collapse navbar-collapse navbar-right" role="navigation">
-                    <ul id="nav" class="nav navbar-nav">
+                    <ul class="nav navbar-nav">
                         <li><a href="./index.php">Inicio</a></li>
                         <li><a href="#">Clientes</a></li>
-                        <li><a href="./Nosotros.php">Acerca de Nosotros</a></li>
-                        <li><a href="./Servicios.php">Servicios</a></li>
+                        <li><a  href="./Nosotros.php">Acerca de Nosotros</a></li>
+                         <li class="dropdown">
+                        <a href="./Servicios.php" class="dropdown-toggle">SERVICIOS</a>
+                        <ul class="dropdown-menu multi-level">
+                            <li class="dropdown"><a href="IN.php">Inteligencia de negocios</a></li>
+                            <li class="dropdown"><a href="">Infraestructura</a></li>
+                            <li class="dropdown"><a href="">Logistica</a></li>
+                        </ul>
+                    </li>
                         <li><a href="./Contacto.php">Contactanos</a></li>
                         <li><a href="#">Vinculacion</a></li>
                     </ul>

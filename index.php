@@ -177,11 +177,11 @@
 			
 			
 			<!-- Service section -->
-			<section id="service">
+			<section id="service" style="margin-top: 3rem;margin-bottom: 3rem;">
 				<div class="container">
-					<div class="row">
+					<div class="row" style="background: #dcdcdc57;height: 35rem;">
 					
-						<div class="sec-title text-center">
+						<div class="sec-title text-center" style="margin-top: 4rem;">
 							<h2 class="wow animated bounceInLeft">Servicios</h2>
 						</div>
 						
@@ -323,43 +323,43 @@
 					<div class="row">
 					
 						<div class="sec-title text-center wow animated fadeInDown">
-							<h2>Transformación Digital</h2>
+							<h2 >Transformación Digital</h2>
 							<p>Somos especialistas en transformación digital, contamos con personal calificado en Tecnologías de la Información, que permite ofrecer soluciones tecnológicas de excelencia en sus áreas de especialidad.</p>
 						</div>
 						
 						<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="full text_align_center margin_bottom_30">
                         <div class="center">
-                            <div class="icon"> <img src="Recursos/Trans-dig/ciscologo.png" style="height: 100px; width: auto;padding-left: 9rem;"> </div>
+                            <div class="icon"> <img class="wow animated zoomIn" src="Recursos/Trans-dig/ciscologo.png" style="height: 100px; width: auto;padding-left: 9rem;"> </div>
                         </div>
-                        <h4 class="theme_color">Cisco Certified</h4>
+                        <h4 class="theme_color animated" style="text-align: center;">Cisco Certified</h4>
                         <p>Cisco Certified Network Associate</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="full text_align_center margin_bottom_30">
                         <div class="center">
-                            <div class="icon"> <img src="Recursos/Trans-dig/itl.png" style="height: 100px; width: auto; padding: 19px;padding-left: 4rem;"> </div>
+                            <div class="icon"> <img class="wow animated zoomIn" src="Recursos/Trans-dig/itl.png" style="height: 100px; width: auto; padding: 19px;padding-left: 4rem;"> </div>
                         </div>
-                        <h4 class="theme_color">ITIL</h4>
+                        <h4 class="theme_color animated" style="text-align: center;">ITIL</h4>
                         <p>The IT Infrastructure Library</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="full text_align_center margin_bottom_30">
                         <div class="center">
-                            <div class="icon"> <img src="Recursos/Trans-dig/cobit.png" style="height: 100px; width: auto; padding: 22px;padding-left: 5rem;"> </div>
+                            <div class="icon"> <img class="wow animated zoomIn" src="Recursos/Trans-dig/cobit.png" style="height: 100px; width: auto; padding: 22px;padding-left: 5rem;"> </div>
                         </div>
-                        <h4 class="theme_color">COBIT</h4>
+                        <h4 class="theme_color animated" style="text-align: center;">COBIT</h4>
                         <p>Control Objectives for Information and Related Technology</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="full text_align_center margin_bottom_30">
                         <div class="center">
-                            <div class="icon"> <img src="Recursos/Trans-dig/cmmi.png" style="height: 100px; width: auto; padding:15px;padding-left: 10rem;"></div>
+                            <div class="icon"> <img class="wow animated zoomIn" src="Recursos/Trans-dig/cmmi.png" style="height: 100px; width: auto; padding:15px;padding-left: 10rem;"></div>
                         </div>
-                        <h4 class="theme_color">CMMI</h4>
+                        <h4 class="theme_color animated" style="text-align: center;">CMMI</h4>
                         <p>Capability Maturity Model Integration</p>
                     </div>
                 </div>
@@ -391,7 +391,7 @@
 			
 			<!-- Contact section -->
 			
-			<?php include_once('comun/Contacto.php') ?>
+			<?php include_once('Contacto.php') ?>
 			
 			<!-- end Contact section -->
 			
