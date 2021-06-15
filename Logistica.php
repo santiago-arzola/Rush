@@ -6,7 +6,7 @@
         <meta charset="utf-8">
 		<!-- Always force latest IE rendering engine or request Chrome Frame -->
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Inteligencia de Negocios</title>		
+        <title>Logistica</title>		
 		<!-- Meta Description -->
         <meta name="description" content="Blue One Page Creative HTML5 Template">
         <meta name="keywords" content="one page, single page, onepage, responsive, parallax, creative, business, html5, css3, css3 animation">
@@ -63,14 +63,16 @@
                     <div class="row">
                     
                         <div class="sec-title text-center wow animated fadeInDown">
-                            <h2>INTELIGENCIA DE NEGOCIOS</h2>
+                            <h2>Logistica</h2>
                             <p>Nuestro servicios asociados a la inteligencia de negocios.</p>
                         </div>
                         
 
                         <ul class="project-wrapper wow animated fadeInUp">
                             <li class="portfolio-item">
-                                <img class="img-responsive" src="./Recursos/Servicios/IN/legal.jpg" alt="Ofrecemos servicios jurídicos con ayuda de la tecnología y softwares especializados.">
+                                <img class="img-responsive" src="./Recursos/Servicios/IN/legal.jpg" alt="Ofrecemos servicios jurídicos con ayuda de la tecnología y softwares especializados
+
+">
                                 <figcaption class="mask">
                                     <h3>LEGALTEACH</h3>
                                 </figcaption>
@@ -119,26 +121,6 @@
                                 </ul>
                             </li>
 
-                             <li class="portfolio-item" >
-                                <img class="img-responsive" src="./Recursos/Servicios/IN/consulting.jpg" alt="Contamos con el personal idóneo y capaz de brindar asesoría y soluciones especializadas para cada cliente enfocado a proyectos de TI.">
-                                <figcaption class="mask">
-                                    <h3>CONSULTORIA ESPECIALIZADA</h3>
-                                </figcaption>
-                                <ul class="external">
-                                    <li><a class="fancybox" title="CONSULTORIA ESPECIALIZADA" data-fancybox-group="works" href="./Recursos/Servicios/IN/consulting.jpg"><i class="fa fa-search"></i></a></li>
-                                </ul>
-                            </li>
-
-
-                            <li class="portfolio-item" style="margin-right: 82rem;">
-                                <img class="img-responsive" src="./Recursos/Servicios/IN/bigdata.jpg" alt="Contamos con las aplicaciones informáticas adecuadas para el procesamiento de los datos.">
-                                <figcaption class="mask">
-                                    <h3>BIG DATA</h3>
-                                </figcaption>
-                                <ul class="external">
-                                    <li><a class="fancybox" title="BIG DATA" href="./Recursos/Servicios/IN/bigdata.jpg" data-fancybox-group="works" ><i class="fa fa-search"></i></a></li>
-                                </ul>
-                            </li>
                         </ul>
                         
                     </div>
