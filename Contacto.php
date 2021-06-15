@@ -101,6 +101,12 @@
             </section>
             <!-- end Contact section -->
             
+            <!-- footer
+        ==================================== -->
+       <?php include_once('comun/footer.php') ?>
+        <!--
+        End footer
+        ==================================== -->
 
         
         <!-- Essential jQuery Plugins

@@ -39,31 +39,76 @@
         <script src="js/modernizr-2.6.2.min.js"></script>
 
     </head>
+    <style>
+        h5{
+            text-align: center;
+            font-weight: bold;
+            text-transform: uppercase;
+
+        }
+    </style>
 	
     <body id="body">
 
-    <div id="myModal" class="modal fade" role="dialog" style="text-align-last: center !important;">
-        <div class="modal-dialog" style="width: 70% !important;
-            margin-left: 15% !important;
-            margin-right: 15% !important;">
-
-            <!-- Modal content-->
-            <div class="modal-content">
-                 <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
-                </div>
-              <div class="modal-body" style=" text-align-last: center;">
-                <img id="imagen" style="width:100%"/>
-              </div>
-              <div class="modal-footer">
-                <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
-              </div>
-            </div>
-
-        </div>
+    <!-- Modal Inteligencia de negocios -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLongTitle">Inteligencia de Negocios</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        ...
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+      </div>
     </div>
+  </div>
+</div>
+
+<!-- Modal Logistica -->
+<div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLongTitle">Logistica</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        ...
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal Infraestructura -->
+<div class="modal fade" id="myModal3" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLongTitle">Infraestructura</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        ...
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
 
 		<!-- preloader -->
 		<div id="preloader">
@@ -85,14 +130,14 @@
             <!-- Service section -->
             <section id="service" style="margin-top: 13rem;">
                 <div class="container">
-                    <div class="row">
+                    <div class="row" style="background: #dcdcdc57;height: 35rem;">
                     
-                        <div class="sec-title text-center">
+                        <div class="sec-title text-center" style="margin-top: 4rem;">
                             <h2 class="wow animated bounceInLeft">Servicios</h2>
                         </div>
                         
                         <div class="col-md-4 col-sm-6 col-xs-12 text-center wow animated zoomIn">
-                            <div class="service-item">
+                            <div class="service-item" data-toggle="modal" data-target="#myModal">
                                 <div class="service-icon">
                                     <i class="fa fa-building fa-3x"></i>
                                 </div>
@@ -101,7 +146,7 @@
                         </div>
                     
                         <div class="col-md-4 col-sm-6 col-xs-12 text-center wow animated zoomIn" data-wow-delay="0.3s">
-                            <div class="service-item">
+                            <div class="service-item" data-toggle="modal" data-target="#myModal2">
                                 <div class="service-icon">
                                     <i class="fa fa-tasks fa-3x"></i>
                                 </div>
@@ -110,7 +155,7 @@
                         </div>
                     
                         <div class="col-md-4 col-sm-6 col-xs-12 text-center wow animated zoomIn" data-wow-delay="0.6s">
-                            <div class="service-item">
+                            <div class="service-item" data-toggle="modal" data-target="#myModal3">
                                 <div class="service-icon">
                                     <i class="fa fa-gear fa-3x"></i>
                                 </div>
@@ -121,6 +166,13 @@
                 </div>
             </section>
             <!-- end Service section -->
+
+            <!-- footer
+        ==================================== -->
+       <?php include_once('comun/footer.php') ?>
+        <!--
+        End footer
+        ==================================== -->
 
         
         <!-- Essential jQuery Plugins
