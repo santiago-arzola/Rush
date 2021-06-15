@@ -23,8 +23,8 @@
                         <li><a href="./index.php">Inicio</a></li>
                         <li><a href="#service">Clientes</a></li>
                         <li><a href="./Nosotros.php">Acerca de Nosotros</a></li>
-                        <li><a href="#testimonials">Servicios</a></li>
-                        <li><a href="#price">Contactanos</a></li>
+                        <li><a href="./Servicios.php">Servicios</a></li>
+                        <li><a href="./Contacto.php">Contactanos</a></li>
                         <li><a href="#contact">Vinculacion</a></li>
                     </ul>
                 </nav>

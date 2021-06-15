@@ -187,28 +187,35 @@
 						
 						<div class="col-md-4 col-sm-6 col-xs-12 text-center wow animated zoomIn">
 							<div class="service-item">
-								<div class="service-icon">
-									<i class="fa fa-building fa-3x"></i>
-								</div>
-								<h3>Inteligencia de negocios</h3>
+								<a style="color: #818181;" href="./Servicios.php">
+									<div class="service-icon">
+										<i class="fa fa-building fa-3x"></i>
+									</div>
+									<h3>Inteligencia de negocios</h3>
+								</a>
 							</div>
+						
 						</div>
 					
 						<div class="col-md-4 col-sm-6 col-xs-12 text-center wow animated zoomIn" data-wow-delay="0.3s">
 							<div class="service-item">
-								<div class="service-icon">
-									<i class="fa fa-tasks fa-3x"></i>
-								</div>
-								<h3>Logistica</h3>
+								<a style="color: #818181;" href="./Servicios.php">
+									<div class="service-icon">
+										<i class="fa fa-tasks fa-3x"></i>
+									</div>
+									<h3>Logistica</h3>
+								</a>
 							</div>
 						</div>
 					
 						<div class="col-md-4 col-sm-6 col-xs-12 text-center wow animated zoomIn" data-wow-delay="0.6s">
 							<div class="service-item">
-								<div class="service-icon">
-									<i class="fa fa-gear fa-3x"></i>
-								</div>
-								<h3>Infraestructura</h3>
+								<a style="color: #818181;" href="./Servicios.php">
+									<div class="service-icon">
+										<i class="fa fa-gear fa-3x"></i>
+									</div>
+									<h3>Infraestructura</h3>
+								</a>
 							</div>
 						</div>	
 					</div>
@@ -217,7 +224,7 @@
 			<!-- end Service section -->
 			
 			<!-- portfolio section -->
-			<section id="portfolio">
+			<section id="portfolio" style="display: none;">
 				<div class="container">
 					<div class="row">
 					
@@ -311,7 +318,7 @@
 			<!-- end Testimonial section -->
 			
 			<!-- Transformacion Digital section -->
-			<section id="price">
+			<section id="TransformacionDigital">
 				<div class="container">
 					<div class="row">
 					
