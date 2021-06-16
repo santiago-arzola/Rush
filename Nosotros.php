@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="wide wow-animation" lang="en">
   <head>
-    <title>Home</title>
+    <title>Nosotros</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,6 +12,12 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/mision.css">
     <link rel="stylesheet" href="css/animate.css">
+   
+
+   
+		<!-- Main Stylesheet -->
+        <link rel="stylesheet" href="css/main.css">
+
     
     <style>.ie-panel{display: none;background: #212121;padding: 10px 0;box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3);clear: both;text-align:center;position: relative;z-index: 1;} html.ie-10 .ie-panel, html.lt-ie-10 .ie-panel {display: block;}</style>
   </head>
@@ -114,7 +120,7 @@
                 <div class="row row-50">
                   <div class="col-md-6 col-lg-12">
                     <div class="box-icon-modern">
-                      <div class="box-icon-inner decorate-triangle"><span class="icon-xl linearicons-baby2 icon-primary"></span></div>
+                      <div class="box-icon-inner decorate-triangle" ><span ><img src="Recursos/Somos/r.png"  width="220px;"></span></div>
                       <div class="box-icon-caption">
                         <h4><a href="#">Confianza</a></h4>
                         <p>
@@ -125,8 +131,8 @@
                     </div>
                   </div>
                   <div class="col-md-6 col-lg-12">
-                    <div class="box-icon-modern">
-                      <div class="box-icon-inner decorate-circle"><span class="icon-xl linearicons-sun icon-primary"></span></div>
+                    <div class="box-icon-modern" >
+                      <div class="box-icon-inner decorate-circle" ><span><img src="Recursos/Somos/u.png" width="130px;" ></span></div>
                       <div class="box-icon-caption">
                         <h4><a href="#">Honestidad</a></h4>
                         <p>Entendemos la responsabilidad y los alcances de nuestros acuerdos.</p>
@@ -135,7 +141,7 @@
                   </div>
                   <div class="col-md-6 col-lg-12">
                     <div class="box-icon-modern">
-                      <div class="box-icon-inner decorate-rectangle"><span class="icon-xl linearicons-umbrella2 icon-primary"></span></div>
+                      <div class="box-icon-inner decorate-rectangle"><span><img src="Recursos/Somos/s.png" style="width: 130px;"></span></div>
                       <div class="box-icon-caption">
                         <h4><a href="#">Equidad</a></h4>
                         <p>Generamos desarrollo y oportunidades basados en el talento y dedicación.</p>
@@ -144,7 +150,7 @@
                   </div>
                   <div class="col-md-6 col-lg-12">
                     <div class="box-icon-modern">
-                      <div class="box-icon-inner decorate-triangle"><span class="icon-xl linearicons-umbrella2 icon-primary"></span></div>
+                      <div class="box-icon-inner decorate-triangle"><span><img src="Recursos/Somos/h.png" style="width: 130px;"></span></div>
                       <div class="box-icon-caption">
                         <h4><a href="#">Inclusión</a></h4>
                         <p>Creemos en un ambiente de convivencia y cooperación.</p>
@@ -158,125 +164,105 @@
         </div>
       </section>
 
+      
 
-      <section>
-          <div class="row" id="team">
-            <div class="col-md-12 section-heading text-center to-animate">
-              <h2>Team</h2>
-            </div>
-            <div class="col-md-12">
-              <div class="row row-bottom-padded-lg">
-                <div class="col-md-4 text-center to-animate">
-                  <div class="person">
-                    <img src="Recursos/Miembros/m6.jpg" class="img-responsive img-rounded" alt="Person">
-                    <h3 class="name">Luz</h3>
-                    <div class="position">Web Developer</div>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics.</p>
-                    <ul class="social social-circle">
-                      <li><a href="#"><i class="icon-twitter"></i></a></li>
-                      <li><a href="#"><i class="icon-linkedin"></i></a></li>
-                      <li><a href="#"><i class="icon-instagram"></i></a></li>
-                      <li><a href="#"><i class="icon-github"></i></a></li>
-                    </ul>
-                  </div>
-                </div>
-                <div class="col-md-4 text-center to-animate">
-                  <div class="person">
-                    <img src="images/person3.jpg" class="img-responsive img-rounded" alt="Person">
-                    <h3 class="name">Rob Smith</h3>
-                    <div class="position">Web Designer</div>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics.</p>
-                    <ul class="social social-circle">
-                      <li><a href="#"><i class="icon-twitter"></i></a></li>
-                      <li><a href="#"><i class="icon-linkedin"></i></a></li>
-                      <li><a href="#"><i class="icon-instagram"></i></a></li>
-                      <li><a href="#"><i class="icon-dribbble"></i></a></li>
-                    </ul>
-                  </div>
-                </div>
-                <div class="col-md-4 text-center to-animate">
-                  <div class="person">
-                    <img src="images/person4.jpg" class="img-responsive img-rounded" alt="Person">
-                    <h3 class="name">John Doe</h3>
-                    <div class="position">Photographer</div>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics.</p>
-                    <ul class="social social-circle">
-                      <li><a href="#"><i class="icon-twitter"></i></a></li>
-                      <li><a href="#"><i class="icon-linkedin"></i></a></li>
-                      <li><a href="#"><i class="icon-instagram"></i></a></li>
-                      <li><a href="#"><i class="icon-github"></i></a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-      </section>
 
-      <section class="section section-lg bg-gray-1">
-        <div class="container">
-          <div class="row justify-content-center text-center">
-            <div class="col-md-9 col-lg-7 wow-outer">
-              <div class="wow slideInDown">
-                <h3>Latest Causes</h3>
-                <p>At Helper, there are various charity causes and projects, in which you can always take part. Feel free to learn about them below or browse our website for more information.</p>
-              </div>
-            </div>
-          </div>
-          <div class="row row-50">
-            <div class="col-md-6 col-lg-4 wow-outer">
-              <div class="wow fadeInUp">
-                <article class="box-causes">
-                  <div class="box-causes-img"><img src="images/causes-01-372x396.jpg" alt="" width="372" height="396"/><a class="button button-sm button-primary" href="#">Donate</a>
-                  </div>
-                  <h4 class="font-weight-medium"><a href="#">Recycling for Charity</a></h4>
-                  <p class="box-causes-donate"><span class="box-causes-donate-complete">$92,160</span> of <span>$100,000</span> raised
-                  </p>
-                </article>
-              </div>
-            </div>
-            <div class="col-md-6 col-lg-4 wow-outer">
-              <div class="wow fadeInUp">
-                <article class="box-causes">
-                  <div class="box-causes-img"><img src="images/causes-02-372x396.jpg" alt="" width="372" height="396"/><a class="button button-sm button-primary" href="#">Donate</a>
-                  </div>
-                  <h4 class="font-weight-medium"><a href="#">Clean Water For People</a></h4>
-                  <p class="box-causes-donate"><span class="box-causes-donate-complete">$52,380</span> of <span>$55,000</span> raised
-                  </p>
-                </article>
-              </div>
-            </div>
-            <div class="col-md-6 col-lg-4 wow-outer">
-              <div class="wow fadeInUp">
-                <article class="box-causes">
-                  <div class="box-causes-img"><img src="images/causes-03-372x396.jpg" alt="" width="372" height="396"/><a class="button button-sm button-primary" href="#">Donate</a>
-                  </div>
-                  <h4 class="font-weight-medium"><a href="#">Children’s Education</a></h4>
-                  <p class="box-causes-donate"><span class="box-causes-donate-complete">$42,280</span> of <span>$45,000</span> raised
-                  </p>
-                </article>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <section class="parallax-container bg-gray-600" data-parallax-img="images/parallax-img-2.jpg">
+      <section id="portfolio" >
+				<div class="container">
+					<div class="row">
+					
+						<div class="sec-title text-center wow animated fadeInDown">
+							<h2 >  TEAM</h2>
+							<p></p>
+						</div>
+						
+
+						<ul class="project-wrapper wow animated fadeInUp">
+							<li class="portfolio-item">
+								<img src="Recursos/Miembros/m6.jpg" class="img-responsive" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat">
+								<figcaption class="mask">
+									<h4 style="color:#ffffff">Luz Elena</h4>
+									<p>Razo montoya</p>
+                  <h5 stylr="color:#1c5884">Directora</h5>
+								</figcaption>
+								
+							</li>
+							
+							<li class="portfolio-item">
+								<img src="Recursos/Miembros/m2.jpg" class="img-responsive" alt="Lorem Ipsum is simply dummy text of the printing and typesetting ndustry. ">
+								<figcaption class="mask">
+                  <h4 style="color:#ffffff">Luz Elena</h4>
+									<p>Razo montoya</p>
+                  <h5 stylr="color:#1c5884">Directora</h5>
+								</figcaption>
+								
+							</li>
+							
+							<li class="portfolio-item">
+								<img src="Recursos/Miembros/m1.jpg" class="img-responsive" alt="Lorem Ipsum is simply dummy text of the printing and typesetting ndustry. ">
+								<figcaption class="mask">
+                  <h4 style="color:#ffffff">Luz Elena</h4>
+									<p>Razo montoya</p>
+                  <h5 stylr="color:#1c5884">Directora</h5>
+								</figcaption>
+								<ul class="external">
+									
+								</ul>
+							</li>
+							
+						</ul>
+						
+					</div>
+				</div>
+			</section>
+
+    
+
+
+      <section class="parallax-container bg-gray-600" data-parallax-img="Recursos/Somos/bg-celebracion.jpg">
         <div class="parallax-content section-xxl text-center">
           <div class="container">
             <div class="row justify-content-md-center">
               <div class="col-md-9 col-lg-8 col-xl-8 wow-outer">
                 <div class="innset-xl-right-30 innset-xl-left-30">
                   <div class="wow slideInDown">
-                    <h3>Subscribe to Stay Informed</h3>
-                    <form class="rd-form rd-mailform rd-form-inline" data-form-output="form-output-global" data-form-type="subscribe" method="post" action="bat/rd-mailform.php">
-                      <div class="form-wrap">
-                        <input class="form-input" id="subscribe-form-email" type="email" name="email" data-constraints="@Email @Required">
-                        <label class="form-label" for="subscribe-form-email">Your E-mail</label>
+                      <h3>Empleado</h3>
+                          <p>.</p>
+                      <div class="col-md-9 col-lg-7 wow-outer">
+                        <div class="wow slideInDown">
+                          
+                        </div>
                       </div>
-                      <div class="form-button">
-                        <button class="button button-primary button-lg" type="submit">Subscribe</button>
+                    </div>
+                    <div class="row row-50">
+                      <div class="col-md-6 col-lg-4 wow-outer">
+                        <div class="wow fadeInUp">
+                          <article class="box-causes">
+                            <div class="box-causes-img"><img src="images/causes-01-372x396.jpg" alt="" width="372" height="396"/><a class="button button-sm button-primary" href="#">Empleado del mes</a>
+                            </div>
+                            
+                          </article>
+                        </div>
                       </div>
-                    </form>
+                      <div class="col-md-6 col-lg-4 wow-outer">
+                        <div class="wow fadeInUp">
+                          <article class="box-causes">
+                            <div class="box-causes-img"><img src="images/causes-02-372x396.jpg" alt="" width="372" height="396"/><a class="button button-sm button-primary" href="#">Puntualidad</a>
+                            </div>
+                            
+                          </article>
+                        </div>
+                      </div>
+                      <div class="col-md-6 col-lg-4 wow-outer">
+                        <div class="wow fadeInUp">
+                          <article class="box-causes">
+                            <div class="box-causes-img"><img src="images/causes-03-372x396.jpg" alt="" width="372" height="396"/><a class="button button-sm button-primary" href="#">Cumpleañero</a>
+                            </div>
+                           
+                          </article>
+                        </div>
+                      </div>
+          
                   </div>
                 </div>
               </div>
@@ -352,6 +338,7 @@
 					//run the function
 					cycleTestimonials(0);
 		</script>
+    
     <!-- coded by ragnar-->
   </body>
 </html>
