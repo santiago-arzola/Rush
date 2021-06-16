@@ -75,8 +75,8 @@
 
 						<div class="slide-caption">
                             <div class="caption-content">
-                                <h2 class="animated fadeInDown" style="margin-right: 70rem;">EMPRESA LIDER EN TRANSFRORMACÍON DIGITAL</h2>
-                                <span class="animated fadeInDown" style="margin-right: 70rem;">Desde Marzo del 2016 RushTec proporciona servicios tecnológicos, consultoría,
+                                <h2 class="animated fadeInDown">EMPRESA LIDER EN TRANSFORMACÍON DIGITAL</h2>
+                                <span class="animated fadeInDown">Desde Marzo del 2016 RushTec proporciona servicios tecnológicos, consultoría,
 								diseño e implementación de soluciones personalizadas para nuestros clientes.</span>
                             </div>
                         </div>
@@ -88,8 +88,8 @@
 						<div class="bg-img bg-img-2"></div>
 						<div class="slide-caption">
                             <div class="caption-content">
-                                <h2 style="margin-top: 38rem;padding-right: 10rem;padding-left: 10rem;">Nos respaldan mas de 8 años de experiencia</h2>
-                                <span style="padding-right: 10rem;padding-left: 10rem;">Dedicados a la innovación e integración tecnológica, proporcionado servicio de
+                                <h2>Nos respaldan mas de 8 años de experiencia</h2>
+                                <span>Dedicados a la innovación e integración tecnológica, proporcionado servicio de
 								asesoramiento, diseño e implementación de soluciones personalizadas en TI. Combinamos las mejores metodologías y tecnología disponibles del mercado para impulsar la competitividad de su organización. Creemos en la tecnología como un acelerador de negocios.</span>
                             </div>
                         </div>
@@ -101,8 +101,8 @@
 						<div class="bg-img bg-img-3"></div>
 						<div class="slide-caption">
                             <div class="caption-content">
-                                <h2 style="padding-right: 10rem;margin-right: 65rem;margin-top: 17rem;">Sectores de atención</h2>
-                                <span style="margin-right: 70rem;padding-right: 2rem;">Diseñamos soluciones dirigidas a los sectores productivos y de consumo del mercado, gracias al respaldo de nuestros socios comerciales, ofrecemos integraciones con la mejor tecnología. Nuestros proyectos cuentan con un alto grado de personalización, siempre con la certeza de que obtendrá los datos, mediciones y metodologías enfocados en el cumplimiento de sus objetivos.</span>
+                                <h2>Sectores de atención</h2>
+                                <span>Diseñamos soluciones dirigidas a los sectores productivos y de consumo del mercado, gracias al respaldo de nuestros socios comerciales, ofrecemos integraciones con la mejor tecnología. Nuestros proyectos cuentan con un alto grado de personalización, siempre con la certeza de que obtendrá los datos, mediciones y metodologías enfocados en el cumplimiento de sus objetivos.</span>
                             </div>
                         </div>
 
@@ -179,7 +179,7 @@
 			<!-- Service section -->
 			<section id="service" style="margin-top: 3rem;margin-bottom: 3rem;">
 				<div class="container">
-					<div class="row" style="background: #dcdcdc57;height: 35rem;">
+					<div class="row" style="background: #dcdcdc57;height: auto;padding-bottom: 4rem;">
 					
 						<div class="sec-title text-center" style="margin-top: 4rem;">
 							<h2 class="wow animated bounceInLeft">Servicios</h2>

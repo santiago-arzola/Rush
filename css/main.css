@@ -1257,6 +1257,7 @@ textarea.form-control {
     }
 
     .caption-content > span {
+        padding: 5rem;
         font-size: 16px;
         margin-bottom: 20px;
     }
