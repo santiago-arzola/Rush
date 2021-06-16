@@ -58,7 +58,7 @@
         End Fixed Navigation
         ==================================== -->
 
-        <!-- Testimonial section -->
+        <!-- Clientes section -->
             <section id="testimonials" class="parallax">
                 <div class="overlay">
                     <div class="container">
@@ -86,10 +86,251 @@
                     </div>
                 </div>
             </section>
-            <!-- end Testimonial section -->
+            <!-- end Clientes section -->
 
                  <!-- footer
         ==================================== -->
+
+        <!-- Gobierno section -->
+            <section id="portfolio" style="margin-top:7rem;">
+                <div class="container">
+                    <div class="row">
+                    
+                        <div class="sec-title text-center wow animated fadeInDown">
+                            <h2>Gobierno</h2>
+                        </div>
+                        
+
+                        <ul class="project-wrapper wow animated fadeInUp">
+                            <li class="portfolio-item">
+                                <img class="img-responsive" src="./Recursos/Servicios/IN/legal.jpg">
+                                <figcaption class="mask">
+                                    <h3>LEGALTEACH</h3>
+                                </figcaption>
+                                <ul class="external">
+                                    <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/legal.jpg"><i class="fa fa-link"></i></a></li>
+                                </ul>
+                            </li>
+                            
+                            <li class="portfolio-item">
+                                <img class="img-responsive" src="./Recursos/Servicios/IN/heal.jpg" >
+                                <figcaption class="mask">
+                                    <h3>HEALTEACH</h3>
+                                </figcaption>
+                                <ul class="external">
+                                    <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/heal.jpg" ><i class="fa fa-link"></i></a></li>
+                                </ul>
+                            </li>
+                            
+                            <li class="portfolio-item">
+                                <img class="img-responsive" src="./Recursos/Servicios/IN/bim.jpg">
+                                <figcaption class="mask">
+                                    <h3>BIM</h3>
+                                </figcaption>
+                                <ul class="external">
+                                    <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/bim.jpg" ><i class="fa fa-link"></i></a></li>
+                                </ul>
+                            </li>
+                            
+                            <li class="portfolio-item">
+                               <img class="img-responsive" src="./Recursos/Servicios/IN/software.jpg" >
+                                <figcaption class="mask">
+                                    <h3>SOFTWARE ESPECIALIZADO</h3>
+                                </figcaption>
+                                <ul class="external">
+                                    <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/software.jpg" ><i class="fa fa-link"></i></a></li>
+                                </ul>
+                            </li>
+                            
+                            <li class="portfolio-item">
+                                <img class="img-responsive" src="./Recursos/Servicios/IN/cloud.jpg">
+                                <figcaption class="mask">
+                                    <h3>CLOUD COMPUTING</h3>
+                                </figcaption>
+                                <ul class="external">
+                                    <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/cloud.jpg" ><i class="fa fa-link"></i></a></li>
+                                </ul>
+                            </li>
+
+                             <li class="portfolio-item" >
+                                <img class="img-responsive" src="./Recursos/Servicios/IN/consulting.jpg">
+                                <figcaption class="mask">
+                                    <h3>CONSULTORIA ESPECIALIZADA</h3>
+                                </figcaption>
+                                <ul class="external">
+                                    <li><a class="fancybox"data-fancybox-group="works" href="./Recursos/Servicios/IN/consulting.jpg"><i class="fa fa-link"></i></a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        
+                    </div>
+                </div>
+            </section>
+            <!-- end portfolio section -->
+            
+            <!-- footer
+        ==================================== -->
+
+            <!-- Iniciativa Privada section -->
+                <section id="portfolio" style="margin-top:7rem;">
+                    <div class="container">
+                        <div class="row">
+                        
+                            <div class="sec-title text-center wow animated fadeInDown">
+                                <h2>Iniciativa Privada</h2>
+                            </div>
+                            
+
+                            <ul class="project-wrapper wow animated fadeInUp">
+                                <li class="portfolio-item">
+                                    <img class="img-responsive" src="./Recursos/Servicios/IN/legal.jpg">
+                                    <figcaption class="mask">
+                                        <h3>LEGALTEACH</h3>
+                                    </figcaption>
+                                    <ul class="external">
+                                        <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/legal.jpg"><i class="fa fa-link"></i></a></li>
+                                    </ul>
+                                </li>
+                                
+                                <li class="portfolio-item">
+                                    <img class="img-responsive" src="./Recursos/Servicios/IN/heal.jpg" >
+                                    <figcaption class="mask">
+                                        <h3>HEALTEACH</h3>
+                                    </figcaption>
+                                    <ul class="external">
+                                        <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/heal.jpg" ><i class="fa fa-link"></i></a></li>
+                                    </ul>
+                                </li>
+                                
+                                <li class="portfolio-item">
+                                    <img class="img-responsive" src="./Recursos/Servicios/IN/bim.jpg">
+                                    <figcaption class="mask">
+                                        <h3>BIM</h3>
+                                    </figcaption>
+                                    <ul class="external">
+                                        <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/bim.jpg" ><i class="fa fa-link"></i></a></li>
+                                    </ul>
+                                </li>
+                                
+                                <li class="portfolio-item">
+                                   <img class="img-responsive" src="./Recursos/Servicios/IN/software.jpg" >
+                                    <figcaption class="mask">
+                                        <h3>SOFTWARE ESPECIALIZADO</h3>
+                                    </figcaption>
+                                    <ul class="external">
+                                        <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/software.jpg" ><i class="fa fa-link"></i></a></li>
+                                    </ul>
+                                </li>
+                                
+                                <li class="portfolio-item">
+                                    <img class="img-responsive" src="./Recursos/Servicios/IN/cloud.jpg">
+                                    <figcaption class="mask">
+                                        <h3>CLOUD COMPUTING</h3>
+                                    </figcaption>
+                                    <ul class="external">
+                                        <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/cloud.jpg" ><i class="fa fa-link"></i></a></li>
+                                    </ul>
+                                </li>
+
+                                 <li class="portfolio-item" >
+                                    <img class="img-responsive" src="./Recursos/Servicios/IN/consulting.jpg">
+                                    <figcaption class="mask">
+                                        <h3>CONSULTORIA ESPECIALIZADA</h3>
+                                    </figcaption>
+                                    <ul class="external">
+                                        <li><a class="fancybox"data-fancybox-group="works" href="./Recursos/Servicios/IN/consulting.jpg"><i class="fa fa-link"></i></a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            
+                        </div>
+                    </div>
+                </section>
+            <!-- end Iniciativa Privada section -->
+
+            <!-- Industria section -->
+                <section id="portfolio" style="margin-top:7rem;margin-bottom: 7rem;">
+                    <div class="container">
+                        <div class="row">
+                        
+                            <div class="sec-title text-center wow animated fadeInDown">
+                                <h2>Industria</h2>
+                            </div>
+                            
+
+                            <ul class="project-wrapper wow animated fadeInUp">
+                                <li class="portfolio-item">
+                                    <img class="img-responsive" src="./Recursos/Servicios/IN/legal.jpg">
+                                    <figcaption class="mask">
+                                        <h3>LEGALTEACH</h3>
+                                    </figcaption>
+                                    <ul class="external">
+                                        <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/legal.jpg"><i class="fa fa-link"></i></a></li>
+                                    </ul>
+                                </li>
+                                
+                                <li class="portfolio-item">
+                                    <img class="img-responsive" src="./Recursos/Servicios/IN/heal.jpg" >
+                                    <figcaption class="mask">
+                                        <h3>HEALTEACH</h3>
+                                    </figcaption>
+                                    <ul class="external">
+                                        <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/heal.jpg" ><i class="fa fa-link"></i></a></li>
+                                    </ul>
+                                </li>
+                                
+                                <li class="portfolio-item">
+                                    <img class="img-responsive" src="./Recursos/Servicios/IN/bim.jpg">
+                                    <figcaption class="mask">
+                                        <h3>BIM</h3>
+                                    </figcaption>
+                                    <ul class="external">
+                                        <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/bim.jpg" ><i class="fa fa-link"></i></a></li>
+                                    </ul>
+                                </li>
+                                
+                                <li class="portfolio-item">
+                                   <img class="img-responsive" src="./Recursos/Servicios/IN/software.jpg" >
+                                    <figcaption class="mask">
+                                        <h3>SOFTWARE ESPECIALIZADO</h3>
+                                    </figcaption>
+                                    <ul class="external">
+                                        <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/software.jpg" ><i class="fa fa-link"></i></a></li>
+                                    </ul>
+                                </li>
+                                
+                                <li class="portfolio-item">
+                                    <img class="img-responsive" src="./Recursos/Servicios/IN/cloud.jpg">
+                                    <figcaption class="mask">
+                                        <h3>CLOUD COMPUTING</h3>
+                                    </figcaption>
+                                    <ul class="external">
+                                        <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/cloud.jpg" ><i class="fa fa-link"></i></a></li>
+                                    </ul>
+                                </li>
+
+                                 <li class="portfolio-item" >
+                                    <img class="img-responsive" src="./Recursos/Servicios/IN/consulting.jpg">
+                                    <figcaption class="mask">
+                                        <h3>CONSULTORIA ESPECIALIZADA</h3>
+                                    </figcaption>
+                                    <ul class="external">
+                                        <li><a class="fancybox"data-fancybox-group="works" href="./Recursos/Servicios/IN/consulting.jpg"><i class="fa fa-link"></i></a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            
+                        </div>
+                    </div>
+                </section>
+            <!-- end Industria section -->
+            
+            <!-- footer
+        ==================================== -->
+            
+            <!-- footer
+        ==================================== -->
+
        <?php include_once('comun/footer.php') ?>
         <!--
         End footer

@@ -142,7 +142,7 @@
             <!-- Service section -->
             <section id="service" style="margin-top: 13rem;margin-bottom: 7rem;">
                 <div class="container">
-                    <div class="row" style="background: #dcdcdc57;height: 35rem;">
+                    <div class="row" style="background: #dcdcdc57;height:auto;padding-bottom: 4rem;">
                     
                         <div class="sec-title text-center" style="margin-top: 4rem;">
                             <h2 class="wow animated bounceInLeft">Servicios</h2>
