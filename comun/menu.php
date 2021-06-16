@@ -21,7 +21,7 @@
                 <nav class="collapse navbar-collapse navbar-right" role="navigation">
                     <ul class="nav navbar-nav">
                         <li><a href="./index.php">Inicio</a></li>
-                        <li><a href="#">Clientes</a></li>
+                        <li><a href="./Clientes.php">Clientes</a></li>
                         <li><a  href="./Nosotros.php">Acerca de Nosotros</a></li>
                          <li class="dropdown">
                         <a href="./Servicios.php" class="dropdown-toggle">SERVICIOS</a>
