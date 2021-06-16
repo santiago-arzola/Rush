@@ -64,128 +64,128 @@
                     
                         <div class="sec-title text-center wow animated fadeInDown">
                             <h2>Infraestructura</h2>
-                            <p>Nuestro servicios asociados a la inteligencia de negocios.</p>
+                            <p>Nuestro servicios asociados a Infraestructura Tecnologica.</p>
                         </div>
                         
 
                         <ul class="project-wrapper wow animated fadeInUp">
                             <li class="portfolio-item">
-                                <img class="img-responsive" src="./Recursos/Servicios/IN/legal.jpg" alt="Ofrecemos servicios jurídicos con ayuda de la tecnología y softwares especializados.">
+                                <img class="img-responsive" src="./Recursos/Servicios/Infra/network.jpg" alt="Mantenga su empresa o negocio siempre “on-line”.">
                                 <figcaption class="mask">
-                                    <h3>LEGALTEACH</h3>
+                                    <h3>Infraestructura de Red</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" title="LEGALTEACH"  data-fancybox-group="works" href="./Recursos/Servicios/IN/legal.jpg"><i class="fa fa-search"></i></a></li>
+                                    <li><a class="fancybox" title="Infraestructura de Red"  data-fancybox-group="works" href="./Recursos/Servicios/Infra/network.jpg"><i class="fa fa-search"></i></a></li>
                                 </ul>
                             </li>
                             
                             <li class="portfolio-item">
-                                <img class="img-responsive" src="./Recursos/Servicios/IN/heal.jpg" alt=" ">
+                                <img class="img-responsive" src="./Recursos/Servicios/Infra/communications.jpg" alt="Presentamos soluciones formadas por diferentes elementos y componentes a nuestros clientes; fortaleciendo la comunicación por distintos medios: correo electrónico, llamadas telefónicas, video y estado de presencia.">
                                 <figcaption class="mask">
-                                    <h3>HEALTEACH</h3>
+                                    <h3>Comunicaciones Unificadas</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" title="HEALTEACH" data-fancybox-group="works" href="./Recursos/Servicios/IN/heal.jpg" ><i class="fa fa-search"></i></a></li>
+                                    <li><a class="fancybox" title="Comunicaciones Unificadas" data-fancybox-group="works" href="./Recursos/Servicios/Infra/communications.jpg" ><i class="fa fa-search"></i></a></li>
                                 </ul>
                             </li>
                             
                             <li class="portfolio-item">
-                                <img class="img-responsive" src="./Recursos/Servicios/IN/bim.jpg" alt="Building Information Model">
+                                <img class="img-responsive" src="./Recursos/Servicios/Infra/cloudmanager.jpg" alt="El servicio de cloud manager permite a nuestros clientes gestionar y administrar nuestras plataformas según sus necesidades.">
                                 <figcaption class="mask">
-                                    <h3>BIM</h3>
+                                    <h3>Cloud Manager</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" title="BIM" data-fancybox-group="works" href="./Recursos/Servicios/IN/bim.jpg" ><i class="fa fa-search"></i></a></li>
+                                    <li><a class="fancybox" title="Cloud Manager" data-fancybox-group="works" href="./Recursos/Servicios/Infra/cloudmanager.jpg" ><i class="fa fa-search"></i></a></li>
                                 </ul>
                             </li>
                             
                             <li class="portfolio-item">
-                               <img class="img-responsive" src="./Recursos/Servicios/IN/software.jpg" alt="Ayudamos a crear herramientas de software justo como su empresa o negocio lo necesita.">
+                               <img class="img-responsive" src="./Recursos/Servicios/Infra/storage.jpg" alt="Guardamos cuidadosamente toda información y herramientas importantes tanto de RUSHTEC como de nuestros clientes.">
                                 <figcaption class="mask">
-                                    <h3>SOFTWARE ESPECIALIZADO</h3>
+                                    <h3>Almacenamiento</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" title="SOFTWARE ESPECIALIZADO" data-fancybox-group="works" href="./Recursos/Servicios/IN/software.jpg" ><i class="fa fa-search"></i></a></li>
+                                    <li><a class="fancybox" title="Almacenamiento" data-fancybox-group="works" href="./Recursos/Servicios/Infra/storage.jpg" ><i class="fa fa-search"></i></a></li>
                                 </ul>
                             </li>
                             
                             <li class="portfolio-item">
-                                <img class="img-responsive" src="./Recursos/Servicios/IN/cloud.jpg" alt="Ofrecemos servicios de computación a través de internet (computación en la nube).">
+                                <img class="img-responsive" src="./Recursos/Servicios/Infra/computing.jpg" alt="Contamos con esta importante herramienta para lograr los objetivos de nuestros clientes. ¡Siempre en buenas condiciones!">
                                 <figcaption class="mask">
-                                    <h3>CLOUD COMPUTING</h3>
+                                    <h3>Cómputo</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" title="CLOUD COMPUTING" data-fancybox-group="works" href="./Recursos/Servicios/IN/cloud.jpg" ><i class="fa fa-search"></i></a></li>
+                                    <li><a class="fancybox" title="Cómputo" data-fancybox-group="works" href="./Recursos/Servicios/Infra/computing.jpg" ><i class="fa fa-search"></i></a></li>
                                 </ul>
                             </li>
 
                              <li class="portfolio-item" >
-                                <img class="img-responsive" src="./Recursos/Servicios/IN/consulting.jpg" alt="Contamos con el personal idóneo y capaz de brindar asesoría y soluciones especializadas para cada cliente enfocado a proyectos de TI.">
+                                <img class="img-responsive" src="./Recursos/Servicios/Infra/telephone.jpg" alt="Por este medio, podemos mantener buena comunicación con nuestros clientes.">
                                 <figcaption class="mask">
-                                    <h3>CONSULTORIA ESPECIALIZADA</h3>
+                                    <h3>Telefonía</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" title="CONSULTORIA ESPECIALIZADA" data-fancybox-group="works" href="./Recursos/Servicios/IN/consulting.jpg"><i class="fa fa-search"></i></a></li>
+                                    <li><a class="fancybox" title="Telefonía" data-fancybox-group="works" href="./Recursos/Servicios/Infra/telephone.jpg"><i class="fa fa-search"></i></a></li>
                                 </ul>
                             </li>
 
                             <li class="portfolio-item">
-                                <img class="img-responsive" src="./Recursos/Servicios/IN/legal.jpg" alt="Ofrecemos servicios jurídicos con ayuda de la tecnología y softwares especializados.">
+                                <img class="img-responsive" src="./Recursos/Servicios/Infra/videoconference.jpg" alt="Actualización constante con el fin de mantener siempre la comunicación con nuestros clientes. Nuestros clientes pueden comunicarse con nosotros desde la comodidad de sus hogares u oficinas.">
                                 <figcaption class="mask">
-                                    <h3>LEGALTEACH</h3>
+                                    <h3>Video Conferencia</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" title="LEGALTEACH"  data-fancybox-group="works" href="./Recursos/Servicios/IN/legal.jpg"><i class="fa fa-search"></i></a></li>
+                                    <li><a class="fancybox" title="Video Conferencia"  data-fancybox-group="works" href="./Recursos/Servicios/Infra/videoconference.jpg"><i class="fa fa-search"></i></a></li>
                                 </ul>
                             </li>
                             
                             <li class="portfolio-item">
-                                <img class="img-responsive" src="./Recursos/Servicios/IN/heal.jpg" alt=" ">
+                                <img class="img-responsive" src="./Recursos/Servicios/Infra/datacenter.jpg" alt="Contamos con el espacio necesario para almacenar los recursos .">
                                 <figcaption class="mask">
-                                    <h3>HEALTEACH</h3>
+                                    <h3>Data Center</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" title="HEALTEACH" data-fancybox-group="works" href="./Recursos/Servicios/IN/heal.jpg" ><i class="fa fa-search"></i></a></li>
+                                    <li><a class="fancybox" title="Data Center" data-fancybox-group="works" href="./Recursos/Servicios/Infra/datacenter.jpg" ><i class="fa fa-search"></i></a></li>
                                 </ul>
                             </li>
                             
                             <li class="portfolio-item">
-                                <img class="img-responsive" src="./Recursos/Servicios/IN/bim.jpg" alt="Building Information Model">
+                                <img class="img-responsive" src="./Recursos/Servicios/Infra/techsupport.jpg" alt="Brindamos ayuda y soporte a los sistemas tecnológicos de nuestros clientes. Podemos mantener la operación de su empresa o negocio a través de nuestro servicio de soporte técnico “on-demand”. Si hay algún problema, ¡lo resolvemos al instante!">
                                 <figcaption class="mask">
-                                    <h3>BIM</h3>
+                                    <h3>Soporte Técnico</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" title="BIM" data-fancybox-group="works" href="./Recursos/Servicios/IN/bim.jpg" ><i class="fa fa-search"></i></a></li>
+                                    <li><a class="fancybox" title="Soporte Técnico" data-fancybox-group="works" href="./Recursos/Servicios/Infra/techsupport.jpg" ><i class="fa fa-search"></i></a></li>
                                 </ul>
                             </li>
                             
                             <li class="portfolio-item">
-                               <img class="img-responsive" src="./Recursos/Servicios/IN/software.jpg" alt="Ayudamos a crear herramientas de software justo como su empresa o negocio lo necesita.">
+                               <img class="img-responsive" src="./Recursos/Servicios/Infra/surveillance.jpg" alt="Tenemos la tecnología para mantener la seguridad de su empresa o negocio.">
                                 <figcaption class="mask">
-                                    <h3>SOFTWARE ESPECIALIZADO</h3>
+                                    <h3>Video Vigilancia</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" title="SOFTWARE ESPECIALIZADO" data-fancybox-group="works" href="./Recursos/Servicios/IN/software.jpg" ><i class="fa fa-search"></i></a></li>
+                                    <li><a class="fancybox" title="Video Vigilancia" data-fancybox-group="works" href="./Recursos/Servicios/Infra/surveillance.jpg" ><i class="fa fa-search"></i></a></li>
                                 </ul>
                             </li>
                             
                             <li class="portfolio-item">
-                                <img class="img-responsive" src="./Recursos/Servicios/IN/cloud.jpg" alt="Ofrecemos servicios de computación a través de internet (computación en la nube).">
+                                <img class="img-responsive" src="./Recursos/Servicios/Infra/accesscontrol.jpg" alt="Verificación para el acceso a espacios físicos o lógicos.">
                                 <figcaption class="mask">
-                                    <h3>CLOUD COMPUTING</h3>
+                                    <h3>Control de Acceso</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" title="CLOUD COMPUTING" data-fancybox-group="works" href="./Recursos/Servicios/IN/cloud.jpg" ><i class="fa fa-search"></i></a></li>
+                                    <li><a class="fancybox" title="Control de Acceso" data-fancybox-group="works" href="./Recursos/Servicios/Infra/accesscontrol.jpg" ><i class="fa fa-search"></i></a></li>
                                 </ul>
                             </li>
 
                              <li class="portfolio-item" >
-                                <img class="img-responsive" src="./Recursos/Servicios/IN/consulting.jpg" alt="Contamos con el personal idóneo y capaz de brindar asesoría y soluciones especializadas para cada cliente enfocado a proyectos de TI.">
+                                <img class="img-responsive" src="./Recursos/Servicios/Infra/perimeter.jpg" alt="Contamos con el sistema de seguridad para nuestros clientes ante posibles intrusos a sus instalaciones físicas y/o tecnológicas.">
                                 <figcaption class="mask">
-                                    <h3>CONSULTORIA ESPECIALIZADA</h3>
+                                    <h3>Protección Perimetral</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" title="CONSULTORIA ESPECIALIZADA" data-fancybox-group="works" href="./Recursos/Servicios/IN/consulting.jpg"><i class="fa fa-search"></i></a></li>
+                                    <li><a class="fancybox" title="Protección Perimetral" data-fancybox-group="works" href="./Recursos/Servicios/Infra/perimeter.jpg"><i class="fa fa-search"></i></a></li>
                                 </ul>
                             </li>
                            
