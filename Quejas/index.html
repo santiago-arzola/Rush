@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700,900&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="fonts/icomoon/style.css">
+
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    
+    <!-- Style -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <title>Buzón de Quejas</title>
+  </head>
+  <body>
+  
+
+  <div class="content">
+    
+    <div class="container">
+      <div class="row align-items-stretch no-gutters contact-wrap">
+        <div class="col-md-4">
+          <div class="contact-info h-100">
+            <h3>Toda tu información es confidencial</h3>
+            <p class="mb-5">El comite de Honor y justitia revisara tu solicitud para darle seguimiento, 
+              evaluando tus argumentos y asi 
+               definir una sanción o una reunión de consejo.
+            </p>
+            <ul class="list-unstyled">
+              <li class="d-flex">
+                <span class="wrap-icon icon-room mr-3"></span>
+                <span class="text">Rush Tecnologías</span>
+              </li>
+              
+              <li class="d-flex">
+                <span class="wrap-icon icon-envelope mr-3"></span>
+                <span class="text">buzoneticarushtec@gmail.com</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-md-8">
+          <div class="form h-100">
+            <h3>Envianos tu Queja</h3>
+            <form class="mb-5" method="post" id="contactForm" name="contactForm" enctype="multipart/form-data" action="php/send-email.php">
+              <div class="row">
+                <div class="col-md-6 form-group mb-5">
+                  <label for="" class="col-form-label" >Nombre</label>
+                  <input type="text" class="form-control" name="nombre" id="name" placeholder="Puede ser anonimo">
+                </div>
+                <div class="col-md-6 form-group mb-5">
+                  <label for="" class="col-form-label">Correo</label>
+                  <input type="text" class="form-control" name="email" id="email"  >
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-md-6 form-group mb-5">
+                  <label for="" class="col-form-label">Número Telefónico</label>
+                  <input type="text" class="form-control" name="numero" id="phone" >
+                </div>
+                <div class="col-md-6 form-group mb-5">
+                  <label for="" class="col-form-label">Asunto</label>
+                  <select name= "Tipo" class="form-control" >
+                    <option value="Queja">Queja</option>
+                    <option Value="Sugerencía">Sugerencía</option>
+                  </select>
+                 
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-md-12 form-group mb-5">
+                  <label for="message" class="col-form-label">Mensaje</label>
+                  <textarea class="form-control" name="mensaje" id="message" cols="30" rows="4"  required></textarea>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-12 form-group mb-5">
+                  <label for="message" class="col-form-label">Anexo</label>
+                  <input type="file" name="adjunto" id="archivo-adjunto">    
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-12 form-group">
+                  <input type="submit" value="Enviar Mensaje" class="btn btn-primary rounded-0 py-2 px-4">
+                  <span class="submitting"></span>
+                </div>
+              </div>
+            </form>
+
+            <div id="form-message-warning mt-4"></div> 
+            <div id="form-message-success">
+              Your message was sent, thank you!
+            </div>
+
+          </div>
+        </div>
+        
+      </div>
+    </div>
+
+  </div>
+    
+
+
+  </body>
+</html>
