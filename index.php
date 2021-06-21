@@ -73,11 +73,11 @@
 				
 					<div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
 
-						<div><img style="width: 100%" src="./Recursos/Banner/fer.jpg"></div>
+						<div><img style="width: auto;" src="./Recursos/Banner/fer.jpg"></div>
 
 						<div class="slide-caption">
                             <div class="caption-content">
-                                <h2 class="animated fadeInDown">EMPRESA LIDER EN TRANSFORMACÍON DIGITAL</h2>
+                                <h2 class="animated fadeInDown" style="padding: 10rem;">EMPRESA LIDER EN TRANSFORMACÍON DIGITAL</h2>
                                 <span class="animated fadeInDown">Desde Marzo del 2016 RushTec proporciona servicios tecnológicos, consultoría,
 								diseño e implementación de soluciones personalizadas para nuestros clientes.</span>
                             </div>
@@ -91,7 +91,7 @@
 						<div class="slide-caption">
                             <div class="caption-content">
                                 <h2>Nos respaldan mas de 8 años de experiencia</h2>
-                                <span>Dedicados a la innovación e integración tecnológica, proporcionado servicio de
+                                <span style="padding: 10rem;" class="animated fadeInDown">Dedicados a la innovación e integración tecnológica, proporcionado servicio de
 								asesoramiento, diseño e implementación de soluciones personalizadas en TI. Combinamos las mejores metodologías y tecnología disponibles del mercado para impulsar la competitividad de su organización. Creemos en la tecnología como un acelerador de negocios.</span>
                             </div>
                         </div>
@@ -104,7 +104,7 @@
 						<div class="slide-caption">
                             <div class="caption-content">
                                 <h2>Sectores de atención</h2>
-                                <span>Diseñamos soluciones dirigidas a los sectores productivos y de consumo del mercado, gracias al respaldo de nuestros socios comerciales, ofrecemos integraciones con la mejor tecnología. Nuestros proyectos cuentan con un alto grado de personalización, siempre con la certeza de que obtendrá los datos, mediciones y metodologías enfocados en el cumplimiento de sus objetivos.</span>
+                                <span style="padding: 10rem;" class="animated fadeInDown">Diseñamos soluciones dirigidas a los sectores productivos y de consumo del mercado, gracias al respaldo de nuestros socios comerciales, ofrecemos integraciones con la mejor tecnología. Nuestros proyectos cuentan con un alto grado de personalización, siempre con la certeza de que obtendrá los datos, mediciones y metodologías enfocados en el cumplimiento de sus objetivos.</span>
                             </div>
                         </div>
 
@@ -295,43 +295,43 @@
 					
 						<div class="sec-title text-center wow animated fadeInDown">
 							<h2 >Transformación Digital</h2>
-							<p>Somos especialistas en transformación digital, contamos con personal calificado en Tecnologías de la Información, que permite ofrecer soluciones tecnológicas de excelencia en sus áreas de especialidad.</p>
+							<p style="padding: 3rem;">Somos especialistas en transformación digital, contamos con personal calificado en Tecnologías de la Información, que permite ofrecer soluciones tecnológicas de excelencia en sus áreas de especialidad.</p>
 						</div>
 						
 						<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="full text_align_center margin_bottom_30">
                         <div class="center">
-                            <div class="icon"> <img class="wow animated zoomIn" src="Recursos/Trans-dig/ciscologo.png" style="height: 100px; width: auto;padding-left: 9rem;"> </div>
+                            <div class="icon" style="text-align: center;"> <img class="wow animated zoomIn" src="Recursos/Trans-dig/ciscologo.png"> </div>
                         </div>
                         <h4 class="theme_color animated" style="text-align: center;">Cisco Certified</h4>
-                        <p>Cisco Certified Network Associate</p>
+                        <p style="text-align: center;">Cisco Certified Network Associate</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="full text_align_center margin_bottom_30">
                         <div class="center">
-                            <div class="icon"> <img class="wow animated zoomIn" src="Recursos/Trans-dig/itl.png" style="height: 100px; width: auto; padding: 19px;padding-left: 4rem;"> </div>
+                            <div class="icon" style="text-align: center;"> <img class="wow animated zoomIn" src="Recursos/Trans-dig/itl.png" > </div>
                         </div>
                         <h4 class="theme_color animated" style="text-align: center;">ITIL</h4>
-                        <p>The IT Infrastructure Library</p>
+                        <p style="text-align: center;">The IT Infrastructure Library</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="full text_align_center margin_bottom_30">
                         <div class="center">
-                            <div class="icon"> <img class="wow animated zoomIn" src="Recursos/Trans-dig/cobit.png" style="height: 100px; width: auto; padding: 22px;padding-left: 5rem;"> </div>
+                            <div class="icon" style="text-align: center;"> <img class="wow animated zoomIn" src="Recursos/Trans-dig/cobit.png"> </div>
                         </div>
                         <h4 class="theme_color animated" style="text-align: center;">COBIT</h4>
-                        <p>Control Objectives for Information and Related Technology</p>
+                        <p style="text-align: center;">Control Objectives for Information and Related Technology</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="full text_align_center margin_bottom_30">
                         <div class="center">
-                            <div class="icon"> <img class="wow animated zoomIn" src="Recursos/Trans-dig/cmmi.png" style="height: 100px; width: auto; padding:15px;padding-left: 10rem;"></div>
+                            <div class="icon" style="text-align: center;"> <img class="wow animated zoomIn" src="Recursos/Trans-dig/cmmi.png"></div>
                         </div>
                         <h4 class="theme_color animated" style="text-align: center;">CMMI</h4>
-                        <p>Capability Maturity Model Integration</p>
+                        <p style="text-align: center;">Capability Maturity Model Integration</p>
                     </div>
                 </div>
 			</div>
