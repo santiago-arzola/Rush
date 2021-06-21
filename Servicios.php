@@ -50,6 +50,14 @@
 	
     <body id="body">
 
+      <!-- preloader -->
+    <div id="preloader">
+            <div class="loder-box">
+              <div> <img src="./Recursos/Logos/rush junio.png"></div>
+            </div>
+    </div>
+    <!-- end preloader -->
+
     <!-- Modal Inteligencia de negocios -->
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered" role="document">
@@ -122,13 +130,7 @@
   </div>
 </div>
 
-		<!-- preloader -->
-		<div id="preloader">
-            <div class="loder-box">
-            	<div> <img src="./Recursos/Logos/rush junio.png"></div>
-            </div>
-		</div>
-		<!-- end preloader -->
+		
 
         <!--
         Fixed Navigation

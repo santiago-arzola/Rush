@@ -748,7 +748,7 @@ ul.external li a:hover {
 }
 
 .testimonial-item img {
-    border: 3px solid #fff;
+    border: 3px;
     border-radius: 50%;
     display: inline-block;
     height: auto;

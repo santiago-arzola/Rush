@@ -6,7 +6,7 @@
         <meta charset="utf-8">
         <!-- Always force latest IE rendering engine or request Chrome Frame -->
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Rush Tecnologias</title>     
+        <title>Clientes</title>     
         <!-- Meta Description -->
         <meta name="description" content="Blue One Page Creative HTML5 Template">
         <meta name="keywords" content="one page, single page, onepage, responsive, parallax, creative, business, html5, css3, css3 animation">
@@ -70,7 +70,7 @@
                             
                             <div id="testimonial" class=" wow animated fadeInUp">
                                 <div class="testimonial-item text-center">
-                                    <img class="img-responsive" src="./Recursos/Logos/R oficial.png" alt="Our Clients">
+                                    <img class="img-responsive" src="./Recursos/Logos/R.png" alt="Our Clients">
                                     <div class="clearfix">
                                         <span>Nuestros clientes</span>
                                         <p>Sabemos que nuestros clientes tienen grandes metas y también grandes desafíos, por eso, ofrecemos un alto grado de personalización en las soluciones. Nuestra misión es el éxito de tu proyecto, siempre con la visión, que la tecnología sea el principal catalizador de tu organización.</p>
@@ -86,10 +86,8 @@
                     </div>
                 </div>
             </section>
-            <!-- end Clientes section -->
+        <!-- end Clientes section -->
 
-                 <!-- footer
-        ==================================== -->
 
         <!-- Gobierno section -->
             <section id="portfolio" style="margin-top:7rem;">
@@ -103,62 +101,62 @@
 
                         <ul class="project-wrapper wow animated fadeInUp">
                             <li class="portfolio-item">
-                                <img class="img-responsive" src="./Recursos/Servicios/IN/legal.jpg">
+                                <img class="img-responsive" src="./Recursos/Clientes/Gob/tjalogo.png">
                                 <figcaption class="mask">
-                                    <h3>LEGALTEACH</h3>
+                                    <h3>TJA</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/legal.jpg"><i class="fa fa-link"></i></a></li>
+                                    <li><a class="fancybox" data-fancybox-group="works" href="https://www.tjagto.gob.mx/"><i class="fa fa-link"></i></a></li>
                                 </ul>
                             </li>
                             
                             <li class="portfolio-item">
-                                <img class="img-responsive" src="./Recursos/Servicios/IN/heal.jpg" >
+                                <img class="img-responsive" src="./Recursos/Clientes/Gob/itesilogo.png" >
                                 <figcaption class="mask">
-                                    <h3>HEALTEACH</h3>
+                                    <h3>ITESI</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/heal.jpg" ><i class="fa fa-link"></i></a></li>
+                                    <li><a class="fancybox" data-fancybox-group="works" href="https://www.itesg.edu.mx/" ><i class="fa fa-link"></i></a></li>
                                 </ul>
                             </li>
                             
                             <li class="portfolio-item">
-                                <img class="img-responsive" src="./Recursos/Servicios/IN/bim.jpg">
+                                <img class="img-responsive" src="./Recursos/Clientes/Gob/slpculturalogo.png">
                                 <figcaption class="mask">
-                                    <h3>BIM</h3>
+                                    <h3>Secretaría De Cultura</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/bim.jpg" ><i class="fa fa-link"></i></a></li>
+                                    <li><a class="fancybox" data-fancybox-group="works" href="https://slp.gob.mx/SECULT/Paginas/Inicio.aspx" ><i class="fa fa-link"></i></a></li>
                                 </ul>
                             </li>
                             
                             <li class="portfolio-item">
-                               <img class="img-responsive" src="./Recursos/Servicios/IN/software.jpg" >
+                               <img class="img-responsive" src="./Recursos/Clientes/Gob/gtoculturalogo.png" >
                                 <figcaption class="mask">
-                                    <h3>SOFTWARE ESPECIALIZADO</h3>
+                                    <h3>Instituto Estatal De La Cultura</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/software.jpg" ><i class="fa fa-link"></i></a></li>
+                                    <li><a class="fancybox" data-fancybox-group="works" href="https://cultura.guanajuato.gob.mx/" ><i class="fa fa-link"></i></a></li>
                                 </ul>
                             </li>
                             
                             <li class="portfolio-item">
-                                <img class="img-responsive" src="./Recursos/Servicios/IN/cloud.jpg">
+                                <img class="img-responsive" src="./Recursos/Clientes/Gob/simapaglogo.png">
                                 <figcaption class="mask">
-                                    <h3>CLOUD COMPUTING</h3>
+                                    <h3>SIMAPAG</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/cloud.jpg" ><i class="fa fa-link"></i></a></li>
+                                    <li><a class="fancybox" data-fancybox-group="works" href="https://www.simapag.gob.mx/" ><i class="fa fa-link"></i></a></li>
                                 </ul>
                             </li>
 
                              <li class="portfolio-item" >
-                                <img class="img-responsive" src="./Recursos/Servicios/IN/consulting.jpg">
+                                <img class="img-responsive" src="./Recursos/Clientes/Gob/gtodeportelogo.png">
                                 <figcaption class="mask">
-                                    <h3>CONSULTORIA ESPECIALIZADA</h3>
+                                    <h3>Comisión Del Deporte Del Estado de GTO</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox"data-fancybox-group="works" href="./Recursos/Servicios/IN/consulting.jpg"><i class="fa fa-link"></i></a></li>
+                                    <li><a class="fancybox"data-fancybox-group="works" href="https://www.codegto.gob.mx/"><i class="fa fa-link"></i></a></li>
                                 </ul>
                             </li>
                         </ul>
@@ -166,12 +164,9 @@
                     </div>
                 </div>
             </section>
-            <!-- end portfolio section -->
-            
-            <!-- footer
-        ==================================== -->
+        <!-- end Gobierno section -->
 
-            <!-- Iniciativa Privada section -->
+        <!-- Iniciativa Privada section -->
                 <section id="portfolio" style="margin-top:7rem;">
                     <div class="container">
                         <div class="row">
@@ -183,62 +178,62 @@
 
                             <ul class="project-wrapper wow animated fadeInUp">
                                 <li class="portfolio-item">
-                                    <img class="img-responsive" src="./Recursos/Servicios/IN/legal.jpg">
+                                    <img class="img-responsive" src="./Recursos/Clientes/Inp/caminoreallogo.png">
                                     <figcaption class="mask">
-                                        <h3>LEGALTEACH</h3>
+                                        <h3>Camino Real</h3>
                                     </figcaption>
                                     <ul class="external">
-                                        <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/legal.jpg"><i class="fa fa-link"></i></a></li>
+                                        <li><a class="fancybox" data-fancybox-group="works" href="https://www.caminoreal.com/"><i class="fa fa-link"></i></a></li>
                                     </ul>
                                 </li>
                                 
                                 <li class="portfolio-item">
-                                    <img class="img-responsive" src="./Recursos/Servicios/IN/heal.jpg" >
+                                    <img class="img-responsive" src="./Recursos/Clientes/Inp/ferreslogo.png" >
                                     <figcaption class="mask">
-                                        <h3>HEALTEACH</h3>
+                                        <h3>Ferres</h3>
                                     </figcaption>
                                     <ul class="external">
-                                        <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/heal.jpg" ><i class="fa fa-link"></i></a></li>
+                                        <li><a class="fancybox" data-fancybox-group="works" href="https://es-la.facebook.com/pages/category/Hardware-Store/Ferrescom-285857898495451/" ><i class="fa fa-link"></i></a></li>
                                     </ul>
                                 </li>
                                 
                                 <li class="portfolio-item">
-                                    <img class="img-responsive" src="./Recursos/Servicios/IN/bim.jpg">
+                                    <img class="img-responsive" src="./Recursos/Clientes/InP/gofitnesslogo.png">
                                     <figcaption class="mask">
-                                        <h3>BIM</h3>
+                                        <h3>Go Fitness</h3>
                                     </figcaption>
                                     <ul class="external">
-                                        <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/bim.jpg" ><i class="fa fa-link"></i></a></li>
+                                        <li><a class="fancybox" data-fancybox-group="works" href="http://gofitnesscenter.com.mx/home/" ><i class="fa fa-link"></i></a></li>
                                     </ul>
                                 </li>
                                 
                                 <li class="portfolio-item">
-                                   <img class="img-responsive" src="./Recursos/Servicios/IN/software.jpg" >
+                                   <img class="img-responsive" src="./Recursos/Clientes/InP/lapciclogo.png" >
                                     <figcaption class="mask">
-                                        <h3>SOFTWARE ESPECIALIZADO</h3>
+                                        <h3>LAPCIC</h3>
                                     </figcaption>
                                     <ul class="external">
-                                        <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/software.jpg" ><i class="fa fa-link"></i></a></li>
+                                        <li><a class="fancybox" data-fancybox-group="works" href="https://www.lapcic.com.mx/" ><i class="fa fa-link"></i></a></li>
                                     </ul>
                                 </li>
                                 
                                 <li class="portfolio-item">
-                                    <img class="img-responsive" src="./Recursos/Servicios/IN/cloud.jpg">
+                                    <img class="img-responsive" src="./Recursos/Clientes/InP/lavictorianalogo.png">
                                     <figcaption class="mask">
-                                        <h3>CLOUD COMPUTING</h3>
+                                        <h3>La Victoriana</h3>
                                     </figcaption>
                                     <ul class="external">
-                                        <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/cloud.jpg" ><i class="fa fa-link"></i></a></li>
+                                        <li><a class="fancybox" data-fancybox-group="works" href="https://es-la.facebook.com/LaVictorianaCafe/" ><i class="fa fa-link"></i></a></li>
                                     </ul>
                                 </li>
 
                                  <li class="portfolio-item" >
-                                    <img class="img-responsive" src="./Recursos/Servicios/IN/consulting.jpg">
+                                    <img class="img-responsive" src="./Recursos/Clientes/InP/mesoncuavanologo.png">
                                     <figcaption class="mask">
-                                        <h3>CONSULTORIA ESPECIALIZADA</h3>
+                                        <h3>Mesón Cuavano</h3>
                                     </figcaption>
                                     <ul class="external">
-                                        <li><a class="fancybox"data-fancybox-group="works" href="./Recursos/Servicios/IN/consulting.jpg"><i class="fa fa-link"></i></a></li>
+                                        <li><a class="fancybox"data-fancybox-group="works" href="https://mesoncuevano.com/"><i class="fa fa-link"></i></a></li>
                                     </ul>
                                 </li>
                             </ul>
@@ -246,9 +241,9 @@
                         </div>
                     </div>
                 </section>
-            <!-- end Iniciativa Privada section -->
+        <!-- end Iniciativa Privada section -->
 
-            <!-- Industria section -->
+        <!-- Industria section -->
                 <section id="portfolio" style="margin-top:7rem;margin-bottom: 7rem;">
                     <div class="container">
                         <div class="row">
@@ -257,65 +252,64 @@
                                 <h2>Industria</h2>
                             </div>
                             
-
                             <ul class="project-wrapper wow animated fadeInUp">
                                 <li class="portfolio-item">
-                                    <img class="img-responsive" src="./Recursos/Servicios/IN/legal.jpg">
+                                    <img class="img-responsive" src="./Recursos/Clientes/Ind/cgcapitallogo.png">
                                     <figcaption class="mask">
-                                        <h3>LEGALTEACH</h3>
+                                        <h3>CG Capital</h3>
                                     </figcaption>
                                     <ul class="external">
-                                        <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/legal.jpg"><i class="fa fa-link"></i></a></li>
+                                        <li><a class="fancybox" data-fancybox-group="works" href="https://cg-capital.com.mx/"><i class="fa fa-link"></i></a></li>
                                     </ul>
                                 </li>
                                 
                                 <li class="portfolio-item">
-                                    <img class="img-responsive" src="./Recursos/Servicios/IN/heal.jpg" >
+                                    <img class="img-responsive" src="./Recursos/Clientes/Ind/mailhotlogo.png" >
                                     <figcaption class="mask">
-                                        <h3>HEALTEACH</h3>
+                                        <h3>MAILHOT</h3>
                                     </figcaption>
                                     <ul class="external">
-                                        <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/heal.jpg" ><i class="fa fa-link"></i></a></li>
+                                        <li><a class="fancybox" data-fancybox-group="works" href="https://www.mailhotindustries.com/" ><i class="fa fa-link"></i></a></li>
                                     </ul>
                                 </li>
                                 
                                 <li class="portfolio-item">
-                                    <img class="img-responsive" src="./Recursos/Servicios/IN/bim.jpg">
+                                    <img class="img-responsive" src="./Recursos/Clientes/Ind/scviallogo.png">
                                     <figcaption class="mask">
-                                        <h3>BIM</h3>
+                                        <h3>SC Vial</h3>
                                     </figcaption>
                                     <ul class="external">
-                                        <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/bim.jpg" ><i class="fa fa-link"></i></a></li>
+                                        <li><a class="fancybox" data-fancybox-group="works" href="https://scvial.com.mx/" ><i class="fa fa-link"></i></a></li>
                                     </ul>
                                 </li>
                                 
                                 <li class="portfolio-item">
-                                   <img class="img-responsive" src="./Recursos/Servicios/IN/software.jpg" >
+                                   <img class="img-responsive" src="./Recursos/Clientes/Ind/sdiblogo.png" >
                                     <figcaption class="mask">
-                                        <h3>SOFTWARE ESPECIALIZADO</h3>
+                                        <h3>SDIB</h3>
                                     </figcaption>
                                     <ul class="external">
-                                        <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/software.jpg" ><i class="fa fa-link"></i></a></li>
+                                        <li><a class="fancybox" data-fancybox-group="works" href="https://www.sdib.com.mx/" ><i class="fa fa-link"></i></a></li>
                                     </ul>
                                 </li>
                                 
                                 <li class="portfolio-item">
-                                    <img class="img-responsive" src="./Recursos/Servicios/IN/cloud.jpg">
+                                    <img class="img-responsive" src="./Recursos/Clientes/Ind/siprosalogo.png">
                                     <figcaption class="mask">
-                                        <h3>CLOUD COMPUTING</h3>
+                                        <h3>SIPROSA</h3>
                                     </figcaption>
                                     <ul class="external">
-                                        <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/cloud.jpg" ><i class="fa fa-link"></i></a></li>
+                                        <li><a class="fancybox" data-fancybox-group="works" href="https://www.siprosa.mx/" ><i class="fa fa-link"></i></a></li>
                                     </ul>
                                 </li>
 
                                  <li class="portfolio-item" >
-                                    <img class="img-responsive" src="./Recursos/Servicios/IN/consulting.jpg">
+                                    <img class="img-responsive" src="./Recursos/Clientes/Ind/surosistemas.png">
                                     <figcaption class="mask">
-                                        <h3>CONSULTORIA ESPECIALIZADA</h3>
+                                        <h3>SURO Sistemas</h3>
                                     </figcaption>
                                     <ul class="external">
-                                        <li><a class="fancybox"data-fancybox-group="works" href="./Recursos/Servicios/IN/consulting.jpg"><i class="fa fa-link"></i></a></li>
+                                        <li><a class="fancybox"data-fancybox-group="works" href="https://www.surosystem.com/"><i class="fa fa-link"></i></a></li>
                                     </ul>
                                 </li>
                             </ul>
@@ -323,15 +317,12 @@
                         </div>
                     </div>
                 </section>
-            <!-- end Industria section -->
+        <!-- end Industria section -->
             
-            <!-- footer
-        ==================================== -->
-            
-            <!-- footer
+        <!-- footer
         ==================================== -->
 
-       <?php include_once('comun/footer.php') ?>
+            <?php include_once('comun/footer.php') ?>
         <!--
         End footer
         ==================================== -->
