@@ -6,7 +6,7 @@
         <meta charset="utf-8">
         <!-- Always force latest IE rendering engine or request Chrome Frame -->
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Rush Tecnologias</title>     
+        <title>Clientes</title>     
         <!-- Meta Description -->
         <meta name="description" content="Blue One Page Creative HTML5 Template">
         <meta name="keywords" content="one page, single page, onepage, responsive, parallax, creative, business, html5, css3, css3 animation">
@@ -70,7 +70,7 @@
                             
                             <div id="testimonial" class=" wow animated fadeInUp">
                                 <div class="testimonial-item text-center">
-                                    <img class="img-responsive" src="./Recursos/Logos/R oficial.png" alt="Our Clients">
+                                    <img class="img-responsive" src="./Recursos/Logos/R.png" alt="Our Clients">
                                     <div class="clearfix">
                                         <span>Nuestros clientes</span>
                                         <p>Sabemos que nuestros clientes tienen grandes metas y también grandes desafíos, por eso, ofrecemos un alto grado de personalización en las soluciones. Nuestra misión es el éxito de tu proyecto, siempre con la visión, que la tecnología sea el principal catalizador de tu organización.</p>
@@ -86,10 +86,8 @@
                     </div>
                 </div>
             </section>
-            <!-- end Clientes section -->
+        <!-- end Clientes section -->
 
-                 <!-- footer
-        ==================================== -->
 
         <!-- Gobierno section -->
             <section id="portfolio" style="margin-top:7rem;">
@@ -103,17 +101,17 @@
 
                         <ul class="project-wrapper wow animated fadeInUp">
                             <li class="portfolio-item">
-                                <img class="img-responsive" src="./Recursos/Servicios/IN/legal.jpg">
+                                <img class="img-responsive" src="./Recursos/Clientes/Gob/tjalogo.png">
                                 <figcaption class="mask">
                                     <h3>LEGALTEACH</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Servicios/IN/legal.jpg"><i class="fa fa-link"></i></a></li>
+                                    <li><a class="fancybox" data-fancybox-group="works" href="./Recursos/Clientes/Gob/tjalogo.png"><i class="fa fa-link"></i></a></li>
                                 </ul>
                             </li>
                             
                             <li class="portfolio-item">
-                                <img class="img-responsive" src="./Recursos/Servicios/IN/heal.jpg" >
+                                <img class="img-responsive" src="./Recursos/Clientes/Gob/itesilogo.png" >
                                 <figcaption class="mask">
                                     <h3>HEALTEACH</h3>
                                 </figcaption>
@@ -123,7 +121,7 @@
                             </li>
                             
                             <li class="portfolio-item">
-                                <img class="img-responsive" src="./Recursos/Servicios/IN/bim.jpg">
+                                <img class="img-responsive" src="./Recursos/Clientes/Gob/slpculturalogo.png">
                                 <figcaption class="mask">
                                     <h3>BIM</h3>
                                 </figcaption>
@@ -133,7 +131,7 @@
                             </li>
                             
                             <li class="portfolio-item">
-                               <img class="img-responsive" src="./Recursos/Servicios/IN/software.jpg" >
+                               <img class="img-responsive" src="./Recursos/Clientes/Gob/gtoculturalogo.png" >
                                 <figcaption class="mask">
                                     <h3>SOFTWARE ESPECIALIZADO</h3>
                                 </figcaption>
@@ -143,7 +141,7 @@
                             </li>
                             
                             <li class="portfolio-item">
-                                <img class="img-responsive" src="./Recursos/Servicios/IN/cloud.jpg">
+                                <img class="img-responsive" src="./Recursos/Clientes/Gob/simapaglogo.png">
                                 <figcaption class="mask">
                                     <h3>CLOUD COMPUTING</h3>
                                 </figcaption>
@@ -153,7 +151,7 @@
                             </li>
 
                              <li class="portfolio-item" >
-                                <img class="img-responsive" src="./Recursos/Servicios/IN/consulting.jpg">
+                                <img class="img-responsive" src="./Recursos/Clientes/Gob/gtodeportelogo.png">
                                 <figcaption class="mask">
                                     <h3>CONSULTORIA ESPECIALIZADA</h3>
                                 </figcaption>
@@ -166,12 +164,9 @@
                     </div>
                 </div>
             </section>
-            <!-- end portfolio section -->
-            
-            <!-- footer
-        ==================================== -->
+        <!-- end Gobierno section -->
 
-            <!-- Iniciativa Privada section -->
+        <!-- Iniciativa Privada section -->
                 <section id="portfolio" style="margin-top:7rem;">
                     <div class="container">
                         <div class="row">
@@ -183,7 +178,7 @@
 
                             <ul class="project-wrapper wow animated fadeInUp">
                                 <li class="portfolio-item">
-                                    <img class="img-responsive" src="./Recursos/Servicios/IN/legal.jpg">
+                                    <img class="img-responsive" src="./Recursos/Clientes/Inp/caminoreallogo.png">
                                     <figcaption class="mask">
                                         <h3>LEGALTEACH</h3>
                                     </figcaption>
@@ -193,7 +188,7 @@
                                 </li>
                                 
                                 <li class="portfolio-item">
-                                    <img class="img-responsive" src="./Recursos/Servicios/IN/heal.jpg" >
+                                    <img class="img-responsive" src="./Recursos/Clientes/Inp/ferreslogo.png" >
                                     <figcaption class="mask">
                                         <h3>HEALTEACH</h3>
                                     </figcaption>
@@ -203,7 +198,7 @@
                                 </li>
                                 
                                 <li class="portfolio-item">
-                                    <img class="img-responsive" src="./Recursos/Servicios/IN/bim.jpg">
+                                    <img class="img-responsive" src="./Recursos/Clientes/InP/gofitnesslogo.png">
                                     <figcaption class="mask">
                                         <h3>BIM</h3>
                                     </figcaption>
@@ -213,7 +208,7 @@
                                 </li>
                                 
                                 <li class="portfolio-item">
-                                   <img class="img-responsive" src="./Recursos/Servicios/IN/software.jpg" >
+                                   <img class="img-responsive" src="./Recursos/Clientes/InP/lapciclogo.png" >
                                     <figcaption class="mask">
                                         <h3>SOFTWARE ESPECIALIZADO</h3>
                                     </figcaption>
@@ -223,7 +218,7 @@
                                 </li>
                                 
                                 <li class="portfolio-item">
-                                    <img class="img-responsive" src="./Recursos/Servicios/IN/cloud.jpg">
+                                    <img class="img-responsive" src="./Recursos/Clientes/InP/lavictorianalogo.png">
                                     <figcaption class="mask">
                                         <h3>CLOUD COMPUTING</h3>
                                     </figcaption>
@@ -233,7 +228,7 @@
                                 </li>
 
                                  <li class="portfolio-item" >
-                                    <img class="img-responsive" src="./Recursos/Servicios/IN/consulting.jpg">
+                                    <img class="img-responsive" src="./Recursos/Clientes/InP/mesoncuavanologo.png">
                                     <figcaption class="mask">
                                         <h3>CONSULTORIA ESPECIALIZADA</h3>
                                     </figcaption>
@@ -246,9 +241,9 @@
                         </div>
                     </div>
                 </section>
-            <!-- end Iniciativa Privada section -->
+        <!-- end Iniciativa Privada section -->
 
-            <!-- Industria section -->
+        <!-- Industria section -->
                 <section id="portfolio" style="margin-top:7rem;margin-bottom: 7rem;">
                     <div class="container">
                         <div class="row">
@@ -257,10 +252,9 @@
                                 <h2>Industria</h2>
                             </div>
                             
-
                             <ul class="project-wrapper wow animated fadeInUp">
                                 <li class="portfolio-item">
-                                    <img class="img-responsive" src="./Recursos/Servicios/IN/legal.jpg">
+                                    <img class="img-responsive" src="./Recursos/Clientes/Ind/cgcapitallogo.png">
                                     <figcaption class="mask">
                                         <h3>LEGALTEACH</h3>
                                     </figcaption>
@@ -270,7 +264,7 @@
                                 </li>
                                 
                                 <li class="portfolio-item">
-                                    <img class="img-responsive" src="./Recursos/Servicios/IN/heal.jpg" >
+                                    <img class="img-responsive" src="./Recursos/Clientes/Ind/mailhotlogo.png" >
                                     <figcaption class="mask">
                                         <h3>HEALTEACH</h3>
                                     </figcaption>
@@ -280,7 +274,7 @@
                                 </li>
                                 
                                 <li class="portfolio-item">
-                                    <img class="img-responsive" src="./Recursos/Servicios/IN/bim.jpg">
+                                    <img class="img-responsive" src="./Recursos/Clientes/Ind/scviallogo.png">
                                     <figcaption class="mask">
                                         <h3>BIM</h3>
                                     </figcaption>
@@ -290,7 +284,7 @@
                                 </li>
                                 
                                 <li class="portfolio-item">
-                                   <img class="img-responsive" src="./Recursos/Servicios/IN/software.jpg" >
+                                   <img class="img-responsive" src="./Recursos/Clientes/Ind/sdiblogo.png" >
                                     <figcaption class="mask">
                                         <h3>SOFTWARE ESPECIALIZADO</h3>
                                     </figcaption>
@@ -300,7 +294,7 @@
                                 </li>
                                 
                                 <li class="portfolio-item">
-                                    <img class="img-responsive" src="./Recursos/Servicios/IN/cloud.jpg">
+                                    <img class="img-responsive" src="./Recursos/Clientes/Ind/siprosalogo.png">
                                     <figcaption class="mask">
                                         <h3>CLOUD COMPUTING</h3>
                                     </figcaption>
@@ -310,7 +304,7 @@
                                 </li>
 
                                  <li class="portfolio-item" >
-                                    <img class="img-responsive" src="./Recursos/Servicios/IN/consulting.jpg">
+                                    <img class="img-responsive" src="./Recursos/Clientes/Ind/surosistemas.png">
                                     <figcaption class="mask">
                                         <h3>CONSULTORIA ESPECIALIZADA</h3>
                                     </figcaption>
@@ -323,15 +317,12 @@
                         </div>
                     </div>
                 </section>
-            <!-- end Industria section -->
+        <!-- end Industria section -->
             
-            <!-- footer
-        ==================================== -->
-            
-            <!-- footer
+        <!-- footer
         ==================================== -->
 
-       <?php include_once('comun/footer.php') ?>
+            <?php include_once('comun/footer.php') ?>
         <!--
         End footer
         ==================================== -->

@@ -32,7 +32,7 @@
                         </ul>
                     </li>
                         <li><a href="./Contacto.php">Contactanos</a></li>
-                        <li><a href="#">Vinculacion</a></li>
+                        <li><a href="./Vinculacion.php">Vinculacion</a></li>
                     </ul>
                 </nav>
 				<!-- /main nav -->
