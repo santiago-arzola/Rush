@@ -44,7 +44,7 @@
                 <div class="col-lg-12">
                   <div class="bunner-content-modern text-center">
                     <h1 class="main-bunner-title">En Rush Tecnologías S.A de C.V</h1>
-                    <p> tenemos 8 años de experiencia dedicados a la innovación e integración tecnológica, proporcionado servicio de asesoramiento, diseño e implementación de soluciones personalizadas en TI. Combinamos las mejores metodologías y tecnología disponibles del mercado para impulsar la competitividad de su organización. Creemos en la tecnología como un acelerador de negocios.</p>
+                    <p> Tenemos 8 años de experiencia dedicados a la innovación e integración tecnológica, proporcionado servicio de asesoramiento, diseño e implementación de soluciones personalizadas en TI. Combinamos las mejores metodologías y tecnología disponibles del mercado para impulsar la competitividad de su organización. Creemos en la tecnología como un acelerador de negocios.</p>
                   </div>
                 </div>
               </div>
