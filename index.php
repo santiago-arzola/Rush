@@ -14,6 +14,8 @@
 		
 		<!-- Mobile Specific Meta -->
         <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+		<link rel="stylesheet" href="css/testimonial.css">
 		
 		<!-- CSS
 		================================================== -->
@@ -140,39 +142,8 @@
         End Home SliderEnd
         ==================================== -->
 			
-			<!-- about section -->
-			<section id="about" >
-				<div class="container">
-					<div class="row">
-						<div class="col-md-4 wow animated fadeInLeft">
-							<div class="recent-works">
-								<h3>Recent Works</h3>
-								<div id="works">
-									<div class="work-item">
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> <br> There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-									</div>
-									<div class="work-item">
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br><br> There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-									</div>
-									<div class="work-item">
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br><br> There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-7 col-md-offset-1 wow animated fadeInRight">
-							<div class="welcome-block">
-								<h3>Welcome To Our Site</h3>								
-						     	 <div class="message-body">
-									<img src="img/member-1.jpg" class="pull-left" alt="member">
-						       		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
-						     	 </div>
-						       	<a href="#" class="btn btn-border btn-effect pull-right">Read More</a>
-						    </div>
-						</div>
-					</div>
-				</div>
-			</section>
+			<!--Testimonial -->
+			
 			<!-- end about section -->
 			
 			
@@ -387,7 +358,80 @@
 					</div>
 				</div>
 			</section>
-			<!-- end Social section -->
+
+
+
+			<!-- Testimonial -->
+
+			<section id="about" >
+				<div class="container">
+					<div class="row">
+					<div class="container">
+                 <div class="row">
+                    <div class="col-md-12" data-wow-delay="0.2s">
+                        <div class="carousel slide" data-ride="carousel" id="quote-carousel">
+                            <!-- Bottom Carousel Indicators -->
+                            <ol class="carousel-indicators">
+                                <li data-target="#quote-carousel" data-slide-to="0" class="active"><img class="img-responsive " src="Recursos/Testimonios/Monse.jpg" alt="">
+                                </li>
+                                <li data-target="#quote-carousel" data-slide-to="1"><img class="img-responsive" src="Recursos/Testimonios/aline.jpg" alt="">
+                                </li>
+                                <li data-target="#quote-carousel" data-slide-to="2"><img class="img-responsive" src="Recursos/Testimonios/Monse.jpg" alt="">
+                                </li>
+                            </ol>
+
+                            <!-- Carousel Slides / Quotes -->
+                            <div class="carousel-inner text-center">
+
+                                <!-- Quote 1 -->
+                                <div class="item active">
+                                    <blockquote>
+                                        <div class="row">
+                                            <div class="col-sm-8 col-sm-offset-2">
+
+                                                <p>Rush tecnologias es una empresa para mi...</p>
+                                                <small>Monse </small>
+                                            </div>
+                                        </div>
+                                    </blockquote>
+                                </div>
+                                <!-- Quote 2 -->
+                                <div class="item">
+                                    <blockquote>
+                                        <div class="row">
+                                            <div class="col-sm-8 col-sm-offset-2">
+
+											   <p>Rush tecnologias es una empresa para mi...</p>
+                                                <small>Monse </small>
+                                            </div>
+                                        </div>
+                                    </blockquote>
+                                </div>
+                                <!-- Quote 3 -->
+                                <div class="item">
+                                    <blockquote>
+                                        <div class="row">
+                                            <div class="col-sm-8 col-sm-offset-2">
+
+											    <p>Rush tecnologias es una empresa para mi...</p>
+                                                <small>Monse </small>
+                                            </div>
+                                        </div>
+                                    </blockquote>
+                                </div>
+                            </div>
+
+                            <!-- Carousel Buttons Next/Prev -->
+                            <a data-slide="prev" href="#quote-carousel" class="left carousel-control"><i class="fa fa-chevron-left"></i></a>
+                            <a data-slide="next" href="#quote-carousel" class="right carousel-control"><i class="fa fa-chevron-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+				</div>
+					</div>
+				</div>
+			</section>
+			
 			
 			<!-- Contact section -->
 			
