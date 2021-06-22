@@ -12,7 +12,7 @@
                     <div style="margin: 2rem;">
                         <div class="col-md-4">
                             <div>
-                                <h4 style="color:white; text-transform:uppercase;letter-spacing: 2px;">Links adicionales</h4>
+                                <h4 style="color:white; text-transform:uppercase;letter-spacing: 2px;">rushtec</h4>
                             </div>
                              <ul>
                                 <li><a href="./Nosotros.php" ><i class="fa fa-angle-right"></i> Acerca de nosotros</a>
@@ -44,9 +44,9 @@
                                 <span><a href="tel:+9876543210" >473 6903832</a></span></p>
                            <div class="footer-social" style="margin-top:3rem" >
 								<ul >
-									<li class="wow animated zoomIn" data-wow-delay="0.3s"><a href="#"><i class="fa fa-twitter fa-3x"></i></a></li>
-									<li class="wow animated zoomIn" data-wow-delay="0.9s"><a href="#"><i class="fa fa-instagram fa-3x"></i></a></li>
-									<li class="wow animated zoomIn" data-wow-delay="1.2s"><a href="#"><i class="fa fa-facebook fa-3x"></i></a></li>
+									<li class="wow animated zoomIn" data-wow-delay="0.3s"><a href="https://twitter.com/rushtecgto"><i class="fa fa-twitter fa-3x"></i></a></li>
+									<li class="wow animated zoomIn" data-wow-delay="0.9s"><a href="https://www.instagram.com/rushtecgto/"><i class="fa fa-instagram fa-3x"></i></a></li>
+									<li class="wow animated zoomIn" data-wow-delay="1.2s"><a href="https://www.facebook.com/rushtecgto"><i class="fa fa-facebook fa-3x"></i></a></li>
 								</ul>
 						</div>
 
