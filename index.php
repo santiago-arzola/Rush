@@ -73,7 +73,7 @@
 				
 					<div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
 
-						<div><img style="width: auto;" src="./Recursos/Banner/fer.jpg"></div>
+						<div><img src="./Recursos/Banner/td.jpg"></div>
 
 						<div class="slide-caption">
                             <div class="caption-content">
@@ -349,9 +349,9 @@
 							</div>
 							
 							<ul class="social-button">
-								<li class="wow animated zoomIn"><a href="#"><i class="fa fa-facebook fa-2x"></i></a></li>
-								<li class="wow animated zoomIn" data-wow-delay="0.3s"><a href="#"><i class="fa fa-twitter fa-2x"></i></a></li>
-								<li class="wow animated zoomIn" data-wow-delay="0.6s"><a href="#"><i class="fa fa-instagram fa-2x"></i></a></li>							
+								<li class="wow animated zoomIn"><a href="https://www.facebook.com/rushtecgto"><i class="fa fa-facebook fa-2x"></i></a></li>
+								<li class="wow animated zoomIn" data-wow-delay="0.3s"><a href="https://twitter.com/rushtecgto"><i class="fa fa-twitter fa-2x"></i></a></li>
+								<li class="wow animated zoomIn" data-wow-delay="0.6s"><a href="https://www.instagram.com/rushtecgto/"><i class="fa fa-instagram fa-2x"></i></a></li>							
 							</ul>
 							
 						</div>
@@ -361,7 +361,7 @@
 
 
 
-			<!-- Testimonial -->
+		<!-- Testimonial -->
 
 			<section id="about" >
 				<div class="container">
