@@ -52,9 +52,7 @@
 		</div>
 		<!-- end preloader -->
 
-        <!--
-        Fixed Navigation
-        ==================================== -->
+        <!--Fixed Navigation-->
        <?php include_once('comun/menu.php') ?>
         <!--
         End Fixed Navigation
@@ -141,11 +139,6 @@
         <!--
         End Home SliderEnd
         ==================================== -->
-			
-			<!--Testimonial -->
-			
-			<!-- end about section -->
-			
 			
 			<!-- Service section -->
 			<section id="service" style="margin-top: 3rem;margin-bottom: 3rem;">
@@ -265,11 +258,9 @@
 				</div>
 			</section>
 
-
-
 		<!-- Testimonial -->
 
-			<section id="about" >
+		<section id="about" >
 				<div class="container">
 					<div class="row">
 					<div class="container">
@@ -336,20 +327,21 @@
 				</div>
 					</div>
 				</div>
-			</section>
+		</section>		
+
+		
 			
 			
-			<!-- Contact section -->
-			
-			<?php include_once('Contacto.php') ?>
-			
-			<!-- end Contact section -->
-			
-			<?php include_once('comun/footer.php') ?>
+
+
 			
 		</main>
+
+			
 		
+			
 		
+		<?php include_once('comun/footer.php') ?>
 		
 		
 		<!-- Essential jQuery Plugins
