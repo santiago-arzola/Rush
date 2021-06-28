@@ -52,9 +52,7 @@
 		</div>
 		<!-- end preloader -->
 
-        <!--
-        Fixed Navigation
-        ==================================== -->
+        <!--Fixed Navigation-->
        <?php include_once('comun/menu.php') ?>
         <!--
         End Fixed Navigation
@@ -77,7 +75,7 @@
 
 						<div class="slide-caption">
                             <div class="caption-content">
-                                <h2 class="animated fadeInDown" style="padding: 10rem;">EMPRESA LIDER EN TRANSFORMACÍON DIGITAL</h2>
+                                <h2 class="animated fadeInDown" style="padding: 10rem;">EMPRESA LÍDER EN TRANSFORMACIÓN DIGITAL</h2>
                                 <span class="animated fadeInDown">Desde Marzo del 2016 RushTec proporciona servicios tecnológicos, consultoría,
 								diseño e implementación de soluciones personalizadas para nuestros clientes.</span>
                             </div>
@@ -90,7 +88,7 @@
 						<div class="bg-img bg-img-2"></div>
 						<div class="slide-caption">
                             <div class="caption-content">
-                                <h2>Nos respaldan mas de 8 años de experiencia</h2>
+                                <h2>Nos respaldan más de 8 años de experiencia</h2>
                                 <span style="padding: 10rem;" class="animated fadeInDown">Dedicados a la innovación e integración tecnológica, proporcionado servicio de
 								asesoramiento, diseño e implementación de soluciones personalizadas en TI. Combinamos las mejores metodologías y tecnología disponibles del mercado para impulsar la competitividad de su organización. Creemos en la tecnología como un acelerador de negocios.</span>
                             </div>
@@ -141,11 +139,6 @@
         <!--
         End Home SliderEnd
         ==================================== -->
-			
-			<!--Testimonial -->
-			
-			<!-- end about section -->
-			
 			
 			<!-- Service section -->
 			<section id="service" style="margin-top: 3rem;margin-bottom: 3rem;">
@@ -265,16 +258,11 @@
 				</div>
 			</section>
 
-
-
 		<!-- Testimonial -->
-
-			
-              
-        
-
+		<section id="about" >
+				<div class="container">
 			<section id="testimonials2" class="parallax" >
-				<div class="overlay"">
+				<div class="overlay">
 					<div class="row">
 						<div class="container">
 								<div class="row">
@@ -339,20 +327,21 @@
 						</div>
 					</div>
 				</div>
-			</section>
+		</section>		
+
+		
 			
 			
-			<!-- Contact section -->
-			
-			<?php include_once('Contacto.php') ?>
-			
-			<!-- end Contact section -->
-			
-			<?php include_once('comun/footer.php') ?>
+
+
 			
 		</main>
+
+			
 		
+			
 		
+		<?php include_once('comun/footer.php') ?>
 		
 		
 		<!-- Essential jQuery Plugins

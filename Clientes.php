@@ -73,11 +73,11 @@
                                     <img class="img-responsive" src="./Recursos/Logos/R.png" alt="Our Clients">
                                     <div class="clearfix">
                                         <span>Nuestros clientes</span>
-                                        <p>Sabemos que nuestros clientes tienen grandes metas y también grandes desafíos, por eso, ofrecemos un alto grado de personalización en las soluciones. Nuestra misión es el éxito de tu proyecto, siempre con la visión, que la tecnología sea el principal catalizador de tu organización.</p>
+                                        <p style="color: white;">Sabemos que nuestros clientes tienen grandes metas y también grandes desafíos, por eso, ofrecemos un alto grado de personalización en las soluciones. Nuestra misión es el éxito de tu proyecto, siempre con la visión, que la tecnología sea el principal catalizador de tu organización.</p>
 
-                                        <p>Gobierno</p>
-                                        <p>Iniciativa</p> 
-                                        <p>PrivadaIndustria</p>
+                                        <p style="color: white;">Gobierno</p>
+                                        <p style="color: white;">Iniciativa</p> 
+                                        <p style="color: white;">PrivadaIndustria</p>
                                     </div>
                                 </div>
                             </div>

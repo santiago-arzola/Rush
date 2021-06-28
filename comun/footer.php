@@ -14,7 +14,7 @@
                             <div>
                                 <h4 style="color:white; text-transform:uppercase;letter-spacing: 2px;">rushtec</h4>
                             </div>
-                             <ul>
+                             <ul style="padding-left: 0rem;">
                                 <li><a href="./Nosotros.php" ><i class="fa fa-angle-right"></i> Acerca de nosotros</a>
                                 </li>
                                 <!--<li><a href="politica.html"><i class="fa fa-angle-right"></i> Política de
@@ -27,7 +27,7 @@
                             <div class="main-heading left_text">
                                 <h4 style="color:white; text-transform:uppercase; letter-spacing: 2px">Servicios</h4>
                             </div>
-                            <ul>
+                            <ul style="padding-left: 0rem;">
                                 <li><a href="./IN.php"><i class="fa fa-angle-right"></i> Inteligencia de negocios</a></li>
                                 <li><a href="./Infraestructura.php"><i class="fa fa-angle-right"></i>
                                         Infraestructura</a></li>
