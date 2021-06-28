@@ -7,7 +7,7 @@
                     <!-- responsive nav button -->
                     <button style="height: 4rem;" type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                         <h1 class="navbar-brand">
-                            <a href="./index.php"><img src="./Recursos/Logos/R oficial.png" alt="logo" style="margin-left: -55rem;height: 40px;width: 47px;margin-top: -2rem;"></a>
+                            <a href="./index.php"><img src="./Recursos/Logos/R oficial.png" alt="logo" style="margin-left: -64rem;height: 40px;width: 40px;margin-top: -2rem;"></a>
                         </h1>
                         <span class="sr-only">Toggle navigation</span>
                         <span class="icon-bar"></span>
