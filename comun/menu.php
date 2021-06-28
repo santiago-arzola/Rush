@@ -18,7 +18,7 @@
                     
                     <!-- logo -->
                     <h1 class="navbar-brand">
-                        <a href="./index.php"><img src="./Recursos/Logos/R oficial.png" alt="logo" style="margin-left: -7rem; height: 54px; width: 63px;margin-top: -2rem;"></a>
+                        <a href="./index.php"><img src="./Recursos/Logos/R oficial.png" alt="logo" style="margin-left: -7rem; height: 54px; width: 57px;margin-top: -2rem;"></a>
                     </h1>
                     <!-- /logo -->
                 </div>
@@ -37,7 +37,7 @@
                                 <li><a style="color: white;" href="Logistica.php">Logistica</a></li>
                             </ul>
                         <li><a href="./Vinculacion.php">Vinculacion</a></li>
-                        <li><a href="./Contacto.php">Contactanos</a></li>
+                        <li><a href="./Contacto.php">Contáctanos</a></li>
                     </ul>
                 </nav>
                 <!-- /main nav -->

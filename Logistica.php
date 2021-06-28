@@ -75,7 +75,7 @@
                                     <h3>E-commerce</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" title="LEGALTEACH"  data-fancybox-group="works" href="./Recursos/Servicios/Logis/ecommerce.jpg"><i class="fa fa-search"></i></a></li>
+                                    <li><a class="fancybox" title="E-commerce"  data-fancybox-group="works" href="./Recursos/Servicios/Logis/ecommerce.jpg"><i class="fa fa-search"></i></a></li>
                                 </ul>
                             </li>
                             
@@ -85,7 +85,7 @@
                                     <h3>Logística</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" title="HEALTEACH" data-fancybox-group="works" href="./Recursos/Servicios/Logis/logistics.jpg" ><i class="fa fa-search"></i></a></li>
+                                    <li><a class="fancybox" title="Logística" data-fancybox-group="works" href="./Recursos/Servicios/Logis/logistics.jpg" ><i class="fa fa-search"></i></a></li>
                                 </ul>
                             </li>
                             
@@ -95,7 +95,7 @@
                                     <h3>Social Media Strategist</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" title="BIM" data-fancybox-group="works" href="./Recursos/Servicios/Logis/socialmedia.jpg" ><i class="fa fa-search"></i></a></li>
+                                    <li><a class="fancybox" title="Social Media Strategist" data-fancybox-group="works" href="./Recursos/Servicios/Logis/socialmedia.jpg" ><i class="fa fa-search"></i></a></li>
                                 </ul>
                             </li>
                             
@@ -105,7 +105,7 @@
                                     <h3>Branding</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" title="SOFTWARE ESPECIALIZADO" data-fancybox-group="works" href="./Recursos/Servicios/Logis/branding.jpg" ><i class="fa fa-search"></i></a></li>
+                                    <li><a class="fancybox" title="Branding" data-fancybox-group="works" href="./Recursos/Servicios/Logis/branding.jpg" ><i class="fa fa-search"></i></a></li>
                                 </ul>
                             </li>
                             
@@ -115,7 +115,7 @@
                                     <h3>Fintech</h3>
                                 </figcaption>
                                 <ul class="external">
-                                    <li><a class="fancybox" title="CLOUD COMPUTING" data-fancybox-group="works" href="./Recursos/Servicios/Logis/fintech.jpg" ><i class="fa fa-search"></i></a></li>
+                                    <li><a class="fancybox" title="Fintech" data-fancybox-group="works" href="./Recursos/Servicios/Logis/fintech.jpg" ><i class="fa fa-search"></i></a></li>
                                 </ul>
                             </li>
 

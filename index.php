@@ -75,7 +75,7 @@
 
 						<div class="slide-caption">
                             <div class="caption-content">
-                                <h2 class="animated fadeInDown" style="padding: 10rem;">EMPRESA LIDER EN TRANSFORMACÍON DIGITAL</h2>
+                                <h2 class="animated fadeInDown" style="padding: 10rem;">EMPRESA LÍDER EN TRANSFORMACIÓN DIGITAL</h2>
                                 <span class="animated fadeInDown">Desde Marzo del 2016 RushTec proporciona servicios tecnológicos, consultoría,
 								diseño e implementación de soluciones personalizadas para nuestros clientes.</span>
                             </div>
@@ -88,7 +88,7 @@
 						<div class="bg-img bg-img-2"></div>
 						<div class="slide-caption">
                             <div class="caption-content">
-                                <h2>Nos respaldan mas de 8 años de experiencia</h2>
+                                <h2>Nos respaldan más de 8 años de experiencia</h2>
                                 <span style="padding: 10rem;" class="animated fadeInDown">Dedicados a la innovación e integración tecnológica, proporcionado servicio de
 								asesoramiento, diseño e implementación de soluciones personalizadas en TI. Combinamos las mejores metodologías y tecnología disponibles del mercado para impulsar la competitividad de su organización. Creemos en la tecnología como un acelerador de negocios.</span>
                             </div>
