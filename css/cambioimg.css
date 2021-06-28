@@ -1,0 +1,46 @@
+.imagen1{
+	width: 700px;
+	height: 400px;
+	background-image: url(../Recursos/Somos/imagen1.jpg);
+	margin: 100px auto;
+	position: relative;
+	
+}
+.imagen2{
+	background-image: url(../Recursos/Somos/imagen2.jpg);
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	max-width: 100%;
+
+	resize: horizontal;
+	overflow: hidden; 
+	
+}
+.imagen2:before{
+	content:"\2194";
+	color: 	#fff;
+	font-size: 	15px;
+	background-color: 	rgba(0,0,0,0.7);
+	height: 100%;
+	line-height: 760px;			
+
+
+	position: 	absolute;	
+	top: 0;	
+	right: 	0;
+	cursor: e-resize;
+
+}
+
+textarea{
+	opacity: 0;
+
+	width: 	20px;	
+	height:  10px;
+	position: 	relative;	
+	top: 50%;
+	transform: scaleY(30);	
+	cursor: e-resize;
+}

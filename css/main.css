@@ -725,10 +725,23 @@ ul.external li a:hover {
 	Testimonials
 ==================================================================*/
 
+#testimonials2 {
+    background-image: url(../Recursos/Testimonios/RUSH.png);
+    padding: 0;
+    color: #fff;
+}
+#testimonials2 .overlay {
+    background-color: rgb(66 103 121 / 89%);
+    padding: 70px 0 40px;
+}
+
 
 #testimonials {
     background-image: url(../Recursos/Clientes/banner.jpg);
     padding: 0;
+    color: #fff;
+}
+#testimonialstex{
     color: #fff;
 }
 
