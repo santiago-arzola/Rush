@@ -1,27 +1,34 @@
 <!DOCTYPE html>
 <html class="wide wow-animation" lang="en">
+
   <head>
     <title>Nosotros</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="icon" href="images/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="./Recursos/Logos/R oficial.png" rel="icon"/>
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Poppins:300,300i,400,500,600,700,800,900,900i%7CRoboto:400%7CRubik:100,400,700">
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/fonts.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/mision.css">
     <link rel="stylesheet" href="css/animate.css">
+  
+		<!--imagen -->
+     <link rel="Stylesheet" href="css/cambioimg.css">
     
-
-   
 		<!-- Main Stylesheet -->
     <link rel="stylesheet" href="css/main.css">
+
+		<!-- Modernizer Script for old Browsers -->
+    <script src="js/modernizr-2.6.2.min.js"></script>
 
     
     <style>.ie-panel{display: none;background: #212121;padding: 10px 0;box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3);clear: both;text-align:center;position: relative;z-index: 1;} html.ie-10 .ie-panel, html.lt-ie-10 .ie-panel {display: block;}</style>
   </head>
   <body>
+
+
     <div class="ie-panel"><a href="http://windows.microsoft.com/en-US/internet-explorer/"><img src="images/ie8-panel/warning_bar_0000_us.jpg" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."></a></div>
     <div class="preloader">
       <div class="preloader-body">
@@ -34,7 +41,7 @@
       <!-- Page Header-->
      
         <!-- RD Navbar-->
-        
+        <?php include_once('comun/menu.php'); ?>
       <!-- Inicio-->
         <section class="section section-lg section-main-bunner section-main-bunner-filter">
           <div class="main-bunner-img" style="background-image: url(&quot;Recursos/Somos/aniversario.jpg&quot;); background-size: cover;"></div>
@@ -103,12 +110,12 @@
             <div class="row row-50 justify-content-lg-between align-items-lg-center">
               <div class="col-lg-6">
                 <div class="box-img-animate">
-                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;: 0, &quot;x&quot;: 140,  &quot;smoothness&quot;: 50 }"><img src="images/animate-img-1.jpg" alt=""></div>
-                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;: 150, &quot;x&quot;: 0,  &quot;smoothness&quot;: 50 }"><img src="images/animate-img-2.jpg" alt=""></div>
-                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;:70, &quot;x&quot;: -250,  &quot;smoothness&quot;: 50 }"><img src="images/animate-img-3.jpg" alt=""></div>
-                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;:20, &quot;x&quot;: 20,  &quot;smoothness&quot;: 50 }"><img src="images/animate-img-4.jpg" alt=""></div>
-                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;:60, &quot;x&quot;: 70,  &quot;smoothness&quot;: 50 }"><img src="images/animate-img-5.jpg" alt=""></div>
-                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;:0, &quot;x&quot;: 140,  &quot;smoothness&quot;: 50 }"><img src="images/animate-img-6.jpg" alt=""></div>
+                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;: 0, &quot;x&quot;: 140,  &quot;smoothness&quot;: 50 }"><img src="Recursos/Somos/miembros/217x153 ale.jpg" alt=""></div>
+                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;: 150, &quot;x&quot;: 0,  &quot;smoothness&quot;: 50 }"><img src="Recursos/Somos/miembros/271x191 ezequiel.jpg" alt=""></div>
+                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;:70, &quot;x&quot;: -250,  &quot;smoothness&quot;: 50 }"><img src="Recursos/Somos/miembros/271x191 pablo.jpg" alt=""></div>
+                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;:20, &quot;x&quot;: 20,  &quot;smoothness&quot;: 50 }"><img src="Recursos/Somos/miembros/339x239 ana.jpg" alt=""></div>
+                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;:60, &quot;x&quot;: 70,  &quot;smoothness&quot;: 50 }"><img src="Recursos/Somos/miembros/217x153 karen.jpg" alt=""></div>
+                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;:0, &quot;x&quot;: 140,  &quot;smoothness&quot;: 50 }"><img src="Recursos/Somos/miembros/179x126 adri.jpg" alt=""></div>
                 </div>
               </div>
               
@@ -164,6 +171,17 @@
             </div>
           </div>
         </section>
+        <section>
+          <h2> NUESTRO EQUIPO DE TRABAJO</h2>
+          <p align="center">En Rush Tec tenemos un equipo de trabajadores multidiciplinario.</p>
+           <div class="imagen1">
+             <div class="imagen2" style="width: 360px;">
+               <textarea readonly>
+                 
+               </textarea>
+             </div>
+           </div>
+        </section>
 
 
       <!--Team-->
@@ -179,7 +197,7 @@
 
               <ul class="project-wrapper wow animated fadeInUp">
                 <li class="portfolio-item">
-                  <img src="Recursos/Miembros/m6.jpg" class="img-responsive" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat">
+                  <img src="Recursos/Miembros/luz.jpg" class="img-responsive" alt="">
                   <figcaption class="mask">
                     <h4 style="color:#ffffff">Luz Elena</h4>
                     <p>Razo montoya</p>
@@ -189,7 +207,7 @@
                 </li>
                 
                 <li class="portfolio-item">
-                  <img src="Recursos/Miembros/m2.jpg" class="img-responsive" alt="Lorem Ipsum is simply dummy text of the printing and typesetting ndustry. ">
+                  <img src="Recursos/Miembros/fernando.jpg" class="img-responsive" alt="">
                   <figcaption class="mask">
                     <h4 style="color:#ffffff">Luz Elena</h4>
                     <p>Razo montoya</p>
@@ -199,7 +217,7 @@
                 </li>
                 
                 <li class="portfolio-item">
-                  <img src="Recursos/Miembros/m1.jpg" class="img-responsive" alt="Lorem Ipsum is simply dummy text of the printing and typesetting ndustry. ">
+                  <img src="Recursos/Miembros/pao.jpg" class="img-responsive" alt="">
                   <figcaption class="mask">
                     <h4 style="color:#ffffff">Luz Elena</h4>
                     <p>Razo montoya</p>
@@ -225,7 +243,7 @@
                   <div class="innset-xl-right-30 innset-xl-left-30">
                     <div class="wow slideInDown">
                         <h3>Empleado</h3>
-                            <p></p>
+                            <p>Destacados</p>
                         <div class="col-md-9 col-lg-7 wow-outer">
                           <div class="wow slideInDown">
                             
@@ -236,7 +254,7 @@
                         <div class="col-md-6 col-lg-4 wow-outer">
                           <div class="wow fadeInUp">
                             <article class="box-causes">
-                              <div class="box-causes-img"><img src="Recursos/Miembros/m1.jpg" alt="" width="372" height="396"/><a class="button button-sm button-primary" href="#">Empleado del mes</a>
+                              <div class="box-causes-img"><img src="Recursos/Miembros/ezequiel.jpg" alt="" width="372" height="396"/><a class="button button-sm button-primary" href="#">Empleado del mes</a>
                               </div>
                               
                             </article>
@@ -245,7 +263,7 @@
                         <div class="col-md-6 col-lg-4 wow-outer">
                           <div class="wow fadeInUp">
                             <article class="box-causes">
-                              <div class="box-causes-img"><img src="Recursos/Miembros/m1.jpg" alt="" width="372" height="396"/><a class="button button-sm button-primary" href="#">Puntualidad</a>
+                              <div class="box-causes-img"><img src="Recursos/Miembros/pao.jpg" alt="" width="372" height="396"/><a class="button button-sm button-primary" href="#">Puntualidad</a>
                               </div>
                               
                             </article>
@@ -254,7 +272,7 @@
                         <div class="col-md-6 col-lg-4 wow-outer">
                           <div class="wow fadeInUp">
                             <article class="box-causes">
-                              <div class="box-causes-img"><img src="Recursos/Miembros/m1.jpg" alt="" width="372" height="396"/><a class="button button-sm button-primary" href="#">Cumpleañero</a>
+                              <div class="box-causes-img"><img src="Recursos/Miembros/isaura.jpg" alt="" width="372" height="396"/><a class="button button-sm button-primary" href="#">Cumpleañero</a>
                               </div>
                             
                             </article>

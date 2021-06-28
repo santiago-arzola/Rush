@@ -260,71 +260,80 @@
 
 		<!-- Testimonial -->
 
+<<<<<<< HEAD
 		<section id="about" >
 				<div class="container">
+=======
+			
+              
+        
+
+			<section id="testimonials2" class="parallax" >
+				<div class="overlay"">
+>>>>>>> 7fd64913316ddf9a2b82335d08cc63be95a2713e
 					<div class="row">
-					<div class="container">
-                 <div class="row">
-                    <div class="col-md-12" data-wow-delay="0.2s">
-                        <div class="carousel slide" data-ride="carousel" id="quote-carousel">
-                            <!-- Bottom Carousel Indicators -->
-                            <ol class="carousel-indicators">
-                                <li data-target="#quote-carousel" data-slide-to="0" class="active"><img class="img-responsive " src="Recursos/Testimonios/Monse.jpg" alt="">
-                                </li>
-                                <li data-target="#quote-carousel" data-slide-to="1"><img class="img-responsive" src="Recursos/Testimonios/aline.jpg" alt="">
-                                </li>
-                                <li data-target="#quote-carousel" data-slide-to="2"><img class="img-responsive" src="Recursos/Testimonios/Monse.jpg" alt="">
-                                </li>
-                            </ol>
+						<div class="container">
+								<div class="row">
+									<div class="col-md-12" data-wow-delay="0.2s">
+										<div class="carousel slide" data-ride="carousel" id="quote-carousel">
+											<!-- Bottom Carousel Indicators -->
+											<ol class="carousel-indicators">
+												<li data-target="#quote-carousel" data-slide-to="0" class="active"><img class="img-responsive " src="Recursos/Testimonios/Monse.jpg" alt="">
+												</li>
+												<li data-target="#quote-carousel" data-slide-to="1"><img class="img-responsive" src="Recursos/Testimonios/aline.jpg" alt="">
+												</li>
+												<li data-target="#quote-carousel" data-slide-to="2"><img class="img-responsive" src="Recursos/Testimonios/Monse.jpg" alt="">
+												</li>
+											</ol>
 
-                            <!-- Carousel Slides / Quotes -->
-                            <div class="carousel-inner text-center">
+											<!-- Carousel Slides / Quotes -->
+											<div class="carousel-inner text-center">
 
-                                <!-- Quote 1 -->
-                                <div class="item active">
-                                    <blockquote>
-                                        <div class="row">
-                                            <div class="col-sm-8 col-sm-offset-2">
+												<!-- Quote 1 -->
+												<div class="item active">
+													<blockquote>
+														<div class="row">
+															<div class="col-sm-8 col-sm-offset-2">
 
-                                                <p>Rush tecnologias es una empresa para mi...</p>
-                                                <small>Monse </small>
-                                            </div>
-                                        </div>
-                                    </blockquote>
-                                </div>
-                                <!-- Quote 2 -->
-                                <div class="item">
-                                    <blockquote>
-                                        <div class="row">
-                                            <div class="col-sm-8 col-sm-offset-2">
+																<p style="color:#ffffff"> Rush tecnologias es una empresa para mi...</p>
+																<small>Monse </small>
+															</div>
+														</div>
+													</blockquote>
+												</div>
+												<!-- Quote 2 -->
+												<div class="item">
+													<blockquote>
+														<div class="row">
+															<div class="col-sm-8 col-sm-offset-2">
 
-											   <p>Rush tecnologias es una empresa para mi...</p>
-                                                <small>Monse </small>
-                                            </div>
-                                        </div>
-                                    </blockquote>
-                                </div>
-                                <!-- Quote 3 -->
-                                <div class="item">
-                                    <blockquote>
-                                        <div class="row">
-                                            <div class="col-sm-8 col-sm-offset-2">
+															<p style="color:#ffffff">Rush tecnologias es una empresa para mi...</p>
+																<small>Monse </small>
+															</div>
+														</div>
+													</blockquote>
+												</div>
+												<!-- Quote 3 -->
+												<div class="item">
+													<blockquote>
+														<div class="row">
+															<div class="col-sm-8 col-sm-offset-2">
 
-											    <p>Rush tecnologias es una empresa para mi...</p>
-                                                <small>Monse </small>
-                                            </div>
-                                        </div>
-                                    </blockquote>
-                                </div>
-                            </div>
+																<p style="color:#ffffff">Rush tecnologias es una empresa para mi...</p>
+																<small>Monse </small>
+															</div>
+														</div>
+													</blockquote>
+												</div>
+											</div>
 
-                            <!-- Carousel Buttons Next/Prev -->
-                            <a data-slide="prev" href="#quote-carousel" class="left carousel-control"><i class="fa fa-chevron-left"></i></a>
-                            <a data-slide="next" href="#quote-carousel" class="right carousel-control"><i class="fa fa-chevron-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-				</div>
+											<!-- Carousel Buttons Next/Prev -->
+											<a data-slide="prev" href="#quote-carousel" class="left carousel-control"><i class="fa fa-chevron-left"></i></a>
+											<a data-slide="next" href="#quote-carousel" class="right carousel-control"><i class="fa fa-chevron-right"></i></a>
+										</div>
+									</div>
+								</div>
+						</div>
 					</div>
 				</div>
 		</section>		
