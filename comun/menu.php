@@ -2,7 +2,10 @@
             <div class="container">
                 <div class="navbar-header">
                     <!-- responsive nav button -->
-					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+					<button style="height: 4rem;" type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <h1 class="navbar-brand">
+                            <a href="./index.php"><img src="./Recursos/Logos/R oficial.png" alt="logo" style="margin-left: -55rem;height: 40px;width: 47px;margin-top: -2rem;"></a>
+                        </h1>
 						<span class="sr-only">Toggle navigation</span>
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
@@ -27,8 +30,8 @@
                         <a href="./Servicios.php" class="dropdown-toggle">SERVICIOS</a>
                         <ul class="dropdown-menu multi-level">
                             <li class="dropdown"><a href="IN.php">Inteligencia de negocios</a></li>
-                            <li class="dropdown"><a href="">Infraestructura</a></li>
-                            <li class="dropdown"><a href="">Logistica</a></li>
+                            <li class="dropdown"><a href="Infraestructura.php">Infraestructura</a></li>
+                            <li class="dropdown"><a href="Logistica.php">Logistica</a></li>
                         </ul>
                     </li>
                         <li><a href="./Contacto.php">Contactanos</a></li>

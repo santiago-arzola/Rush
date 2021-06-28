@@ -64,7 +64,7 @@
                     
                         <div class="sec-title text-center wow animated fadeInDown">
                             <h2>INTELIGENCIA DE NEGOCIOS</h2>
-                            <p>Nuestro servicios asociados a la inteligencia de negocios.</p>
+                            <p style="padding: 1%;">Nuestro servicios asociados a la inteligencia de negocios.</p>
                         </div>
                         
 
