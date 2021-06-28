@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="css/mision.css">
     <link rel="stylesheet" href="css/animate.css">
   
+
 		<!--imagen -->
      <link rel="Stylesheet" href="css/cambioimg.css">
     
@@ -23,13 +24,27 @@
 		<!-- Modernizer Script for old Browsers -->
     <script src="js/modernizr-2.6.2.min.js"></script>
 
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+        <!-- bootstrap.min -->
+   <link rel="stylesheet" href="css/jquery.fancybox.css">
+        <!-- bootstrap.min -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+        <!-- bootstrap.min -->
+       
+    <link rel="stylesheet" href="css/slit-slider.css">
+      
+    <link rel="stylesheet" href="css/main.css">
+
     
-    <style>.ie-panel{display: none;background: #212121;padding: 10px 0;box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3);clear: both;text-align:center;position: relative;z-index: 1;} html.ie-10 .ie-panel, html.lt-ie-10 .ie-panel {display: block;}</style>
+
+
+    
+ 
   </head>
   <body>
 
 
-    <div class="ie-panel"><a href="http://windows.microsoft.com/en-US/internet-explorer/"><img src="images/ie8-panel/warning_bar_0000_us.jpg" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."></a></div>
+   
     <div class="preloader">
       <div class="preloader-body">
         <div class="cssload-container">
@@ -41,7 +56,7 @@
       <!-- Page Header-->
      
         <!-- RD Navbar-->
-        <?php include_once('comun/menu.php'); ?>
+        <?php include_once('comun/menu.php') ?>
       <!-- Inicio-->
         <section class="section section-lg section-main-bunner section-main-bunner-filter">
           <div class="main-bunner-img" style="background-image: url(&quot;Recursos/Somos/aniversario.jpg&quot;); background-size: cover;"></div>
@@ -235,15 +250,15 @@
         </section>
 
       <!--cuadro de honor-->
-        <section class="parallax-container bg-gray-600" data-parallax-img="Recursos/Somos/bg-celebracion.jpg">
+        <section class="parallax-container bg-gray-600" data-parallax-img="Recursos/Somos/cuadro.png">
           <div class="parallax-content section-xxl text-center">
             <div class="container">
               <div class="row justify-content-md-center">
                 <div class="col-md-9 col-lg-8 col-xl-8 wow-outer">
                   <div class="innset-xl-right-30 innset-xl-left-30">
                     <div class="wow slideInDown">
-                        <h3>Empleado</h3>
-                            <p>Destacados</p>
+                        <h3 style="color:#EFB810">Empleado</h3>
+                            <h5 style="color:#b7b7b7">Del Mes</h5>
                         <div class="col-md-9 col-lg-7 wow-outer">
                           <div class="wow slideInDown">
                             
@@ -285,36 +300,9 @@
               </div>
             </div>
           </div>
-        </section><a class="section section-banner" href="" style="background-image: url(images/banner/background-03-1920x310.jpg); background-image: -webkit-image-set( url(images/banner/background-03-1920x310.jpg) 1x, url(images/banner/background-03-3840x620.jpg) 2x )" target="_blank"><img src="images/banner/foreground-03-1600x310.png" srcset="images/banner/foreground-03-1600x310.png 1x, images/banner/foreground-03-3200x620.png 2x" alt="" width="1600" height="310"></a>
+        </section><img src="Recursos/Somos/fondo.png" width="1600" height="310">
       <!-- Page Footer-->
-        <footer class="section footer-minimal context-dark">
-          <div class="container wow-outer">
-            <div class="wow fadeIn">
-              <div class="row row-50 row-lg-60">
-                <div class="col-12"><a href="index.html"><img src="images/logo-inverse-415x103.png" alt="" width="207" height="51"/></a></div>
-                <div class="col-12">
-                  <ul class="footer-minimal-nav">
-                    <li><a href="about-us.html">About Us</a></li>
-                    <li><a href="#">Causes</a></li>
-                    <li><a href="#">Gallery</a></li>
-                    <li><a href="#">Team</a></li>
-                    <li><a href="contacts.html">Contacts</a></li>
-                  </ul>
-                </div>
-                <div class="col-12">
-                  <ul class="social-list">
-                    <li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="#"></a></li>
-                    <li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="#"></a></li>
-                    <li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" href="#"></a></li>
-                    <li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-youtube-play" href="#"></a></li>
-                    <li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-pinterest-p" href="#"></a></li>
-                  </ul>
-                </div>
-              </div>
-              <p class="rights"><span>&copy;&nbsp;</span><span class="copyright-year"></span><span>&nbsp;</span><span>Helper</span><span>.&nbsp;</span><span>All Rights Reserved.</span><span>&nbsp;</span>Design&nbsp;by&nbsp;<a href="https://www.templatemonster.com/">Templatemonster</a></p>
-            </div>
-          </div>
-        </footer>
+        <?php include_once('comun/footer.php') ?>
     </div>
     <div class="snackbars" id="form-output-global"></div>
     <script src="js/core.min.js"></script>
@@ -356,5 +344,27 @@
 		</script>
     <script src="js/index.js"></script>
     <!-- coded by ragnar-->
+      <script src="js/jquery-1.11.1.min.js"></script>
+    <!-- Twitter Bootstrap -->
+        <script src="js/bootstrap.min.js"></script>
+    <!-- Single Page Nav -->
+        <script src="js/jquery.singlePageNav.min.js"></script>
+    <!-- jquery.fancybox.pack -->
+        <script src="js/jquery.fancybox.pack.js"></script>
+    <!-- Google Map API -->
+    <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+    <!-- Owl Carousel -->
+        <script src="js/owl.carousel.min.js"></script>
+        <!-- jquery easing -->
+        <script src="js/jquery.easing.min.js"></script>
+        <!-- Fullscreen slider -->
+        <script src="js/jquery.slitslider.js"></script>
+        <script src="js/jquery.ba-cond.min.js"></script>
+    <!-- onscroll animation -->
+        <script src="js/wow.min.js"></script>
+    <!-- Custom Functions -->
+        <script src="js/main.js"></script>
+
+
   </body>
 </html>
