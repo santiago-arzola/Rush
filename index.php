@@ -259,18 +259,10 @@
 			</section>
 
 		<!-- Testimonial -->
-
-<<<<<<< HEAD
 		<section id="about" >
 				<div class="container">
-=======
-			
-              
-        
-
 			<section id="testimonials2" class="parallax" >
-				<div class="overlay"">
->>>>>>> 7fd64913316ddf9a2b82335d08cc63be95a2713e
+				<div class="overlay">
 					<div class="row">
 						<div class="container">
 								<div class="row">
