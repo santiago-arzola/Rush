@@ -30,7 +30,7 @@
                         <li><a href="./Clientes.php">Clientes</a></li>
                         <li><a  href="./Nosotros.php">Acerca de Nosotros</a></li>
                         <li class="dropdown">
-                            <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true"> <span class="nav-label">Servicios</span> <span class="caret"></span></a>
+                            <a href="" class="dropdown-toggle" data-toggle="dropdown"> <span class="nav-label">Servicios</span> <span class="caret"></span></a>
                             <ul class="dropdown-menu" style="background-color: rgba(0,0,0,.4);">
                                 <li><a style="color: white;" href="IN.php">Inteligencia de negocios</a></li>
                                 <li><a style="color: white;" href="Infraestructura.php">Infraestructura</a></li>
