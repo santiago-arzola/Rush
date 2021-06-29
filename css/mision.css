@@ -197,7 +197,14 @@
     .item > label {
       font-size: 1.3rem;
     }
+
   }
+  .item>li{
+      display: contents
+    }
+  .list>li{
+      display: contents
+    }
   
   .content_testimonial-1 .picto {
     height: 100px;
