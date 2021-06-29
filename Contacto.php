@@ -69,7 +69,7 @@
                         
                         
                         <div class="col-md-7 contact-form wow animated fadeInLeft">
-                            <form  action="Enviar.php" method="post">
+                            <form method="post">
                                 <div class="input-field">
                                     <input type="text" name="name" class="form-control" placeholder="Nombre">
                                 </div>
@@ -82,8 +82,9 @@
                                 <div class="input-field">
                                     <textarea name="message" class="form-control" placeholder="Mensaje"></textarea>
                                 </div>
-                                <button type="submit" id="submit" class="btn btn-blue btn-effect"><i class="fa fa-paper-plane fa-lg"></i></button>
+                                <button type="submit" name="enviar" class="btn btn-blue btn-effect"><i class="fa fa-paper-plane fa-lg"></i></button>
                             </form>
+                            <?php include("Enviar.php");?>
                         </div>
                         
                         <div class="col-md-5 wow animated fadeInRight" style="MARGIN-TOP: -24px;">
