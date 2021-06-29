@@ -8,7 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="shortcut icon" href="./Recursos/Logos/R oficial.png" rel="icon"/>
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Poppins:300,300i,400,500,600,700,800,900,900i%7CRoboto:400%7CRubik:100,400,700">
-    <link rel="stylesheet" href="css/bootstrap.css">
+   
     <link rel="stylesheet" href="css/fonts.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/mision.css">
@@ -18,21 +18,14 @@
 		<!--imagen -->
      <link rel="Stylesheet" href="css/cambioimg.css">
     
-		<!-- Main Stylesheet -->
-    <link rel="stylesheet" href="css/main.css">
 
-		<!-- Modernizer Script for old Browsers -->
-    <script src="js/modernizr-2.6.2.min.js"></script>
-
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-        <!-- bootstrap.min -->
-   <link rel="stylesheet" href="css/jquery.fancybox.css">
+  
+   
         <!-- bootstrap.min -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
         <!-- bootstrap.min -->
        
-    <link rel="stylesheet" href="css/slit-slider.css">
-      
+
     <link rel="stylesheet" href="css/main.css">
 
     
@@ -344,26 +337,9 @@
 		</script>
     <script src="js/index.js"></script>
     <!-- coded by ragnar-->
-      <script src="js/jquery-1.11.1.min.js"></script>
+
     <!-- Twitter Bootstrap -->
-        <script src="js/bootstrap.min.js"></script>
-    <!-- Single Page Nav -->
-        <script src="js/jquery.singlePageNav.min.js"></script>
-    <!-- jquery.fancybox.pack -->
-        <script src="js/jquery.fancybox.pack.js"></script>
-    <!-- Google Map API -->
-    <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
-    <!-- Owl Carousel -->
-        <script src="js/owl.carousel.min.js"></script>
-        <!-- jquery easing -->
-        <script src="js/jquery.easing.min.js"></script>
-        <!-- Fullscreen slider -->
-        <script src="js/jquery.slitslider.js"></script>
-        <script src="js/jquery.ba-cond.min.js"></script>
-    <!-- onscroll animation -->
-        <script src="js/wow.min.js"></script>
-    <!-- Custom Functions -->
-        <script src="js/main.js"></script>
+   
 
 
   </body>
