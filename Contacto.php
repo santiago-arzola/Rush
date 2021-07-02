@@ -69,7 +69,7 @@
                         
                         
                         <div class="col-md-7 contact-form wow animated fadeInLeft">
-                            <form method="post">
+                            <form method="post" action="Enviar.php">
                                 <div class="input-field">
                                     <input type="text" name="name" class="form-control" placeholder="Nombre">
                                 </div>
@@ -84,7 +84,6 @@
                                 </div>
                                 <button type="submit" name="enviar" class="btn btn-blue btn-effect"><i class="fa fa-paper-plane fa-lg"></i></button>
                             </form>
-                            <?php include("Enviar.php");?>
                         </div>
                         
                         <div class="col-md-5 wow animated fadeInRight" style="MARGIN-TOP: -24px;">

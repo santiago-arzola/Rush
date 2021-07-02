@@ -85,7 +85,7 @@
 					
 					<div class="sl-slide" data-orientation="vertical" data-slice1-rotation="10" data-slice2-rotation="-15" data-slice1-scale="1.5" data-slice2-scale="1.5">
 					
-						<div class="bg-img bg-img-2"></div>
+						<div><img src="./Recursos/Banner/exp.jpg"></div>
 						<div class="slide-caption">
                             <div class="caption-content">
                                 <h2>Nos respaldan más de 8 años de experiencia</h2>
@@ -98,7 +98,7 @@
 					
 					<div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="3" data-slice2-rotation="3" data-slice1-scale="2" data-slice2-scale="1">
 						
-						<div class="bg-img bg-img-3"></div>
+						<div><img src="./Recursos/Banner/gto.jpg"></div>
 						<div class="slide-caption">
                             <div class="caption-content">
                                 <h2>Sectores de atención</h2>
