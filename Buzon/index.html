@@ -27,10 +27,7 @@
         <div class="col-md-4">
           <div class="contact-info h-100">
             <h3>Toda tu información es confidencial</h3>
-            <p class="mb-5">El comite de Honor y justitia revisara tu solicitud para darle seguimiento, 
-              evaluando tus argumentos y asi 
-               definir una sanción o una reunión de consejo.
-            </p>
+            <p class="mb-5">El comité de Honor y Justicia revisara tu solicitud para darle seguimiento como evaluar tus argumentos , el cual definirá si se requiere de una sanción o una reunión de consejo. </p>
             <ul class="list-unstyled">
               <li class="d-flex">
                 <span class="wrap-icon icon-room mr-3"></span>
@@ -47,26 +44,23 @@
         <div class="col-md-8">
           <div class="form h-100">
             <h3>Envianos tu Queja</h3>
-            <form class="mb-5" method="post" id="contactForm" name="contactForm" enctype="multipart/form-data" action="php/send-email.php">
+            <form class="mb-5" method="post" id="contactForm" name="contactForm" enctype="multipart/form-data" action="enviar.php">
               <div class="row">
                 <div class="col-md-6 form-group mb-5">
                   <label for="" class="col-form-label" >Nombre</label>
-                  <input type="text" class="form-control" name="nombre" id="name" placeholder="Puede ser anonimo">
+                  <input type="text" class="form-control" name="Nombre" id="name" placeholder="Puede ser anonimo">
                 </div>
                 <div class="col-md-6 form-group mb-5">
                   <label for="" class="col-form-label">Correo</label>
-                  <input type="text" class="form-control" name="email" id="email"  >
+                  <input type="text" class="form-control" name="Email" id="email"  >
                 </div>
               </div>
 
               <div class="row">
-                <div class="col-md-6 form-group mb-5">
-                  <label for="" class="col-form-label">Número Telefónico</label>
-                  <input type="text" class="form-control" name="numero" id="phone" >
-                </div>
+                
                 <div class="col-md-6 form-group mb-5">
                   <label for="" class="col-form-label">Asunto</label>
-                  <select name= "Tipo" class="form-control" >
+                  <select name= "Tipo[]" class="form-control" >
                     <option value="Queja">Queja</option>
                     <option Value="Sugerencía">Sugerencía</option>
                   </select>
@@ -77,7 +71,7 @@
               <div class="row">
                 <div class="col-md-12 form-group mb-5">
                   <label for="message" class="col-form-label">Mensaje</label>
-                  <textarea class="form-control" name="mensaje" id="message" cols="30" rows="4"  required></textarea>
+                  <textarea class="form-control" name="Mensaje" id="message" cols="30" rows="4"  required></textarea>
                 </div>
               </div>
               <div class="row">
