@@ -85,7 +85,7 @@
 					
 					<div class="sl-slide" data-orientation="vertical" data-slice1-rotation="10" data-slice2-rotation="-15" data-slice1-scale="1.5" data-slice2-scale="1.5">
 					
-						<div class="bg-img bg-img-2"></div>
+						<div><img src="./Recursos/Banner/exp.jpg"></div>
 						<div class="slide-caption">
                             <div class="caption-content">
                                 <h2>Nos respaldan más de 8 años de experiencia</h2>
@@ -98,7 +98,7 @@
 					
 					<div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="3" data-slice2-rotation="3" data-slice1-scale="2" data-slice2-scale="1">
 						
-						<div class="bg-img bg-img-3"></div>
+						<div><img src="./Recursos/Banner/gto.jpg"></div>
 						<div class="slide-caption">
                             <div class="caption-content">
                                 <h2>Sectores de atención</h2>
@@ -152,7 +152,7 @@
 						<div class="col-md-4 col-sm-6 col-xs-12 text-center wow animated zoomIn">
 							<div class="service-item">
 								<a style="color: #818181;" href="./Servicios.php">
-									<div class="service-icon">
+									<div class="service-icon" style="margin-top: 2rem;">
 										<i class="fa fa-building fa-3x"></i>
 									</div>
 									<h3>Inteligencia de negocios</h3>
@@ -164,7 +164,7 @@
 						<div class="col-md-4 col-sm-6 col-xs-12 text-center wow animated zoomIn" data-wow-delay="0.3s">
 							<div class="service-item">
 								<a style="color: #818181;" href="./Servicios.php">
-									<div class="service-icon">
+									<div class="service-icon" style="margin-top: 2rem;">
 										<i class="fa fa-tasks fa-3x"></i>
 									</div>
 									<h3>Logística</h3>
@@ -175,7 +175,7 @@
 						<div class="col-md-4 col-sm-6 col-xs-12 text-center wow animated zoomIn" data-wow-delay="0.6s">
 							<div class="service-item">
 								<a style="color: #818181;" href="./Servicios.php">
-									<div class="service-icon">
+									<div class="service-icon" style="margin-top: 2rem;">
 										<i class="fa fa-gear fa-3x"></i>
 									</div>
 									<h3>Infraestructura</h3>
