@@ -6,11 +6,11 @@ $titulo = "PRUEBA DE TITULO";
 $headers = "MIME-Version: 1.0\r\n"; 
 $headers .= "Content-type: text/html; charset=iso-8859-1\r\n"; 
 //dirección del remitente 
-$headers .= "From: Geeky Theory < tu_dirección_email >\r\n";
+$headers .= "From: Santi031698@gmail.com\r\n";
 //Enviamos el mensaje a tu_dirección_email 
-$bool = mail("Santi031698@gmail.com",$titulo,$mail,$headers);
-if($bool){
-    echo "Mensaje enviado";
+$success = mail("Santi031698@gmail.com",$titulo,$mail,$headers);
+if($success){
+    $errorMessage = error_get_last()['message'];
 }else{
     echo "Mensaje no enviado";
 }
