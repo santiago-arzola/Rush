@@ -1241,6 +1241,26 @@ textarea.form-control {
     body {
         font-size: 14px;
     }
+    #home-slider{
+        margin-bottom: -23rem;
+        margin-top: -13rem;
+    }
+    .nav-dots {
+        text-align: center;
+        position: absolute;
+        bottom: 23%;
+        height: 30px;
+        width: 100%;
+        left: 0;
+        z-index: 1000;
+    }
+    .bg-img {
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: contain;
+        height: 100%;
+        width: 100%;
+        }
 
     .parallax {
         background-position: centet tip !important;
@@ -1270,7 +1290,7 @@ textarea.form-control {
     }
 
     .caption-content > span {
-        padding: 5rem;
+        padding: 5rem!important;
         font-size: 16px;
         margin-bottom: 20px;
     }

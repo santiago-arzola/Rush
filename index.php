@@ -67,42 +67,79 @@
 		<section id="home-slider">
             <div id="slider" class="sl-slider-wrapper">
 
+					<div class="sl-slider ">
+				
+						<div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
+							<a  href="./Nosotros.php">
+
+							<div class="bg-img bg-img-1"></div>
+
+							<div class="slide-caption">
+	                            <div class="caption-content">
+	                                
+	                              
+	                            </div>
+	                        </div></a>
+							
+						</div>
+						
+						<div class="sl-slide" data-orientation="vertical" data-slice1-rotation="10" data-slice2-rotation="-15" data-slice1-scale="1.5" data-slice2-scale="1.5">
+							<a href="https://issuu.com/adridula/docs/broshure_legaltech_final_hojas">
+						
+							<div class="bg-img bg-img-2"></div>
+							<div class="slide-caption">
+	                            <div class="caption-content">
+	                            </div>
+	                        </div>
+							
+						</div></a>
+						
+						<div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="3" data-slice2-rotation="3" data-slice1-scale="2" data-slice2-scale="1">
+							<a href="Infraestructura.php">
+							
+							<div class="bg-img bg-img-3"></div>
+							<div class="slide-caption">
+	                            <div class="caption-content">
+	                            
+	                            </div>
+	                        </div>
+
+						</div></a>
+
+					</div><!-- /sl-slider -->
+
+
 				<div class="sl-slider">
 				
 					<div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
-
-						<div><img src="./Recursos/Banner/td.jpg"></div>
+						<a href="Logistica.php">
+						<div class="bg-img bg-img-4"></div>
 
 						<div class="slide-caption">
                             <div class="caption-content">
-                                <h2 class="animated fadeInDown" style="padding: 10rem;">EMPRESA LÍDER EN TRANSFORMACIÓN DIGITAL</h2>
-                                <span class="animated fadeInDown">Desde Marzo del 2016 RushTec proporciona servicios tecnológicos, consultoría,
-								diseño e implementación de soluciones personalizadas para nuestros clientes.</span>
+                                
+                              
                             </div>
-                        </div>
+                        </div></a>
 						
 					</div>
 					
 					<div class="sl-slide" data-orientation="vertical" data-slice1-rotation="10" data-slice2-rotation="-15" data-slice1-scale="1.5" data-slice2-scale="1.5">
-					
-						<div><img src="./Recursos/Banner/exp.jpg"></div>
+						<a href="IN.php">
+						<div class="bg-img bg-img-5"></div>
 						<div class="slide-caption">
                             <div class="caption-content">
-                                <h2>Nos respaldan más de 8 años de experiencia</h2>
-                                <span style="padding: 10rem;" class="animated fadeInDown">Dedicados a la innovación e integración tecnológica, proporcionado servicio de
-								asesoramiento, diseño e implementación de soluciones personalizadas en TI. Combinamos las mejores metodologías y tecnología disponibles del mercado para impulsar la competitividad de su organización. Creemos en la tecnología como un acelerador de negocios.</span>
                             </div>
-                        </div>
+                        </div></a>
 						
 					</div>
 					
 					<div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="3" data-slice2-rotation="3" data-slice1-scale="2" data-slice2-scale="1">
 						
-						<div><img src="./Recursos/Banner/gto.jpg"></div>
+						<div class="bg-img bg-img-2"></div>
 						<div class="slide-caption">
                             <div class="caption-content">
-                                <h2>Sectores de atención</h2>
-                                <span style="padding: 10rem;" class="animated fadeInDown">Diseñamos soluciones dirigidas a los sectores productivos y de consumo del mercado, gracias al respaldo de nuestros socios comerciales, ofrecemos integraciones con la mejor tecnología. Nuestros proyectos cuentan con un alto grado de personalización, siempre con la certeza de que obtendrá los datos, mediciones y metodologías enfocados en el cumplimiento de sus objetivos.</span>
+                            
                             </div>
                         </div>
 

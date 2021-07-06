@@ -154,13 +154,22 @@
 }
 
 .bg-img-1 {
-	background-image: url(../img/slider/banner.jpg);
+	background-image: url(../Recursos/Banner/td.gif);
 }
 .bg-img-2 {
-	background-image: url(../img/slider/affinity.jpeg);
+	background-image: url(../Recursos/Banner/lt.gif);
 }
 .bg-img-3 {
-	background-image: url(../img/slider/cinelli.jpeg);
+	background-image: url(../Recursos/Banner/infra.gif);
+}
+.bg-img-4 {
+	background-image: url(../Recursos/Banner/logistica.gif);
+}
+.bg-img-5 {
+	background-image: url(../Recursos/Banner/inteligencia.gif);
+}
+.bg-img-6 {
+	background-image: url(../Recursos/Banner/experiencia.gif);
 }
 
 
