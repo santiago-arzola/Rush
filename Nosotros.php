@@ -28,6 +28,9 @@
 
     <link rel="stylesheet" href="css/main.css">
 
+  
+    <link rel="stylesheet" href="css/team.css">
+
     
 
 
@@ -58,7 +61,7 @@
               <div class="row row-50 justify-content-lg-center align-items-lg-center">
                 <div class="col-lg-12">
                   <div class="bunner-content-modern text-center">
-                    <h1 class="main-bunner-title">En Rush Tecnologías S.A de C.V</h1>
+                    <h1 class="main-bunner-title" style="margin-top: 52px;">En Rush Tecnologías S.A de C.V</h1>
                     <p> Tenemos 8 años de experiencia dedicados a la innovación e integración tecnológica, proporcionado servicio de asesoramiento, diseño e implementación de soluciones personalizadas en TI. Combinamos las mejores metodologías y tecnología disponibles del mercado para impulsar la competitividad de su organización. Creemos en la tecnología como un acelerador de negocios.</p>
                   </div>
                 </div>
@@ -116,16 +119,6 @@
         <section class="section section-xl">
           <div class="container">
             <div class="row row-50 justify-content-lg-between align-items-lg-center">
-              <div class="col-lg-6">
-                <div class="box-img-animate">
-                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;: 0, &quot;x&quot;: 140,  &quot;smoothness&quot;: 50 }"><img src="Recursos/Somos/miembros/217x153 ale.jpg" alt=""></div>
-                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;: 150, &quot;x&quot;: 0,  &quot;smoothness&quot;: 50 }"><img src="Recursos/Somos/miembros/271x191 ezequiel.jpg" alt=""></div>
-                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;:70, &quot;x&quot;: -250,  &quot;smoothness&quot;: 50 }"><img src="Recursos/Somos/miembros/271x191 pablo.jpg" alt=""></div>
-                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;:20, &quot;x&quot;: 20,  &quot;smoothness&quot;: 50 }"><img src="Recursos/Somos/miembros/339x239 ana.jpg" alt=""></div>
-                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;:60, &quot;x&quot;: 70,  &quot;smoothness&quot;: 50 }"><img src="Recursos/Somos/miembros/217x153 karen.jpg" alt=""></div>
-                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;:0, &quot;x&quot;: 140,  &quot;smoothness&quot;: 50 }"><img src="Recursos/Somos/miembros/179x126 adri.jpg" alt=""></div>
-                </div>
-              </div>
               
               
 
@@ -136,7 +129,7 @@
                   <div class="row row-50">
                     <div class="col-md-6 col-lg-12">
                       <div class="box-icon-modern">
-                        <div class="box-icon-inner decorate-triangle" ><span ><img src="Recursos/Somos/r.png"  width="220px;"></span></div>
+                        <div class="box-icon-inner decorate-triangle" ><span ><img src="Recursos/Somos/r.png"  width="90px;"></span></div>
                         <div class="box-icon-caption">
                           <h4><a href="#">Confianza</a></h4>
                           <p>
@@ -148,7 +141,7 @@
                     </div>
                     <div class="col-md-6 col-lg-12">
                       <div class="box-icon-modern" >
-                        <div class="box-icon-inner decorate-circle" ><span><img src="Recursos/Somos/u.png" width="130px;" ></span></div>
+                        <div class="box-icon-inner decorate-circle" ><span><img src="Recursos/Somos/u.png" width="90px;" ></span></div>
                         <div class="box-icon-caption">
                           <h4><a href="#">Honestidad</a></h4>
                           <p>Entendemos la responsabilidad y los alcances de nuestros acuerdos.</p>
@@ -157,7 +150,7 @@
                     </div>
                     <div class="col-md-6 col-lg-12">
                       <div class="box-icon-modern">
-                        <div class="box-icon-inner decorate-rectangle"><span><img src="Recursos/Somos/s.png" style="width: 130px;"></span></div>
+                        <div class="box-icon-inner decorate-rectangle"><span><img src="Recursos/Somos/s.png" width="90px"></span></div>
                         <div class="box-icon-caption">
                           <h4><a href="#">Equidad</a></h4>
                           <p>Generamos desarrollo y oportunidades basados en el talento y dedicación.</p>
@@ -166,7 +159,7 @@
                     </div>
                     <div class="col-md-6 col-lg-12">
                       <div class="box-icon-modern">
-                        <div class="box-icon-inner decorate-triangle"><span><img src="Recursos/Somos/h.png" style="width: 130px;"></span></div>
+                        <div class="box-icon-inner decorate-triangle"><span><img src="Recursos/Somos/h.png" style="width: 90px;"></span></div>
                         <div class="box-icon-caption">
                           <h4><a href="#">Inclusión</a></h4>
                           <p>Creemos en un ambiente de convivencia y cooperación.</p>
@@ -176,6 +169,23 @@
                   </div>
                 </div>
               </div>
+              <div class="col-lg-6">
+                <div class="box-img-animate">
+                  
+                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;: 150, &quot;x&quot;: 0,  &quot;smoothness&quot;: 50 }"><img src="Recursos/Somos/miembros/271x191 ezequiel.jpg" alt=""></div>
+                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;: 0, &quot;x&quot;: 90,  &quot;smoothness&quot;: 50 }"><img src="Recursos/Somos/miembros/217x153 ale.jpg" alt=""></div>
+                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;:70, &quot;x&quot;: -20,  &quot;smoothness&quot;: 50 }"><img src="Recursos/Somos/miembros/217x153 karen.jpg" alt=""></div>
+                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;:20, &quot;x&quot;: 20,  &quot;smoothness&quot;: 50 }"><img src="Recursos/Somos/miembros/339x239 ana.jpg" alt=""></div>
+                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;:60, &quot;x&quot;: 70,  &quot;smoothness&quot;: 50 }"><img src="Recursos/Somos/miembros/271x191 pablo.jpg" alt=""></div>
+                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;:0, &quot;x&quot;: 60,  &quot;smoothness&quot;: 50 }"><img src="Recursos/Somos/miembros/179x126 adri.jpg" alt=""></div>
+                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;: 70, &quot;x&quot;: -70,  &quot;smoothness&quot;: 50 }"><img src="Recursos/Somos/miembros/231x191 ana.jpg" alt=""></div>
+                  
+                    <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;: 50, &quot;x&quot;: 90,  &quot;smoothness&quot;: 60 }"><img src="Recursos/Somos/miembros/217x153 miguel.jpg" alt=""></div>
+
+                </div>
+
+              </div>
+              
             </div>
           </div>
         </section>
@@ -195,51 +205,14 @@
       <!--Team-->
         <section id="portfolio" >
           <h2> TEAM </h2>
-          <div class="container">
-            <div class="row">
-            
-              <div class="sec-title text-center wow animated fadeInDown">
-                
+              <div class="slider">
+                 
+                  <div class="slide" ><img src="Recursos/Miembros/isaura.jpg" /><p>Isa</p><h6>Directora General</h6></div>
+                  <div class="slide" ><img src="Recursos/Miembros/pao.jpg" /><p>Paola Estefania Cuellar Ibarra</p><h6>Directora General</h6></div>
+                  <div class="slide" ><img src="Recursos/Miembros/fernando.jpg" /><p>Fernando Andrés Lopez Ibarra</p><h6>Director General</h6></div>
+                  <div class="slide" ><img src="Recursos/Miembros/luz.jpg" /><p>Luz Elena Razo Montoya</p><h6>Directora General</h6></div>
               </div>
-              
-
-              <ul class="project-wrapper wow animated fadeInUp">
-                <li class="portfolio-item">
-                  <img src="Recursos/Miembros/luz.jpg" class="img-responsive" alt="">
-                  <figcaption class="mask">
-                    <h4 style="color:#ffffff">Luz Elena</h4>
-                    <p>Razo montoya</p>
-                    <h5 stylr="color:#1c5884">Directora</h5>
-                  </figcaption>
-                  
-                </li>
-                
-                <li class="portfolio-item">
-                  <img src="Recursos/Miembros/fernando.jpg" class="img-responsive" alt="">
-                  <figcaption class="mask">
-                    <h4 style="color:#ffffff">Luz Elena</h4>
-                    <p>Razo montoya</p>
-                    <h5 stylr="color:#1c5884">Directora</h5>
-                  </figcaption>
-                  
-                </li>
-                
-                <li class="portfolio-item">
-                  <img src="Recursos/Miembros/pao.jpg" class="img-responsive" alt="">
-                  <figcaption class="mask">
-                    <h4 style="color:#ffffff">Luz Elena</h4>
-                    <p>Razo montoya</p>
-                    <h5 stylr="color:#1c5884">Directora</h5>
-                  </figcaption>
-                  <ul class="external">
                     
-                  </ul>
-                </li>
-                
-              </ul>
-              
-            </div>
-          </div>
         </section>
 
       <!--cuadro de honor-->
@@ -247,7 +220,7 @@
           <div class="parallax-content section-xxl text-center">
             <div class="container">
               <div class="row justify-content-md-center">
-                <div class="col-md-9 col-lg-8 col-xl-8 wow-outer">
+                <div class="col-md-9  col-lg-ll col-xl-8 wow-outer">
                   <div class="innset-xl-right-30 innset-xl-left-30">
                     <div class="wow slideInDown">
                         <h3 style="color:#EFB810">Empleado</h3>
@@ -262,7 +235,7 @@
                         <div class="col-md-6 col-lg-4 wow-outer">
                           <div class="wow fadeInUp">
                             <article class="box-causes">
-                              <div class="box-causes-img"><img src="Recursos/Miembros/ezequiel.jpg" alt="" width="372" height="396"/><a class="button button-sm button-primary" href="#">Empleado del mes</a>
+                              <div class="box-causes-img"><img class="magen" src="Recursos/Miembros/ezequiel.jpg" alt="" width="372" height="396"/><a class="button button-sm button-primary" href="#">Empleado del mes</a>
                               </div>
                               
                             </article>
@@ -271,7 +244,7 @@
                         <div class="col-md-6 col-lg-4 wow-outer">
                           <div class="wow fadeInUp">
                             <article class="box-causes">
-                              <div class="box-causes-img"><img src="Recursos/Miembros/pao.jpg" alt="" width="372" height="396"/><a class="button button-sm button-primary" href="#">Puntualidad</a>
+                              <div class="box-causes-img"><img class="magen" src="Recursos/Miembros/pao.jpg" alt="" width="372" height="396"/><a class="button button-sm button-primary" href="#">Puntualidad</a>
                               </div>
                               
                             </article>
@@ -280,7 +253,7 @@
                         <div class="col-md-6 col-lg-4 wow-outer">
                           <div class="wow fadeInUp">
                             <article class="box-causes">
-                              <div class="box-causes-img"><img src="Recursos/Miembros/isaura.jpg" alt="" width="372" height="396"/><a class="button button-sm button-primary" href="#">Cumpleañero</a>
+                              <div class="box-causes-img"><img class="magen" src="Recursos/Miembros/isaura.jpg" alt="" width="372" height="396"/><a class="button button-sm button-primary" href="#">Cumpleañero</a>
                               </div>
                             
                             </article>
@@ -293,7 +266,7 @@
               </div>
             </div>
           </div>
-        </section><img src="Recursos/Somos/fondo.png" width="1600" height="310">
+        </section><img  class="magen" src="Recursos/Somos/fondo.png" width="1600" height="310">
       <!-- Page Footer-->
         <?php include_once('comun/footer.php') ?>
     </div>
@@ -336,6 +309,7 @@
 					cycleTestimonials(0);
 		</script>
     <script src="js/index.js"></script>
+    <script src="js/team.js"></script>
     <!-- coded by ragnar-->
 
     <!-- Twitter Bootstrap -->

@@ -1436,8 +1436,11 @@ ul.social-list a:hover {
 */
 img {
 	display: inline-block;
-	max-width: 100%;
+	
 	height: auto;
+}
+.magen{
+	max-width: 50%;
 }
 
 .img-responsive {
