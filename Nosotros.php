@@ -55,7 +55,7 @@
         <?php include_once('comun/menu.php') ?>
       <!-- Inicio-->
         <section class="section section-lg section-main-bunner section-main-bunner-filter">
-          <div class="main-bunner-img" style="background-image: url(&quot;Recursos/Somos/aniversario.jpg&quot;); background-size: cover;"></div>
+          <div class="bg-img bg-img-rt"></div>
           <div class="main-bunner-inner">
             <div class="container">
               <div class="row row-50 justify-content-lg-center align-items-lg-center">
@@ -191,11 +191,12 @@
         <section>
           <h2> NUESTRO EQUIPO DE TRABAJO</h2>
           <p align="center">En Rush Tec tenemos un equipo de trabajadores multidiciplinario.</p>
-           <div class="imagen1">
-             <div class="imagen2" style="width: 360px;">
-               <textarea readonly>
-                 
-               </textarea>
+           <div>
+             <div class="imagen1">
+               <div class="imagen2">
+                 <textarea readonly> 
+                 </textarea>
+               </div>
              </div>
            </div>
         </section>
