@@ -4,7 +4,7 @@
 @-webkit-keyframes animation2{from{opacity:0; -webkit-transform:scale(1.2) rotateX(45deg);transform:scale(1.2) rotateX(45deg);} to{ }}
 
 
-.slider div p{color:#1c1c1c;position:absolute;bottom:-55px; font-family:font; font-size:22px;}
+.slider div p{color:#1c1c1c;bottom:-55px; font-family:font; font-size:22px;}
 .slider{
 
      -webkit-animation:animation ease 1s;animation-delay:.8s;animation-fill-mode:backwards;

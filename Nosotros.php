@@ -48,7 +48,7 @@
         <?php include_once('comun/menu.php') ?>
       <!-- Inicio-->
         <section class="section section-lg section-main-bunner section-main-bunner-filter">
-          <div class="main-bunner-img" style="background-image: url(&quot;Recursos/Somos/Somos.jpg&quot;); background-size: cover;"></div>
+          <div class="main-bunner-img" style="background-image: url(&quot;Recursos/Somos/rt.jpg&quot;); background-size: cover;"></div>
           <div class="main-bunner-inner">
             <div class="container">
               <div class="row row-50 justify-content-lg-center align-items-lg-center">
@@ -78,24 +78,24 @@
                   <ul class="list">
                     <li class="item">
                     <input type="radio" id="radio_testimonial-1" name="basic_carousel" checked="checked" />
-                    <label class="label_testimonial-1" for="radio_testimonial-1">Misión</label>
+                    <label class="label_testimonial-1" for="radio_testimonial-1">MISIÓN</label>
                     <div class="content-test content_testimonial-1">
                       <span class="picto"></span>
-                      <h1>Misión</h1>
+                      <h1>MISIÓN</h1>
                       <p>“Llevar innovación y vanguardia a cada organización, negocio y hogar a través de las mejores soluciones tecnológicas del mercado. Si no existe lo creamos.”</p>
-                      <p class="testimonialFrom">Rush </p>
-                      <p class="testimonialState">Tecnologías</p>
+                      <p class="testimonialFrom">RUSH </p>
+                      <p class="testimonialState">TECNOLOGÍAS</p>
                     </div>
                     </li>
                     <li class="item">
                     <input type="radio" id="radio_testimonial-2" name="basic_carousel" />
-                    <label class="label_testimonial-2" for="radio_testimonial-2">Visión</label>
+                    <label class="label_testimonial-2" for="radio_testimonial-2">VISIÓN</label>
                     <div class="content-test content_testimonial-2">
                       <span class="picto"></span>
-                      <h1>Visión</h1>
+                      <h1>VISIÓN</h1>
                       <p>“Ser la Agencia Consultora en Soluciones de TI de mejor desempeño y confiabilidad en el mercado, expandiendo el alcance comercial a toda la región del Bajío Mexicano.”</p>
-                      <p class="testimonialFrom">Rush</p>
-                      <p class="testimonialState">Tecnologías</p>
+                      <p class="testimonialFrom">RUSH</p>
+                      <p class="testimonialState">TECNOLOGÍAS</p>
                       <br>
                     </div>
                     </li>
@@ -117,14 +117,14 @@
 
               <div class="col-lg-6 col-xl-5">
                 <div class="innset-xl-left-70">
-                  <h3>Nuestros Valores</h3>
+                  <h3>NUESTROS VALORES</h3>
                   <p class="text-opacity-80">En Rush Tec creemos en la forma de nuestro equipo y sus valores dentro de la empresa.</p>
                   <div class="row row-50">
                     <div class="col-md-6 col-lg-12">
                       <div class="box-icon-modern">
                         <div class="box-icon-inner decorate-triangle" ><span ><img src="Recursos/Somos/r.png"  width="90px;"></span></div>
                         <div class="box-icon-caption">
-                          <h4><a href="#">Confianza</a></h4>
+                          <h4><a href="#">CONFIANZA</a></h4>
                           <p>
                             Fomentamos relaciones a largo plazo con nuestros clientes
                             demostrando la calidad de nuestra empresa y evaluando su
@@ -136,7 +136,7 @@
                       <div class="box-icon-modern" >
                         <div class="box-icon-inner decorate-circle" ><span><img src="Recursos/Somos/u.png" width="90px;" ></span></div>
                         <div class="box-icon-caption">
-                          <h4><a href="#">Honestidad</a></h4>
+                          <h4><a href="#">HONESTIDAD</a></h4>
                           <p>Entendemos la responsabilidad y los alcances de nuestros acuerdos.</p>
                         </div>
                       </div>
@@ -145,7 +145,7 @@
                       <div class="box-icon-modern">
                         <div class="box-icon-inner decorate-rectangle"><span><img src="Recursos/Somos/s.png" width="90px"></span></div>
                         <div class="box-icon-caption">
-                          <h4><a href="#">Equidad</a></h4>
+                          <h4><a href="#">EQUIDAD</a></h4>
                           <p>Generamos desarrollo y oportunidades basados en el talento y dedicación.</p>
                         </div>
                       </div>
@@ -154,7 +154,7 @@
                       <div class="box-icon-modern">
                         <div class="box-icon-inner decorate-triangle"><span><img src="Recursos/Somos/h.png" style="width: 90px;"></span></div>
                         <div class="box-icon-caption">
-                          <h4><a href="#">Inclusión</a></h4>
+                          <h4><a href="#">INCLUSIÓN</a></h4>
                           <p>Creemos en un ambiente de convivencia y cooperación.</p>
                         </div>
                       </div>
@@ -197,10 +197,17 @@
           <h2> TEAM </h2>
               <div class="slider">
                  
-                  <div class="slide" ><img src="Recursos/Miembros/isaura.jpg" /><p>Isa</p><h6>...</h6></div>
-                  <div class="slide" ><img src="Recursos/Miembros/pao.jpg" /><p>Paola Estefania Cuellar Ibarra</p><h6>D...</h6></div>
-                  <div class="slide" ><img src="Recursos/Miembros/fernando.jpg" /><p>Fernando Andrés Lopez Ibarra</p><h6>Consultor TI</h6></div>
-                  <div class="slide" ><img src="Recursos/Miembros/luz.jpg" /><p>Luz Elena Razo Montoya</p><h6>Directora General</h6></div>
+                  <div class="slide" ><img src="Recursos/Miembros/Santiago.jpg" /><p>Santiago</p><h6>Programador</h6></div>
+                  <div class="slide" ><img src="Recursos/Miembros/miguel.jpg" /><p>Miguel</p><h6>Programador</h6></div>
+                  <div class="slide" ><img src="Recursos/Miembros/ezequiel.jpg" /><p>Ezequiel</p><h6>Procesos</h6></div>
+                  <div class="slide" ><img src="Recursos/Miembros/ana.jpg" /><p>Ana</p><h6>Desarrollo Humano</h6></div>
+                  <div class="slide" ><img src="Recursos/Miembros/adri.jpg" /><p>Adriana</p><h6>Diseño</h6></div>
+                  <div class="slide" ><img src="Recursos/Miembros/Karen.jpg" /><p>Karen</p><h6>Comunity Management</h6></div>
+                  <div class="slide" ><img src="Recursos/Miembros/isaura.jpg" /><p>isaura</p><h6>Dirección de Logística</h6></div>
+                  <div class="slide" ><img src="Recursos/Miembros/pao.jpg" /><p>Paola</p><h6>Dirección de Adninistración</h6></div>
+                  <div class="slide" ><img src="Recursos/Miembros/fernando.jpg" /><p>Fernando</p><h6>Consultor TI</h6></div>
+                  <div class="slide" ><img src="Recursos/Miembros/luz.jpg" /><p>Luz</p><h6>Directora General</h6></div>
+                  
               </div>
                     
         </section>
@@ -213,8 +220,8 @@
                 <div class="col-md-9  col-lg-ll col-xl-8 wow-outer">
                   <div class="innset-xl-right-30 innset-xl-left-30">
                     <div class="wow slideInDown">
-                        <h3 style="color:#EFB810">Empleado</h3>
-                            <h5 style="color:#b7b7b7">Del Mes</h5>
+                        <h3 style="color:#EFB810">EMPLEADO</h3>
+                            <h5 style="color:#b7b7b7">DEL MES</h5>
                         <div class="col-md-9 col-lg-7 wow-outer">
                           <div class="wow slideInDown">
                             
@@ -222,7 +229,7 @@
                         </div>
                       </div>
                       <div class="row row-50">
-                        <div class="col-md-6 col-lg-4 wow-outer">
+                        <div class="col-md-4 col-sm-6 col-xs-12 wow-outer">
                           <div class="wow fadeInUp">
                             <article class="box-causes">
                               <div class="box-causes-img"><img class="magen" src="Recursos/Miembros/pao.jpg" alt="" width="372" height="396"/><a class="button button-sm button-primary" href="#">Empleado del mes</a>
@@ -231,7 +238,7 @@
                             </article>
                           </div>
                         </div>
-                        <div class="col-md-6 col-lg-4 wow-outer">
+                        <div class="col-md-4 col-sm-6 col-xs-12 wow-outer">
                           <div class="wow fadeInUp">
                             <article class="box-causes">
                               <div class="box-causes-img"><img class="magen" src="Recursos/Miembros/Santiago.jpg" alt="" width="372" height="396"/><a class="button button-sm button-primary" href="#">Puntualidad</a>
@@ -240,7 +247,7 @@
                             </article>
                           </div>
                         </div>
-                        <div class="col-md-6 col-lg-4 wow-outer">
+                        <div class="col-md-4 col-sm-6 col-xs-12 wow-outer">
                           <div class="wow fadeInUp">
                             <article class="box-causes">
                               <div class="box-causes-img"><img class="magen" src="Recursos/Miembros/isaura.jpg" alt="" width="372" height="396"/><a class="button button-sm button-primary" href="#">Cumpleañero</a>
@@ -263,15 +270,7 @@
     <div class="snackbars" id="form-output-global"></div>
     <script src="js/core.min.js"></script>
     <script src="js/script.js"></script>
-   
     <script src="js/index.js"></script>
     <script src="js/team.js"></script>
-    <!-- coded by ragnar-->
-
-    <!-- Twitter Bootstrap -->
-   
-
-
-
   </body>
 </html>

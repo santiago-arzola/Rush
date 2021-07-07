@@ -12,7 +12,7 @@
                     <div style="margin: 2rem;">
                         <div class="col-md-4">
                             <div>
-                                <h4 style="color:white; text-transform:uppercase;letter-spacing: 2px;">rushtec</h4>
+                                <h4 style="color:white; text-transform:uppercase;letter-spacing: 2px!IMPORTANT;;">rushtec</h4>
                             </div>
                              <ul style="padding-left: 0rem;">
                                 <li><a href="./Nosotros.php" ><i class="fa fa-angle-right"></i> Acerca de nosotros</a>
@@ -25,7 +25,7 @@
                         </div>
                         <div class="col-md-4">
                             <div class="main-heading left_text">
-                                <h4 style="color:white; text-transform:uppercase; letter-spacing: 2px">Servicios</h4>
+                                <h4 style="color:white; text-transform:uppercase; letter-spacing: 2px!IMPORTANT;">Servicios</h4>
                             </div>
                             <ul style="padding-left: 0rem;">
                                 <li><a href="./IN.php"><i class="fa fa-angle-right"></i> Inteligencia de negocios</a></li>
@@ -37,7 +37,7 @@
                         </div>
                         <div class="col-md-4">
                             <div>
-                                <h4 style="color:white; text-transform:uppercase; letter-spacing: 2px">Contáctanos</h4>
+                                <h4 style="color:white; text-transform:uppercase; letter-spacing: 2px !IMPORTANT;">Contáctanos</h4>
                             </div>
                             <p >Lomas de San Francisco no. 8<br>
                                 Col. Lomas de Cervera, Guanajuato, Gto.<br>
@@ -55,7 +55,7 @@
                     </div>
                 </div>
                 <div>
-                    <p style="text-align: center;">Rushtec © Copyrights 2021</p>
+                    <p style="text-align: center;letter-spacing: .5px !IMPORTANT;">Rushtec © Copyrights 2021</p>
                 </div>
             </div>
         </div>

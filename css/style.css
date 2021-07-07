@@ -29,6 +29,7 @@ button::-moz-focus-inner {
 	border: 0;
 }
 
+
 *:focus {
 	outline: none;
 }
@@ -121,6 +122,12 @@ body {
 	letter-spacing: -0.03em;
 	-webkit-text-size-adjust: none;
 	-webkit-font-smoothing: subpixel-antialiased;
+}
+.ajust{
+	display: block;
+  margin: 0 auto;
+  max-width: 60%;
+  width: 80%;
 }
 
 h1, h2, h3, h4, h5, h6, [class^='heading-'] {
@@ -274,7 +281,7 @@ p [style*='max-width'] {
 }
 
 ::selection {
-	background: #7FBC4E;
+	background: #4e93bc;
 	color: #ffffff;
 }
 
@@ -5658,7 +5665,7 @@ html:not(.lt-ie10) .not-animated {
 	line-height: 56px;
 	color: #ffffff;
 	overflow: hidden;
-	background: #7FBC4E;
+	background: #4e93bc;
 	border-radius: 5px;
 	text-align: center;
 	text-decoration: none;
