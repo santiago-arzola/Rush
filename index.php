@@ -135,13 +135,13 @@
 					</div>
 					
 					<div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="3" data-slice2-rotation="3" data-slice1-scale="2" data-slice2-scale="1">
-						
-						<div class="bg-img bg-img-2"></div>
+						<a href="Clientes.php">
+						<div class="bg-img bg-img-6"></div>
 						<div class="slide-caption">
                             <div class="caption-content">
                             
                             </div>
-                        </div>
+                        </div></a>
 
 					</div>
 
