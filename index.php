@@ -45,8 +45,8 @@
     <body id="body">
 
 		<!-- preloader -->
-		<div id="preloader">
-            <div class="loder-box">
+		<div id="preloader" >
+            <div class="loder-box" style="background: transparent;">
             	<div> <img src="./Recursos/Logos/rush junio.png"></div>
             </div>
 		</div>
@@ -391,8 +391,6 @@
         <script src="js/jquery.singlePageNav.min.js"></script>
 		<!-- jquery.fancybox.pack -->
         <script src="js/jquery.fancybox.pack.js"></script>
-		<!-- Google Map API -->
-		<script src="http://maps.google.com/maps/api/js?sensor=false"></script>
 		<!-- Owl Carousel -->
         <script src="js/owl.carousel.min.js"></script>
         <!-- jquery easing -->
