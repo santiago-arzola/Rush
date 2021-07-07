@@ -173,14 +173,13 @@
                 <div class="box-img-animate">
                   
                   <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;: 150, &quot;x&quot;: 0,  &quot;smoothness&quot;: 50 }"><img src="Recursos/Somos/miembros/271x191 ezequiel.jpg" alt=""></div>
-                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;: 0, &quot;x&quot;: 90,  &quot;smoothness&quot;: 50 }"><img src="Recursos/Somos/miembros/217x153 ale.jpg" alt=""></div>
+                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;: 0, &quot;x&quot;: 90,  &quot;smoothness&quot;: 50 }"><img src="Recursos/Somos/miembros/231x191 santi.jpg" alt=""></div>
                   <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;:70, &quot;x&quot;: -20,  &quot;smoothness&quot;: 50 }"><img src="Recursos/Somos/miembros/217x153 karen.jpg" alt=""></div>
                   <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;:20, &quot;x&quot;: 20,  &quot;smoothness&quot;: 50 }"><img src="Recursos/Somos/miembros/339x239 ana.jpg" alt=""></div>
-                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;:60, &quot;x&quot;: 70,  &quot;smoothness&quot;: 50 }"><img src="Recursos/Somos/miembros/271x191 pablo.jpg" alt=""></div>
+                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;:60, &quot;x&quot;: 70,  &quot;smoothness&quot;: 50 }"><img src="Recursos/Somos/miembros/126x179 pao.jpg" alt=""></div>
                   <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;:0, &quot;x&quot;: 60,  &quot;smoothness&quot;: 50 }"><img src="Recursos/Somos/miembros/179x126 adri.jpg" alt=""></div>
                   <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;: 70, &quot;x&quot;: -70,  &quot;smoothness&quot;: 50 }"><img src="Recursos/Somos/miembros/231x191 ana.jpg" alt=""></div>
-                  
-                    <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;: 50, &quot;x&quot;: 90,  &quot;smoothness&quot;: 60 }"><img src="Recursos/Somos/miembros/217x153 miguel.jpg" alt=""></div>
+                  <div class="box-img-animate-item" data-parallax-scroll="{&quot;y&quot;: 50, &quot;x&quot;: 90,  &quot;smoothness&quot;: 60 }"><img src="Recursos/Somos/miembros/217x153 miguel.jpg" alt=""></div>
 
                 </div>
 
