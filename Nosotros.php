@@ -55,7 +55,7 @@
         <?php include_once('comun/menu.php') ?>
       <!-- Inicio-->
         <section class="section section-lg section-main-bunner section-main-bunner-filter">
-          <div class="bg-img bg-img-rt"></div>
+          <div class="main-bunner-img" style="width: all; background-image: url(&quot;Recursos/Somos/rt.jpg&quot;);"></div>
           <div class="main-bunner-inner">
             <div class="container">
               <div class="row row-50 justify-content-lg-center align-items-lg-center">
