@@ -1,13 +1,13 @@
 .imagen1{
 	width: 700px;
 	height: 400px;
-	background-image: url(../Recursos/Somos/imagen1.jpg);
+	background-image: url(../Recursos/Somos/i1.jpg);
 	margin: 100px auto;
 	position: relative;
 	
 }
 .imagen2{
-	background-image: url(../Recursos/Somos/imagen2.jpg);
+	background-image: url(../Recursos/Somos/i2.jpg);
 	position: absolute;
 	top: 0;
 	left: 0;

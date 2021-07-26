@@ -77,7 +77,7 @@
 
                                         <p style="color: white;">Gobierno</p>
                                         <p style="color: white;">Iniciativa</p> 
-                                        <p style="color: white;">PrivadaIndustria</p>
+                                        <p style="color: white;">Privada Industria</p>
                                     </div>
                                 </div>
                             </div>

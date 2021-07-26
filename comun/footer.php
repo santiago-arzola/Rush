@@ -31,7 +31,7 @@
                                 <li><a href="./IN.php"><i class="fa fa-angle-right"></i> Inteligencia de negocios</a></li>
                                 <li><a href="./Infraestructura.php"><i class="fa fa-angle-right"></i>
                                         Infraestructura</a></li>
-                                <li><a href="./Logistica.php"><i class="fa fa-angle-right"></i> Logistica</a>
+                                <li><a href="./Logistica.php"><i class="fa fa-angle-right"></i> Logística</a>
                                 </li>
                             </ul>
                         </div>

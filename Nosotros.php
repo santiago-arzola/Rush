@@ -41,7 +41,7 @@
         <img src="./Recursos/Logos/rush junio.png">
       </div>
     </div>
-    <div class="page"><a ></a>
+    <div class="page" style="margin-bottom: -3rem;">
       <!-- Page Header-->
      
         <!-- RD Navbar-->
@@ -115,16 +115,16 @@
               
               
 
-              <div class="col-lg-6 col-xl-5">
+              <div class="col-lg-6 col-xl-5" style="padding: 2rem;">
                 <div class="innset-xl-left-70">
-                  <h3>NUESTROS VALORES</h3>
+                  <h3 style="text-align: center;">NUESTROS VALORES</h3>
                   <p class="text-opacity-80">En Rush Tec creemos en la forma de nuestro equipo y sus valores dentro de la empresa.</p>
                   <div class="row row-50">
                     <div class="col-md-6 col-lg-12">
                       <div class="box-icon-modern">
                         <div class="box-icon-inner decorate-triangle" ><span ><img src="Recursos/Somos/r.png"  width="90px;"></span></div>
                         <div class="box-icon-caption">
-                          <h4><a href="#">CONFIANZA</a></h4>
+                          <h4><a>CONFIANZA</a></h4>
                           <p>
                             Fomentamos relaciones a largo plazo con nuestros clientes
                             demostrando la calidad de nuestra empresa y evaluando su
@@ -136,7 +136,7 @@
                       <div class="box-icon-modern" >
                         <div class="box-icon-inner decorate-circle" ><span><img src="Recursos/Somos/u.png" width="90px;" ></span></div>
                         <div class="box-icon-caption">
-                          <h4><a href="#">HONESTIDAD</a></h4>
+                          <h4><a>HONESTIDAD</a></h4>
                           <p>Entendemos la responsabilidad y los alcances de nuestros acuerdos.</p>
                         </div>
                       </div>
@@ -145,7 +145,7 @@
                       <div class="box-icon-modern">
                         <div class="box-icon-inner decorate-rectangle"><span><img src="Recursos/Somos/s.png" width="90px"></span></div>
                         <div class="box-icon-caption">
-                          <h4><a href="#">EQUIDAD</a></h4>
+                          <h4><a>EQUIDAD</a></h4>
                           <p>Generamos desarrollo y oportunidades basados en el talento y dedicación.</p>
                         </div>
                       </div>
@@ -154,7 +154,7 @@
                       <div class="box-icon-modern">
                         <div class="box-icon-inner decorate-triangle"><span><img src="Recursos/Somos/h.png" style="width: 90px;"></span></div>
                         <div class="box-icon-caption">
-                          <h4><a href="#">INCLUSIÓN</a></h4>
+                          <h4><a>INCLUSIÓN</a></h4>
                           <p>Creemos en un ambiente de convivencia y cooperación.</p>
                         </div>
                       </div>
@@ -185,7 +185,7 @@
         <section>
           <h2> NUESTRO EQUIPO DE TRABAJO</h2>
           <p align="justify" style="padding-left: 15%; padding-right: 15%">En Rush Tec tenemos un equipo de trabajadores multidiciplinario. Diseñamos soluciones dirigidas a los sectores productivos y de consumo del mercado, gracias al respaldo de nuestros socioscomerciales, ofrecemos integraciones con la mejor tecnología. Nuestros proyectos cuentan con un alto grado de personalización, siempre con la certeza de que obtendrá los datos, mediciones y metodologías enfocados en el cumplimiento de sus objetivos.<br></p>
-          <br><img class="ajust" src='Recursos/Somos/imagen1.jpg' onmouseover="this.src='Recursos/Somos/imagen2.jpg';" onmouseout="this.src='Recursos/Somos/imagen1.jpg';" />
+          <br><img class="ajust" src='Recursos/Somos/i1.jpg' onmouseover="this.src='Recursos/Somos/i2.jpg';" onmouseout="this.src='Recursos/Somos/i1.jpg';" />
           <p align="justify" style="padding-left: 15%; padding-right: 15%">Combinamos las mejores metodologías y tecnología disponibles del mercado para desarrollar la competitividad de su empresa. Nuestras soluciones son siempre a la medida de nuestros clientes, creemos en la innovación tecnológica como un acelerador de negocios.</p>
 
          
@@ -193,7 +193,7 @@
 
 
       <!--Team-->
-        <section id="portfolio" >
+        <section id="portfolio" style="margin-top: 8rem;" >
           <h2> TEAM </h2>
               <div class="slider">
                  
@@ -203,8 +203,8 @@
                   <div class="slide" ><img src="Recursos/Miembros/ana.jpg" /><p>Ana</p><h6>Desarrollo Humano</h6></div>
                   <div class="slide" ><img src="Recursos/Miembros/adri.jpg" /><p>Adriana</p><h6>Diseño</h6></div>
                   <div class="slide" ><img src="Recursos/Miembros/Karen.jpg" /><p>Karen</p><h6>Comunity Management</h6></div>
-                  <div class="slide" ><img src="Recursos/Miembros/isaura.jpg" /><p>isaura</p><h6>Dirección de Logística</h6></div>
-                  <div class="slide" ><img src="Recursos/Miembros/pao.jpg" /><p>Paola</p><h6>Dirección de Adninistración</h6></div>
+                  <div class="slide" ><img src="Recursos/Miembros/isaura.jpg" /><p>Isaura</p><h6>Dirección de Logística</h6></div>
+                  <div class="slide" ><img src="Recursos/Miembros/pao.jpg" /><p>Paola</p><h6>Dirección de Administración</h6></div>
                   <div class="slide" ><img src="Recursos/Miembros/fernando.jpg" /><p>Fernando</p><h6>Consultor TI</h6></div>
                   <div class="slide" ><img src="Recursos/Miembros/luz.jpg" /><p>Luz</p><h6>Directora General</h6></div>
                   
@@ -264,10 +264,8 @@
             </div>
           </div>
         </section>
-      <!-- Page Footer-->
         <?php include_once('comun/footer.php') ?>
     </div>
-    <div class="snackbars" id="form-output-global"></div>
     <script src="js/core.min.js"></script>
     <script src="js/script.js"></script>
     <script src="js/index.js"></script>

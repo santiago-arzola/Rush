@@ -4,8 +4,7 @@ let active = false;
 
 // First we'll have to set up our event listeners
 // We want to watch for clicks on our scroller
-document.querySelector('.scroller').addEventListener('mousedown',function(){
-    active = true;
+
     // Add our scrolling class so the scroller has full opacity while active
     document.querySelector('.scroller').classList.add('scrolling');
 });

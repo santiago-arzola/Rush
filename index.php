@@ -45,7 +45,7 @@
     <body id="body">
 
 		<!-- preloader -->
-		<div id="preloader" >
+		<div id="preloader">
             <div class="loder-box" style="background: transparent;">
             	<div> <img src="./Recursos/Logos/rush junio.png"></div>
             </div>
@@ -299,7 +299,7 @@
 			</section>
 
 		<!-- Testimonial -->
-		<section id="about" >
+		<section id="about"  style="display: none;">
 				<div class="container">
 			<section id="testimonials2" class="parallax" >
 				<div class="overlay">
